@@ -1,0 +1,28 @@
+{
+  "name": "minnpost-hazmat",
+  "version": "0.0.0",
+  "main": "index.html",
+  "homepage": "https://github.com/minnpost/minnpost-hazmat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minnpost/minnpost-hazmat"
+  },
+  "bugs": "https://github.com/minnpost/minnpost-hazmat/issues",
+  "license": "MIT",
+  "author": {
+    "name": "MinnPost",
+    "email": "data@minnpost.com"
+  },
+  "dependencies": {
+    "jquery": "~1.9",
+    "underscore": "~1.5.2",
+    "backbone": "~1.1.0",
+    "ractive": "~0.3.7",
+    "ractive-backbone": "~0.1.0",
+    "unsemantic": "*",
+    "undefined": "*",
+    "requirejs": "~2.1.9",
+    "text": "~2.0.10"
+  }
+}
+
