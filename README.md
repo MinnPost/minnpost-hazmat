@@ -22,9 +22,11 @@ Only about 4 percent of incidents are considered "serious" (`HMIS_serious_inc_in
 
 ## Data processing
 
-The following describes how the data was processed and is not necessarily needed to run or install the application, but more included for reference, transparency, and development.
-
-*Describe data processing here, include commands.  Put data processing scripts or configurations in the ```data-processing``` folder.*
+1. The layout information originally recieved was not fully accurate or complete, so some minor updates were made and saved to `data/layour-cleaned.csv`.
+1. To import the data into an SQLite database at `data/hazmat.db`, run the following: `python data-processing/import-sql.py`.
+    * Note that this may take some time.
+    * This is a destructive process and will remove data from the database.
+1. Create JSON files of specific sets of data with: `python data-processing/questions.py`
 
 ## Development and running locally
 
@@ -40,12 +42,11 @@ All commands are assumed to on the [command line](http://en.wikipedia.org/wiki/C
 1. Install [Bower](http://bower.io/): `npm install -g bower`
 1. Install [Ruby](http://www.ruby-lang.org/en/downloads/), though it is probably already installed on your system.
 1. Install [Bundler](http://gembundler.com/): `gem install bundler`
-
 1. Install [Sass](http://sass-lang.com/): `gem install sass`
    * On a Mac do: `sudo gem install sass`
-   1. Install [Compass](http://compass-style.org/): `gem install compass`
+1. Install [Compass](http://compass-style.org/): `gem install compass`
    * On a Mac do: `sudo gem install compass`
-
+1. Install [pip](https://pypi.python.org/pypi/pip): `easy_install pip`
 
 ### Get code and install packages
 
@@ -55,10 +56,8 @@ Get the code for this project and install the necessary dependency libraries and
 1. Go into the template directory: `cd minnpost-hazmat`
 1. Install NodeJS packages: `npm install`
 1. Install Bower components: `bower install`
-
-
-
-
+1. (optional) Use a [virtualenv](https://pypi.python.org/pypi/virtualenv).  If you don't use a `virtualenv`, you may have to use `sudo` to install Python packages.
+1. Install Python packages: `pip install -r requirements.txt`
 
 ### Running
 

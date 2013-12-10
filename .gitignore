@@ -1,3 +1,6 @@
+data/hazmat.db
+data/original
+
 node_modules/
 components/
 bower_components/
