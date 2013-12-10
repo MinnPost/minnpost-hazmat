@@ -4,7 +4,11 @@ A look at HAZMAT accidents
 
 ## Data
 
-Data compiled by [IRE](http://www.ire.org/nicar/database-library/databases/hazardous-materials/) and exported for MN only data.
+Data compiled by [IRE](http://www.ire.org/nicar/database-library/databases/hazardous-materials/) and exported for MN only data.  We do not have premission to reproduce here, but there files should be put in the `data` folder with the following structure:
+
+* `data/original/Minnesota.csv`
+* `data/original/hazmat_layout.xlsx`
+* `data/original/state by decade.xlsx`
 
 ### Notes
 
