@@ -6,19 +6,25 @@
  */
 define('minnpost-hazmat', [
   'underscore', 'jquery', 'Ractive', 'Highcharts', 'helpers',
+  'text!../data/question-incidents_total.json',
   'text!../data/question-incidents_by_year.json',
   'text!../data/question-incidents_by_material.json',
+  'text!../data/question-incidents_by_carrier.json',
+  'text!../data/question-incidents_by_shipper.json',
   'text!templates/application.mustache',
   'text!templates/loading.mustache'
 ],
 function(_, $, Ractive, Highcharts, helpers,
-  dByYear, dByMaterial,
+  dTotal, dByYear, dByMaterial, dByCarrier, dByShipper,
   tApplication, tLoading) {
 
   // Parse the incoming data
   var pData = {
+    total: JSON.parse(dTotal),
     byYear: JSON.parse(dByYear),
-    byMaterial: JSON.parse(dByMaterial)
+    byMaterial: JSON.parse(dByMaterial),
+    byCarrier: _.first(JSON.parse(dByCarrier), 10),
+    byShipper: _.first(JSON.parse(dByShipper), 10)
   };
 
   // Constructor for app
@@ -44,7 +50,11 @@ function(_, $, Ractive, Highcharts, helpers,
         template: tApplication,
         data: {
           sources: pData,
-          stats: this.makeStats()
+          stats: this.makeStats(),
+          arrayItem: function(arr, i) {
+            return arr[i];
+          },
+          fNum: this.formatNumber
         },
         partials: {
           loading: tLoading
@@ -91,6 +101,7 @@ function(_, $, Ractive, Highcharts, helpers,
       return {
         // There are two years that have the max
         //topYear: _.max(pData.byYear, function(d) { return d[1]; })[0],
+        total: pData.total[0][0],
         topYearCount: _.max(pData.byYear, function(d) { return d[1]; })[1]
       };
     },

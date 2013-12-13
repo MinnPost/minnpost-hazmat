@@ -5,12 +5,12 @@
   <p>Over the past 40 years, many things have been spilled in Minnesota.  Here are some highlights.  Over the past 40 years, many things have been spilled in Minnesota.  Here are some highlights.  Over the past 40 years, many things have been spilled in Minnesota.  Here are some highlights.</p>
 
   <div class="single-stat section">
-    <div class="main-number">9,567</div>
+    <div class="main-number">{{ fNum(stats.total, 0) }}</div>
     Incidents over the past 40 years
   </div>
 
   <div class="section">
-    <div class="section-heading">1994 and 2006 both saw the most incidents with {{ stats.topYearCount }}.</div>
+    <div class="section-heading">1994 and 2006 both saw the most incidents with {{ fNum(stats.topYearCount, 0) }}.</div>
 
     <div class="section-visual">
       <div class="chart chart-incidents-by-year"></div>
@@ -27,6 +27,34 @@
     </div>
 
     <div class="section-footing">Blah balh alsb abla lbhal abla.  Blah balh alsb abla lbhal abla. Blah balh alsb abla lbhal abla.</div>
+  </div>
+
+  <div class="section">
+    <div class="section-heading">Top carriers</div>
+
+    <div class="section-visual">
+      <ul>
+        {{#sources.byCarrier:i}}
+          <li>{{ arrayItem(., 0) }}: <strong>{{ fNum(arrayItem(., 1), 0) }}</li>
+        {{/sources.byCarrier}}
+      </ul>
+    </div>
+
+    <div class="section-footing">Blah akbskjdfh ksjhdf ksjhdf ksjd fsdkjhf skjfh skjdfh skjfh wodihf wkdj flksjf lkjdf lskf pwiojfd lksdjf lskjf sdlkfjowijdf lksjdf a;lkdjf a;lkj ;l dk lskfj lskjdf woiu fkj lskjf alkjsd flskjls fow l ls ldk lsk f slkfj ls.</div>
+  </div>
+
+  <div class="section">
+    <div class="section-heading">Top shippers</div>
+
+    <div class="section-visual">
+      <ul>
+        {{#sources.byShipper:i}}
+          <li>{{ arrayItem(., 0) }}: <strong>{{ fNum(arrayItem(., 1), 0) }}</li>
+        {{/sources.byShipper}}
+      </ul>
+    </div>
+
+    <div class="section-footing">Blah akbskjdfh ksjhdf ksjhdf ksjd fsdkjhf skjfh skjdfh skjfh wodihf wkdj flksjf lkjdf lskf pwiojfd lksdjf lskjf sdlkfjowijdf lksjdf a;lkdjf a;lkj ;l dk lskfj lskjdf woiu fkj lskjf alkjsd flskjls fow l ls ldk lsk f slkfj ls.</div>
   </div>
 
 </div>

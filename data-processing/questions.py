@@ -93,18 +93,24 @@ common_query_desc = session.query(Incident.Rpt_Num, Incident.C_R_Name, Incident.
 # Count of reports
 count = func.count(distinct(Incident.Rpt_Num))
 
+# Total number of incidents
+print "================================="
+print "Making: total incidents"
+incidents_total = session.query(count).all()
+write_json('incidents_total', incidents_total)
+
 # Number of incidents per year
 print "================================="
 print "Making: incidents by year"
 year = func.strftime("%Y", Incident.Date_Inc)
-incident_by_year = session.query(year, count).group_by(year).order_by(year).all()
-write_json('incident_by_year', incident_by_year)
+incidents_by_year = session.query(year, count).group_by(year).order_by(year).all()
+write_json('incidents_by_year', incidents_by_year)
 
 print "================================="
 print "Making: incidents by hour"
 hour = func.cast(func.cast(Incident.Time_Inc, Numeric()) / 100, Integer)
-incident_by_hour = session.query(hour, count).group_by(hour).order_by(desc(count)).all()
-write_json('incident_by_hour', incident_by_hour)
+incidents_by_hour = session.query(hour, count).group_by(hour).order_by(desc(count)).all()
+write_json('incidents_by_hour', incidents_by_hour)
 
 print "================================="
 print "Making: incidents by mode of transportation"
@@ -128,19 +134,29 @@ write_json('incidents_by_orig_state', incidents_by_orig_state)
 
 print "================================="
 print "Making: incidents by weather condition"
-incidents_by_weather_cond = session.query(Incident.Weather_Cond, count).group_by(Incident.Weather_Cond).order_by(count).all()
+incidents_by_weather_cond = session.query(Incident.Weather_Cond, count).group_by(Incident.Weather_Cond).order_by(desc(count)).all()
 write_json('incidents_by_weather_cond', incidents_by_weather_cond)
 
 print "================================="
-print "Making: incidents by monetary damage"
+print "Making: incidents by monetary damage (grouped by $1000 increments)"
 thousands = func.cast(Incident.Tot_Amt_of_Damages / 1000, Integer) * 1000
-incident_by_monetary_damage = session.query(thousands, count).group_by(thousands).order_by(count).all()
-write_json('incident_by_monetary_damage', incident_by_monetary_damage)
+incidents_by_monetary_damage = session.query(thousands, count).group_by(thousands).order_by(desc(count)).all()
+write_json('incidents_by_monetary_damage', incidents_by_monetary_damage)
 
 print "================================="
-print "Making: incidents by material"
-incidents_by_material = session.query(Incident.Commod_Long_Name, count).group_by(Incident.Commod_Long_Name).order_by(count).all()
+print "Making: incidents by material (top 100)"
+incidents_by_material = session.query(Incident.Commod_Long_Name, count).group_by(Incident.Commod_Long_Name).order_by(desc(count)).limit(100).all()
 write_json('incidents_by_material', incidents_by_material)
+
+print "================================="
+print "Making: incidents by carrier (top 100)"
+incidents_by_carrier = session.query(Incident.C_R_Name, count).group_by(Incident.C_R_Name).order_by(desc(count)).limit(100).all()
+write_json('incidents_by_carrier', incidents_by_carrier)
+
+print "================================="
+print "Making: incidents by shipper (top 100)"
+incidents_by_shipper = session.query(Incident.Ship_Name, count).group_by(Incident.Commod_Long_Name).order_by(desc(count)).limit(100).all()
+write_json('incidents_by_shipper', incidents_by_shipper)
 
 print "================================="
 print "Making: incidents where explosions happened"
