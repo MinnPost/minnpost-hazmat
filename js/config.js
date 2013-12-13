@@ -15,6 +15,7 @@ require.config({
     'jquery': '../bower_components/jquery/jquery.min',
     'underscore': '../bower_components/underscore/underscore-min',
     'Ractive': '../bower_components/ractive/build/Ractive-legacy.min',
+    'highcharts': '../bower_components/highcharts/highcharts',
     'minnpost-hazmat': 'app'
   }
 });

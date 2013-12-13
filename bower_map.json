@@ -40,5 +40,12 @@
       "unsemantic/assets/stylesheets/ie"
     ],
     "rname": "unsemantic"
+  },
+  "highcharts": {
+    "js": [
+      "highcharts/highcharts"
+    ],
+    "rname": "highcharts",
+    "returns": "Highcharts"
   }
 }
