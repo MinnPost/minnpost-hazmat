@@ -1,5 +1,1385 @@
 [
     [
+        "GASOLINE INCLUDES GASOLINE MIXED WITH ETHYL ALCOHOL  WITH NOT MORE THAN 10% ALCOHOL", 
+        623
+    ], 
+    [
+        "PAINT RELATED MATERIAL INCLUDING PAINT THINNING  DRYING  REMOVING  OR REDUCING COMPOUND", 
+        554
+    ], 
+    [
+        "CORROSIVE LIQUIDS  N.O.S.", 
+        519
+    ], 
+    [
+        "FLAMMABLE LIQUIDS  N.O.S.", 
+        513
+    ], 
+    [
+        "PAINT INCLUDING PAINT  LACQUER  ENAMEL  STAIN  SHELLAC SOLUTIONS  VARNISH  POLISH  LIQUID FILLER AND LIQUID LACQUER BASE", 
+        440
+    ], 
+    [
+        "RESIN SOLUTION  FLAMMABLE", 
+        327
+    ], 
+    [
+        "COMPOUNDS  CLEANING LIQUID", 
+        309
+    ], 
+    [
+        "BATTERIES  WET  FILLED WITH ACID  ELECTRIC STORAGE", 
+        229
+    ], 
+    [
+        "SODIUM HYDROXIDE  SOLUTION", 
+        215
+    ], 
+    [
+        "ADHESIVES  CONTAINING A FLAMMABLE LIQUID", 
+        205
+    ], 
+    [
+        "HYDROCHLORIC ACID  SOLUTION", 
+        197
+    ], 
+    [
+        "CORROSIVE LIQUID  BASIC  INORGANIC  N.O.S.", 
+        196
+    ], 
+    [
+        "ISOPROPANOL OR ISOPROPYL ALCOHOL", 
+        161
+    ], 
+    [
+        "SULFURIC ACID", 
+        158
+    ], 
+    [
+        "POTASSIUM HYDROXIDE  SOLUTION", 
+        124
+    ], 
+    [
+        "FUEL OIL  NO. 1  2  4  5  OR 6", 
+        122
+    ], 
+    [
+        "CORROSIVE LIQUID  ACIDIC  INORGANIC  N.O.S.", 
+        115
+    ], 
+    [
+        "CEMENT", 
+        114
+    ], 
+    [
+        "METHANOL", 
+        113
+    ], 
+    [
+        "AMMONIA ANHYDROUS", 
+        110
+    ], 
+    [
+        "FUEL OIL (NO. 1  2  4  5  OR 6)", 
+        110
+    ], 
+    [
+        "CAUSTIC ALKALI LIQUIDS  N.O.S.", 
+        103
+    ], 
+    [
+        "FIRE EXTINGUISHERS CONTAINING COMPRESSED OR LIQUEFIED GAS", 
+        95
+    ], 
+    [
+        "PAINT", 
+        95
+    ], 
+    [
+        "HYDROGEN PEROXIDE AND PEROXYACETIC ACID MIXTURES  STABILIZED WITH ACIDS  WATER  AND NOT MORE THAN 5 PERCENT PEROXYACETIC ACID", 
+        92
+    ], 
+    [
+        "PHOSPHORIC ACID SOLUTION", 
+        84
+    ], 
+    [
+        "PRINTING INK  FLAMMABLE OR PRINTING INK RELATED MATERIAL (INCLUDING PRINTING INK THINNING OR REDUCING COMPOUND)  FLAMMABLE", 
+        84
+    ], 
+    [
+        "CORROSIVE LIQUID  ACIDIC  ORGANIC  N.O.S.", 
+        83
+    ], 
+    [
+        "ALCOHOLS  N.O.S.", 
+        66
+    ], 
+    [
+        "DIESEL FUEL", 
+        65
+    ], 
+    [
+        "ETHANOL OR ETHYL ALCOHOL OR ETHANOL SOLUTIONS OR ETHYL ALCOHOL SOLUTIONS", 
+        59
+    ], 
+    [
+        "PETROLEUM DISTILLATES  N.O.S. OR PETROLEUM PRODUCTS  N.O.S.", 
+        59
+    ], 
+    [
+        "PETROLEUM GASES  LIQUEFIED OR LIQUEFIED PETROLEUM GAS", 
+        59
+    ], 
+    [
+        "BATTERY FLUID  ACID", 
+        53
+    ], 
+    [
+        "COATING SOLUTION ( INCLUDES SURFACE TREATMENTS OR COATINGS USED FOR INDUSTRIAL OR OTHER PURPOSES SUCH AS VEHICLE UNDERCOATING  DRUM OR BARREL LINING )", 
+        52
+    ], 
+    [
+        "FLAMMABLE LIQUIDS  CORROSIVE  N.O.S.", 
+        52
+    ], 
+    [
+        "COMPOUND  LACQUER  PAINT  OR VARNISH  REMOVING  REDUCING  OR THINNING  LIQUID", 
+        51
+    ], 
+    [
+        "INK PRINTERS FLAMMABLE", 
+        50
+    ], 
+    [
+        "HYPOCHLORITE SOLUTIONS WITH MORE THAN 5 PERCENT BUT LESS THAN 16 PERCENT AVAILABLE CHLORINE", 
+        47
+    ], 
+    [
+        "XYLENES", 
+        47
+    ], 
+    [
+        "ACETONE", 
+        46
+    ], 
+    [
+        "METHYL METHACRYLATE MONOMER  STABILIZED", 
+        46
+    ], 
+    [
+        "ACID  LIQUID  N.O.S.", 
+        44
+    ], 
+    [
+        "CONSUMER COMMODITY", 
+        43
+    ], 
+    [
+        "EXTRACTS  FLAVORING  LIQUID", 
+        42
+    ], 
+    [
+        "NITRIC ACID OTHER THAN RED FUMING  WITH AT LEAST 65 PERCENT  BUT NOT MORE THAN 70 PERCENT NITRIC ACID", 
+        42
+    ], 
+    [
+        "AMMONIA SOLUTION  RELATIVE DENSITY BETWEEN 0.880 AND 0.957 AT 15 DEGREES C IN WATER  WITH MORE THAN 10 PERCENT BUT NOT MORE THAN 35 PERCENT AMMONIA", 
+        41
+    ], 
+    [
+        "COMPOUND  CLEANING  LIQUID (CONTAINING PHOSPHORIC ACID  ACETIC ACID  SODIUM HYDROXIDE OR POTASSIUM HYDROXIDE)", 
+        40
+    ], 
+    [
+        "POISONOUS LIQUIDS  N.O.S.", 
+        40
+    ], 
+    [
+        "COMBUSTIBLE LIQUID  N.O.S.", 
+        39
+    ], 
+    [
+        "ENVIRONMENTALLY HAZARDOUS SUBSTANCES  LIQUID  N.O.S.", 
+        38
+    ], 
+    [
+        "METHYL ETHYL KETONE", 
+        35
+    ], 
+    [
+        "HYDROGEN PEROXIDE  AQUEOUS SOLUTIONS WITH NOT LESS THAN 20 PERCENT BUT NOT MORE THAN 40 PERCENT HYDROGEN PEROXIDE (STABILIZED AS NECESSARY)", 
+        34
+    ], 
+    [
+        "TOLUENE", 
+        33
+    ], 
+    [
+        "AEROSOLS  FLAMMABLE  (EACH NOT EXCEEDING 1 L CAPACITY)", 
+        28
+    ], 
+    [
+        "ELEVATED TEMPERATURE LIQUID  N.O.S.  AT OR ABOVE 100 C AND BELOW ITS FLASH POINT (INCLUDING MOLTEN METALS  MOLTEN SALTS  ETC.)", 
+        28
+    ], 
+    [
+        "ORGANOPHOSPHORUS PESTICIDES  SOLID  TOXIC", 
+        28
+    ], 
+    [
+        "ACETIC ACID SOLUTION  NOT LESS THAN 50 PERCENT BUT NOT MORE THAN 80 PERCENT ACID  BY MASS", 
+        27
+    ], 
+    [
+        "DICHLOROMETHANE", 
+        27
+    ], 
+    [
+        "FUEL OIL", 
+        27
+    ], 
+    [
+        "ORGANIC PEROXIDE TYPE D  LIQUID", 
+        27
+    ], 
+    [
+        "AMINES  LIQUID  CORROSIVE  N.O.S. OR POLYAMINES  LIQUID  CORROSIVE  N.O.S.", 
+        26
+    ], 
+    [
+        "COMPOUNDS  TREE KILLING  LIQUID OR COMPOUNDS  WEED KILLING  LIQUID", 
+        26
+    ], 
+    [
+        "PESTICIDES  LIQUID  TOXIC  N.O.S.", 
+        25
+    ], 
+    [
+        "COMPOUND  CLEANING  LIQUID (CONTAINING HYDROCHLORIC (MURIATIC) ACID)", 
+        24
+    ], 
+    [
+        "CORROSIVE LIQUID  BASIC  ORGANIC  N.O.S.", 
+        24
+    ], 
+    [
+        "CORROSIVE SOLIDS  N.O.S.", 
+        23
+    ], 
+    [
+        "ENVIRONMENTALLY HAZARDOUS SUBSTANCES  SOLID  N.O.S.", 
+        23
+    ], 
+    [
+        "GASOHOL GASOLINE MIXED WITH ETHYL ALCOHOL  WITH NOT MORE THAN 10% ALCOHOL", 
+        23
+    ], 
+    [
+        "NAPHTHA  PETROLEUM", 
+        23
+    ], 
+    [
+        "SULFURIC ACID WITH NOT MORE THAN 51% ACID", 
+        22
+    ], 
+    [
+        "ACETIC ACID  GLACIAL OR ACETIC ACID SOLUTION  WITH MORE THAN 80 PERCENT ACID  BY MASS", 
+        21
+    ], 
+    [
+        "ETHYL ACETATE", 
+        21
+    ], 
+    [
+        "STYRENE MONOMER  STABILIZED", 
+        20
+    ], 
+    [
+        "DISINFECTANTS  LIQUID  CORROSIVE N.O.S.", 
+        19
+    ], 
+    [
+        "HYDROGEN  PEROXIDE  AQUEOUS SOLUTIONS WITH MORE THAN 40 PERCENT BUT NOT MORE THAN 60 PERCENT HYDROGEN PEROXIDE (STABILIZED AS NECESSARY)", 
+        19
+    ], 
+    [
+        "TOXIC LIQUIDS  ORGANIC  N.O.S.", 
+        19
+    ], 
+    [
+        "DENATURED ALCOHOL", 
+        18
+    ], 
+    [
+        "OXIDIZING LIQUID  CORROSIVE  N.O.S.", 
+        18
+    ], 
+    [
+        "SODIUM HYDROXIDE  SOLID", 
+        18
+    ], 
+    [
+        "COMPRESSED GAS  N.O.S", 
+        17
+    ], 
+    [
+        "CORROSIVE LIQUIDS  TOXIC  N.O.S.", 
+        17
+    ], 
+    [
+        "NITROGEN  REFRIGERATED LIQUID (CRYOGENIC LIQUID)", 
+        17
+    ], 
+    [
+        "ORGANIC PEROXIDE TYPE E  LIQUID", 
+        17
+    ], 
+    [
+        "1 1 1-TRICHLOROETHANE", 
+        16
+    ], 
+    [
+        "CORROSIVE SOLID  BASIC  INORGANIC  N.O.S.", 
+        16
+    ], 
+    [
+        "FUEL  AVIATION  TURBINE ENGINE", 
+        16
+    ], 
+    [
+        "HYDROFLUORIC ACID SOLUTION", 
+        16
+    ], 
+    [
+        "ORGANIC PEROXIDE TYPE F  LIQUID", 
+        16
+    ], 
+    [
+        "RADIOACTIVE MATERIAL  N.O.S.", 
+        16
+    ], 
+    [
+        "INSECTICIDE  LIQUID  N.O.S.", 
+        15
+    ], 
+    [
+        "TETRACHLOROETHYLENE", 
+        15
+    ], 
+    [
+        "HEXANES", 
+        14
+    ], 
+    [
+        "ISOPROPYL ALCOHOL", 
+        14
+    ], 
+    [
+        "OXIDIZING SOLID  N.O.S.", 
+        14
+    ], 
+    [
+        "AEROSOLS  POISON  PACKING GROUP III (EACH NOT EXCEEDING 1 L CAPACITY)", 
+        13
+    ], 
+    [
+        "CALCIUM HYPOCHLORITE  HYDRATED OR CALCIUM HYPOCHLORITE  HYDRATED MIXTURES  WITH NOT LESS THAN 5.5 PERCENT BUT NOT MORE THAN 16 PERCENT WATER", 
+        13
+    ], 
+    [
+        "CARBON DIOXIDE  SOLID OR DRY ICE", 
+        13
+    ], 
+    [
+        "TRICHLOROETHYLENE", 
+        13
+    ], 
+    [
+        "ETHYL METHYL KETONE OR METHYL ETHYL KETONE", 
+        12
+    ], 
+    [
+        "PETROLEUM CRUDE OIL", 
+        12
+    ], 
+    [
+        "HAZARDOUS SUBSTANCE  LIQUID OR SOLID  N.O.S. OR ORM-E  LIQUID OR SOLID  N.O.S.", 
+        11
+    ], 
+    [
+        "NITRIC ACID (OVER 40%)", 
+        11
+    ], 
+    [
+        "ORGANOPHOSPHORUS PESTICIDES  LIQUID  TOXIC  FLAMMABLE  FLASH POINT NOT LESS THAN 23 DEGREES C", 
+        11
+    ], 
+    [
+        "PAINT OR PAINT RELATED MATERIAL", 
+        11
+    ], 
+    [
+        "TETRAHYDROFURAN", 
+        11
+    ], 
+    [
+        "AMMONIUM NITRATE  WITH NOT MORE THAN 0.2%  OF COMBUSTIBLE MATERIALS  INCLUDING ANY ORGANIC SUBSTANCE CALCULATED AS CARBON TO THE EXCLUSION OF ANY OTHER ADDED SUBSTANCE", 
+        10
+    ], 
+    [
+        "CEMENT  RUBBER", 
+        10
+    ], 
+    [
+        "COMPOUND  RUST PREVENTING OR COMPOUND  RUST REMOVING", 
+        10
+    ], 
+    [
+        "COMPRESSED GAS  FLAMMABLE  N.O.S.", 
+        10
+    ], 
+    [
+        "ETHANOL SOLUTIONS", 
+        10
+    ], 
+    [
+        "FLUOROSILICIC ACID", 
+        10
+    ], 
+    [
+        "MATCHES  STRIKE ANYWHERE", 
+        10
+    ], 
+    [
+        "PERFUMERY PRODUCTS WITH FLAMMABLE SOLVENTS", 
+        10
+    ], 
+    [
+        "PETROLEUM OIL", 
+        10
+    ], 
+    [
+        "TOLUENE DIISOCYANATE", 
+        10
+    ], 
+    [
+        "DIPHENYLMETHANE-4 4DIISOCYANATE", 
+        9
+    ], 
+    [
+        "ETHANOLAMINE OR ETHANOLAMINE SOLUTIONS", 
+        9
+    ], 
+    [
+        "FERRIC CHLORIDE  SOLUTION", 
+        9
+    ], 
+    [
+        "FLUOROBORIC ACID", 
+        9
+    ], 
+    [
+        "KEROSENE", 
+        9
+    ], 
+    [
+        "POISONOUS SOLIDS  N.O.S", 
+        9
+    ], 
+    [
+        "RESORCINOL", 
+        9
+    ], 
+    [
+        "SOLVENT  N.O.S.", 
+        9
+    ], 
+    [
+        "BOILER COMPOUND  LIQUID", 
+        8
+    ], 
+    [
+        "BUTYL ACETATES", 
+        8
+    ], 
+    [
+        "CHLORINE", 
+        8
+    ], 
+    [
+        "CHLOROFORM", 
+        8
+    ], 
+    [
+        "CORROSIVE LIQUIDS  FLAMMABLE  N.O.S.", 
+        8
+    ], 
+    [
+        "CORROSIVE SOLID  ACIDIC  INORGANIC  N.O.S.", 
+        8
+    ], 
+    [
+        "FORMALDEHYDE  SOLUTIONS", 
+        8
+    ], 
+    [
+        "LIGHTER REFILLS CONTAINING FLAMMABLE GAS NOT EXCEEDING 4 FLUID OUNCES (7.22 CUBIC INCHES) AND 65 GRAMS OF FLAMMABLE GAS", 
+        8
+    ], 
+    [
+        "SODIUM NITRITE", 
+        8
+    ], 
+    [
+        "AEROSOLS  NON-FLAMMABLE  (EACH NOT EXCEEDING 1 L CAPACITY)", 
+        7
+    ], 
+    [
+        "AMMONIUM NITRATE  LIQUID (HOT CONCENTRATED SOLUTION)          )", 
+        7
+    ], 
+    [
+        "AMMONIUM NITRATE FERTILIZERS", 
+        7
+    ], 
+    [
+        "FLAMMABLE LIQUIDS  TOXIC  N.O.S.", 
+        7
+    ], 
+    [
+        "FLAMMABLE SOLIDS  N.O.S.", 
+        7
+    ], 
+    [
+        "HAZARDOUS WASTE  SOLID  N.O.S.", 
+        7
+    ], 
+    [
+        "HYDROCARBONS  LIQUID  N.O.S.", 
+        7
+    ], 
+    [
+        "HYDROCHLORIC ACID", 
+        7
+    ], 
+    [
+        "HYDROGEN PEROXIDE  STABILIZED OR HYDROGEN PEROXIDE AQUEOUS SOLUTIONS  STABILIZED WITH MORE THAN 60 PERCENT HYDROGEN PEROXIDE", 
+        7
+    ], 
+    [
+        "SODIUM NITRATE", 
+        7
+    ], 
+    [
+        "TARS  LIQUID INCLUDING ROAD OILS AND CUTBACK BITUMENS", 
+        7
+    ], 
+    [
+        "TOXIC SOLID  INORGANIC  N.O.S.", 
+        7
+    ], 
+    [
+        "TRICHLOROISOCYANURIC ACID  DRY", 
+        7
+    ], 
+    [
+        "ACETONITRILE", 
+        6
+    ], 
+    [
+        "AMMONIA  ANHYDROUS  LIQUEFIED OR AMMONIA SOLUTIONS RELATIVE DENSITY LESS THAN .880 AT 15 DEGREES C IN WATER  WITH MORE THAN 50 PERCENT AMMONIA", 
+        6
+    ], 
+    [
+        "CALCIUM HYPOCHLORITE  DRY OR CALCIUM HYPOCHLORITE MIXTURES DRY WITH MORE THAN 39 PERCENT AVAILABLE CHLORINE (8.8 PERCENT AVAILABLE OXYGEN)", 
+        6
+    ], 
+    [
+        "CARBON DIOXIDE  REFRIGERATED LIQUID", 
+        6
+    ], 
+    [
+        "CORROSIVE LIQUIDS  POISONOUS  N.O.S.", 
+        6
+    ], 
+    [
+        "DICHLOROISOCYANURIC ACID  DRY OR DICHLOROISOCYANURIC ACID SALTS", 
+        6
+    ], 
+    [
+        "ENGINE STARTING FLUID  WITH FLAMMABLE GAS", 
+        6
+    ], 
+    [
+        "GAS OIL", 
+        6
+    ], 
+    [
+        "HEPTANES", 
+        6
+    ], 
+    [
+        "HYPOCHLORITE SOLUTIONS WITH 16 PERCENT OR MORE AVAILABLE CHLORINE", 
+        6
+    ], 
+    [
+        "METHYL CYANIDE", 
+        6
+    ], 
+    [
+        "OXYGEN  COMPRESSED", 
+        6
+    ], 
+    [
+        "PAINT RELATED MATERIAL", 
+        6
+    ], 
+    [
+        "POTASSIUM NITRATE", 
+        6
+    ], 
+    [
+        "RESIN SOLUTION (RESIN COMPOUND  LIQUID)", 
+        6
+    ], 
+    [
+        "TERPENE HYDROCARBONS  N.O.S.", 
+        6
+    ], 
+    [
+        "1-METHOXY-2-PROPANOL", 
+        5
+    ], 
+    [
+        "AMINE  LIQUID  CORROSIVE  FLAMMABLE  N.O.S. OR POLYAMINES  LIQUID  CORROSIVE  FLAMMABLE  N.O.S.", 
+        5
+    ], 
+    [
+        "ANTIFREEZE COMPOUND  LIQUID", 
+        5
+    ], 
+    [
+        "CHLORPYRIFOS", 
+        5
+    ], 
+    [
+        "DANGEROUS GOODS IN MACHINERY OR DANGEROUS GOODS IN APPARATUS", 
+        5
+    ], 
+    [
+        "DIETHYL ETHER OR ETHYL ETHER", 
+        5
+    ], 
+    [
+        "DRUGS CHEMICALS COR", 
+        5
+    ], 
+    [
+        "ETHYL ALCOHOL", 
+        5
+    ], 
+    [
+        "FORMALDEHYDE SOLUTIONS  FLAMMABLE", 
+        5
+    ], 
+    [
+        "FORMALDEHYDE SOLUTIONS  WITH NOT LESS THAN 25 PERCENT FORMALDEHYDE", 
+        5
+    ], 
+    [
+        "HYDROCHLORIC ACID SOLUTION  INHIBITED", 
+        5
+    ], 
+    [
+        "LIQUEFIED PETROLEUM GAS", 
+        5
+    ], 
+    [
+        "ORGANIC PEROXIDE  LIQUID OR SOLUTION  N.O.S.", 
+        5
+    ], 
+    [
+        "OTHER REGULATED SUBSTANCES  LIQUID  N.O.S.", 
+        5
+    ], 
+    [
+        "OXIDIZING LIQUID  N.O.S.", 
+        5
+    ], 
+    [
+        "PROPANE", 
+        5
+    ], 
+    [
+        "PROPELLANT EXPLOSIVE  SOLID", 
+        5
+    ], 
+    [
+        "SODIUM ALUMINATE  SOLUTION", 
+        5
+    ], 
+    [
+        "SODIUM PERSULFATE", 
+        5
+    ], 
+    [
+        "SULFUR  MOLTEN", 
+        5
+    ], 
+    [
+        "WATER TREATMENT COMPOUNDS  LIQUID", 
+        5
+    ], 
+    [
+        "ADHESIVE", 
+        4
+    ], 
+    [
+        "ALKYLAMINES  N.O.S. OR POLYALKYLAMINES  N.O.S. CORROSIVE", 
+        4
+    ], 
+    [
+        "BIPYRIDILIUM PESTICIDES  LIQUID  TOXIC", 
+        4
+    ], 
+    [
+        "BISULFITES  AQUEOUS SOLUTIONS  N.O.S.", 
+        4
+    ], 
+    [
+        "CARBON DIOXIDE", 
+        4
+    ], 
+    [
+        "CHROMIC ACID SOLUTION", 
+        4
+    ], 
+    [
+        "COMPOUND  CLEANING  LIQUID (CONTAINING HYDROFLUORIC ACID)", 
+        4
+    ], 
+    [
+        "COMPOUND  TREE OR WEED KILLING  LIQUID", 
+        4
+    ], 
+    [
+        "COMPOUND PAINT REMOVING LIQUID", 
+        4
+    ], 
+    [
+        "DIFLUOROETHANE", 
+        4
+    ], 
+    [
+        "ETHYLENE GLYCOL MONOETHYL ETHER", 
+        4
+    ], 
+    [
+        "ETHYLENE OXIDE OR ETHYLENE OXIDE WITH NITROGEN UP TO A TOTAL PRESSURE OF 1MPA (10 BAR) AT 50 DEGREES C", 
+        4
+    ], 
+    [
+        "FLAMMABLE LIQUIDS  POISONOUS  N.O.S.", 
+        4
+    ], 
+    [
+        "FORMALDEHYDE SOLUTION (FLASH POINT NOT MORE THAN 141 DEG F.; IN CONTAINERS OF 110 GALLONS OR LESS)", 
+        4
+    ], 
+    [
+        "FURFURYL ALCOHOL", 
+        4
+    ], 
+    [
+        "HAZARDOUS WASTE  LIQUID OR SOLID  N.O.S.", 
+        4
+    ], 
+    [
+        "HYDROGEN SULFIDE", 
+        4
+    ], 
+    [
+        "HYPOCHLORITE SOLUTIONS", 
+        4
+    ], 
+    [
+        "LITHIUM HYDROXIDE", 
+        4
+    ], 
+    [
+        "NAPHTHA  SOLVENT", 
+        4
+    ], 
+    [
+        "ORM-B  N.O.S.", 
+        4
+    ], 
+    [
+        "OXYGEN  REFRIGERATED LIQUID (CRYOGENIC LIQUID)", 
+        4
+    ], 
+    [
+        "PCB", 
+        4
+    ], 
+    [
+        "PESTICIDES  LIQUID  TOXIC  FLAMMABLE  N.O.S. FLASH POINT NOT LESS THAN 23 DEGREES C", 
+        4
+    ], 
+    [
+        "PETROLEUM DISTILLATE", 
+        4
+    ], 
+    [
+        "POTASSIUM CYANIDE SOLUTION", 
+        4
+    ], 
+    [
+        "PYRIDINE", 
+        4
+    ], 
+    [
+        "REFRIGERANT GASES  N.O.S.", 
+        4
+    ], 
+    [
+        "SODIUM FLUORIDE  SOLID", 
+        4
+    ], 
+    [
+        "SODIUM HYDROGEN SULFATE SOLUTION", 
+        4
+    ], 
+    [
+        "SULFAMIC ACID", 
+        4
+    ], 
+    [
+        "SULFURIC ACID WITH MORE THAN 51 PERCENT ACID", 
+        4
+    ], 
+    [
+        "THIOGLYCOLIC ACID", 
+        4
+    ], 
+    [
+        "ZINC CHLORIDE  SOLUTION", 
+        4
+    ], 
+    [
+        "ACETIC ANHYDRIDE", 
+        3
+    ], 
+    [
+        "AIR  COMPRESSED", 
+        3
+    ], 
+    [
+        "AMMONIUM HYDROGENDIFLUORIDE  SOLUTION", 
+        3
+    ], 
+    [
+        "AMMONIUM HYDROXIDE (CONTAINING LESS THAN 12% AMMONIA)", 
+        3
+    ], 
+    [
+        "BATTERIES  WET  NON-SPILLABLE  ELECTRIC STORAGE", 
+        3
+    ], 
+    [
+        "BUTANOLS", 
+        3
+    ], 
+    [
+        "CARTRIDGES  SMALL ARMS", 
+        3
+    ], 
+    [
+        "COAL TAR DYE  LIQUID (NOT OTHERWISE SPECIFICALLY NAMED IN 172.101)", 
+        3
+    ], 
+    [
+        "CORROSIVE LIQUIDS  OXIDIZING  N.O.S.", 
+        3
+    ], 
+    [
+        "COSMETICS  N.O.S", 
+        3
+    ], 
+    [
+        "CRESYLIC ACID", 
+        3
+    ], 
+    [
+        "CYCLOHEXANE", 
+        3
+    ], 
+    [
+        "DICHLORODIFLUOROMETHANE OR REFRIGERANT GAS R 12", 
+        3
+    ], 
+    [
+        "DIISOPROPYL ETHER", 
+        3
+    ], 
+    [
+        "ETHYLENE GLYCOL MONOBUTYL ETHER", 
+        3
+    ], 
+    [
+        "FORMIC ACID WITH MORE THAN 85% ACID BY MASS", 
+        3
+    ], 
+    [
+        "FUEL OIL  DIESEL", 
+        3
+    ], 
+    [
+        "HEXAMETHYLENETETRAMINE", 
+        3
+    ], 
+    [
+        "LACQUER BASE OR LACQUER CHIPS  PLASTIC  WET WITH ALCOHOL OR SOLVENT", 
+        3
+    ], 
+    [
+        "LEAD PHOSPHITE  DIBASIC", 
+        3
+    ], 
+    [
+        "LITHIUM HYDROXIDE  SOLID", 
+        3
+    ], 
+    [
+        "METHYL ETHYL KETONE PEROXIDE  IN SOLUTION WITH NOT MORE THAN 9% BY WEIGHT ACTIVE OXYGEN", 
+        3
+    ], 
+    [
+        "N-PROPANOL OR PROPYL ALCOHOL  NORMAL", 
+        3
+    ], 
+    [
+        "NAPHTHA", 
+        3
+    ], 
+    [
+        "NITRIC ACID OTHER THAN RED FUMING  WITH MORE THAN 70 PERCENT NITRIC ACID", 
+        3
+    ], 
+    [
+        "ORGANIC PEROXIDE TYPE C  LIQUID", 
+        3
+    ], 
+    [
+        "ORGANIC PHOSPHATE MIXTURE  ORGANIC PHOSPHATE COMPOUND MIXTURE  OR ORGANIC PHOSPHORUS COMPOUND MIXTURE; SOLID OR DRY", 
+        3
+    ], 
+    [
+        "ORGANOPHOSPHORUS PESTICIDES  LIQUID  TOXIC", 
+        3
+    ], 
+    [
+        "ORM-A  N.O.S.", 
+        3
+    ], 
+    [
+        "OXIDIZING SOLID  CORROSIVE  N.O.S.", 
+        3
+    ], 
+    [
+        "PERCHLORIC ACID WITH MORE THAN 50 PERCENT BUT NOT MORE THAN 72 PERCENT ACID  BY MASS", 
+        3
+    ], 
+    [
+        "PHOSPHORUS WHITE OR YELLOW  IN WATER", 
+        3
+    ], 
+    [
+        "PROPIONIC ACID WITH NOT LESS THAN 10% AND LESS THAN 90% ACID BY MASS", 
+        3
+    ], 
+    [
+        "RADIOACTIVE MATERIAL  EXCEPTED PACKAGE-LIMITED QUANTITY OF MATERIAL", 
+        3
+    ], 
+    [
+        "SMOKELESS POWDER FOR SMALL ARMS (100 POUNDS OR LESS)", 
+        3
+    ], 
+    [
+        "SODIUM CYANIDE", 
+        3
+    ], 
+    [
+        "TERT-BUTYL PEROXYISOPROPYL CARBONATE  TECHNICALLY PURE", 
+        3
+    ], 
+    [
+        "TOXIC LIQUID  INORGANIC  N.O.S.", 
+        3
+    ], 
+    [
+        "TOXIC LIQUIDS  CORROSIVE  ORGANIC  N.O.S.", 
+        3
+    ], 
+    [
+        "TRICHLOROACETIC ACID  SOLUTION", 
+        3
+    ], 
+    [
+        "ZINC CHLORIDE  ANHYDROUS", 
+        3
+    ], 
+    [
+        "ALCOHOLS  FLAMMABLE  TOXIC N.O.S.", 
+        2
+    ], 
+    [
+        "ALKYL SULFONIC ACIDS  SOLID OR ARYL SULFONIC ACIDS  SOLID WITH NOT MORE THAN 5 PERCENT FREE SULFURIC ACID", 
+        2
+    ], 
+    [
+        "ALUMINUM CHLORIDE  SOLUTION", 
+        2
+    ], 
+    [
+        "AMMONUIM PERSULFATE", 
+        2
+    ], 
+    [
+        "ANILINE", 
+        2
+    ], 
+    [
+        "ARGON  COMPRESSED", 
+        2
+    ], 
+    [
+        "ASPHALT  AT OR ABOVE ITS FLASH POINT", 
+        2
+    ], 
+    [
+        "ASPHALT  CUT BACK", 
+        2
+    ], 
+    [
+        "BARIUM COMPOUNDS  N.O.S.", 
+        2
+    ], 
+    [
+        "BENZALDEHYDE", 
+        2
+    ], 
+    [
+        "BENZOYL PEROXIDE", 
+        2
+    ], 
+    [
+        "BROMOTRIFLUOROMETHANE OR REFRIGERANT GAS  R 13B1", 
+        2
+    ], 
+    [
+        "BUTOXYL", 
+        2
+    ], 
+    [
+        "CARBAMATE PESTICIDES  SOLID  TOXIC", 
+        2
+    ], 
+    [
+        "CARBON DISULFIDE", 
+        2
+    ], 
+    [
+        "CARTRIDGES FOR WEAPONS  INERT PROJECTILE OR CARTRIDGES  SMALL ARMS", 
+        2
+    ], 
+    [
+        "CAUSTIC SODA  (ETC.", 
+        2
+    ], 
+    [
+        "CEMENT  ROOFING  LIQUID", 
+        2
+    ], 
+    [
+        "CHLOROBENZENE", 
+        2
+    ], 
+    [
+        "CLEANING FLUID  LIQUID", 
+        2
+    ], 
+    [
+        "COAL TAR DISTILLATES  FLAMMABLE", 
+        2
+    ], 
+    [
+        "COMPOUND  LACQUER  PAINT  OR VARNISH REMOVING LIQUID", 
+        2
+    ], 
+    [
+        "COMPOUND  POLISHING  LIQUID", 
+        2
+    ], 
+    [
+        "DIAZINON", 
+        2
+    ], 
+    [
+        "DICYCLOPENTADIENE", 
+        2
+    ], 
+    [
+        "DRUGS CHEMICALS FL", 
+        2
+    ], 
+    [
+        "DRUGS CHEMICALS PB", 
+        2
+    ], 
+    [
+        "DRY ICE", 
+        2
+    ], 
+    [
+        "ELEVATED TEMPERATURE LIQUID  FLAMMABLE  N.O.S.  WITH FLASH POINT ABOVE 37.8 C  AT OR ABOVE ITS FLASH POINT", 
+        2
+    ], 
+    [
+        "ETHYL ETHER", 
+        2
+    ], 
+    [
+        "ETHYL MERCAPTAN", 
+        2
+    ], 
+    [
+        "ETHYL METHACRYLATE  STABILIZED", 
+        2
+    ], 
+    [
+        "FERTILIZER AMMONIATING SOLUTION WITH FREE AMMONIA", 
+        2
+    ], 
+    [
+        "FORMALDEHYDE SOLUTION (FLASH POINT MORE THAN 141 DEG F.; IN CONTAINERS OF 110 GALLONS OR LESS)", 
+        2
+    ], 
+    [
+        "FORMIC ACID SOLUTION", 
+        2
+    ], 
+    [
+        "FORMIC ACID WITH NOT LESS THAN 10% BUT NOT MORE THAN 85% ACID BY MASS", 
+        2
+    ], 
+    [
+        "FORMIC ACID WITH NOT LESS THAN 5% BUT LESS THAN 10% ACID BY MASS", 
+        2
+    ], 
+    [
+        "GASOLINE  CASINGHEAD", 
+        2
+    ], 
+    [
+        "HALOGENATED IRRITATING LIQUIDS  N.O.S.", 
+        2
+    ], 
+    [
+        "HAZARDOUS WASTE  LIQUID  N.O.S.", 
+        2
+    ], 
+    [
+        "HELIUM  COMPRESSED", 
+        2
+    ], 
+    [
+        "HELIUM  REFRIGERATED LIQUID (CRYOGENIC LIQUID)", 
+        2
+    ], 
+    [
+        "HYDRAZINE  AQUEOUS SOLUTION  WITH NOT MORE THAN 37 PERCENT HYDRAZINE  BY MASS", 
+        2
+    ], 
+    [
+        "HYDROBROMIC ACID SOLUTION", 
+        2
+    ], 
+    [
+        "HYDROGEN  PEROXIDE  AQUEOUS SOLUTIONS WITH NOT LESS THAN 8 PERCENT BUT LESS THAN 20 PERCENT HYDROGEN PEROXIDE (STABILIZED AS NECESSARY)", 
+        2
+    ], 
+    [
+        "INFECTIOUS SUBSTANCES  AFFECTING HUMANS", 
+        2
+    ], 
+    [
+        "INSECTICIDE  LIQUEFIED GAS (CONTAINING NO POISON A OR B MATERIAL)", 
+        2
+    ], 
+    [
+        "ISOPHORONEDIAMINE", 
+        2
+    ], 
+    [
+        "LIGHTER REPLACEMENT CARTRIDGES CONTAINING LIQUEFIED PETROLEUM GASES", 
+        2
+    ], 
+    [
+        "LITHIUM BATTERIES  CONTAINED IN EQUIPMENT", 
+        2
+    ], 
+    [
+        "LITHIUM BATTERY", 
+        2
+    ], 
+    [
+        "LITHIUM HYPOCHLORITE  DRY OR LITHIUM HYPOCHLORITE MIXTURE", 
+        2
+    ], 
+    [
+        "LPG", 
+        2
+    ], 
+    [
+        "MAGNETIZED MATERIAL", 
+        2
+    ], 
+    [
+        "MATCHES  SAFETY (BOOK  CARD OR STRIKE ON BOX", 
+        2
+    ], 
+    [
+        "MERCAPTAN MIXTURE  ALIPHATIC", 
+        2
+    ], 
+    [
+        "MERCURIC NITRATE", 
+        2
+    ], 
+    [
+        "MERCURY", 
+        2
+    ], 
+    [
+        "MERCURY COMPOUNDS  LIQUID  N.O.S.", 
+        2
+    ], 
+    [
+        "METHYL ACETATE", 
+        2
+    ], 
+    [
+        "MOTOR FUEL  N.O.S.", 
+        2
+    ], 
+    [
+        "MOTOR FUEL ANTI-KNOCK MIXTURES", 
+        2
+    ], 
+    [
+        "N N-DIMETHYLFORMAMIDE", 
+        2
+    ], 
+    [
+        "N-PROPYL ACETATE", 
+        2
+    ], 
+    [
+        "NITRATES  INORGANIC  N.O.S.", 
+        2
+    ], 
+    [
+        "NITROCELLULOSE  SOLUTION  FLAMMABLE WITH NOT MORE THAN 12.6 PERCENT NITROGEN  BY MASS  AND NOT MORE THAN 55 PERCENT NITROCELLULOSE", 
+        2
+    ], 
+    [
+        "OCTANES", 
+        2
+    ], 
+    [
+        "PERMANGANATES  INORGANIC  AQUEOUS SOLUTION  N.O.S.", 
+        2
+    ], 
+    [
+        "PETROLEUM SPIRIT", 
+        2
+    ], 
+    [
+        "PHENOXY PESTICIDES  LIQUID  TOXIC  N.O.S.", 
+        2
+    ], 
+    [
+        "POLYAMINES  LIQUID  CORROSIVE  N.O.S.", 
+        2
+    ], 
+    [
+        "POLYCHORINATED BIPHENYLS  LIQUID", 
+        2
+    ], 
+    [
+        "POTASSIUM HYDROXIDE  SOLID", 
+        2
+    ], 
+    [
+        "PROPIONIC ACID  SOLUTION", 
+        2
+    ], 
+    [
+        "PROPIONIC ACID WITH NOT LESS THAN 90% ACID BY MASS", 
+        2
+    ], 
+    [
+        "PYRETHROID PESTICIDE  LIQUID TOXIC", 
+        2
+    ], 
+    [
+        "RADIOACTIVE MATERIAL  LOW SPECIFIC ACTIVITY (LSA-I) NON FISSILE OR FISSILE-EXCEPTED", 
+        2
+    ], 
+    [
+        "RECEPTACLES  SMALL  CONTAINING GAS OR GAS CARTRIDGES (FLAMMABLE) WITHOUT RELEASE DEVICE  NOT REFILLABLE AND NOT EXCEEDING 1 L CAPACITY", 
+        2
+    ], 
+    [
+        "SODIUM AZIDE", 
+        2
+    ], 
+    [
+        "SODIUM BOROHYDRIDE AND SODIUM HYDROXIDE SOLUTION  WITH NOT MORE THAN 12 PERCENT SODIUM BOROHYDRIDE AND NOT MORE THAN 40 PERCENT SODIUM HYDROXIDE BY MASS", 
+        2
+    ], 
+    [
+        "SODIUM CHLORITE SOLUTION WITH MORE THAN 5 PERCENT AVAILABLE CHLORINE", 
+        2
+    ], 
+    [
+        "SODIUM PERCHLORATE", 
+        2
+    ], 
+    [
+        "SOLIDS CONTAINING FLAMMABLE LIQUID  N.O.S.", 
+        2
+    ], 
+    [
+        "SULFURIC ACID  FUMING", 
+        2
+    ], 
+    [
+        "TETRAETHYL LEAD  LIQUID", 
+        2
+    ], 
+    [
+        "TOXIC SOLIDS  ORGANIC  N.O.S.", 
+        2
+    ], 
+    [
+        "TRIETHYLENETETRAMINE", 
+        2
+    ], 
+    [
         null, 
         1
     ], 
@@ -902,1385 +2282,5 @@
     [
         "WATER-REACTIVE SOLID  N.O.S.", 
         1
-    ], 
-    [
-        "ALCOHOLS  FLAMMABLE  TOXIC N.O.S.", 
-        2
-    ], 
-    [
-        "ALKYL SULFONIC ACIDS  SOLID OR ARYL SULFONIC ACIDS  SOLID WITH NOT MORE THAN 5 PERCENT FREE SULFURIC ACID", 
-        2
-    ], 
-    [
-        "ALUMINUM CHLORIDE  SOLUTION", 
-        2
-    ], 
-    [
-        "AMMONUIM PERSULFATE", 
-        2
-    ], 
-    [
-        "ANILINE", 
-        2
-    ], 
-    [
-        "ARGON  COMPRESSED", 
-        2
-    ], 
-    [
-        "ASPHALT  AT OR ABOVE ITS FLASH POINT", 
-        2
-    ], 
-    [
-        "ASPHALT  CUT BACK", 
-        2
-    ], 
-    [
-        "BARIUM COMPOUNDS  N.O.S.", 
-        2
-    ], 
-    [
-        "BENZALDEHYDE", 
-        2
-    ], 
-    [
-        "BENZOYL PEROXIDE", 
-        2
-    ], 
-    [
-        "BROMOTRIFLUOROMETHANE OR REFRIGERANT GAS  R 13B1", 
-        2
-    ], 
-    [
-        "BUTOXYL", 
-        2
-    ], 
-    [
-        "CARBAMATE PESTICIDES  SOLID  TOXIC", 
-        2
-    ], 
-    [
-        "CARBON DISULFIDE", 
-        2
-    ], 
-    [
-        "CARTRIDGES FOR WEAPONS  INERT PROJECTILE OR CARTRIDGES  SMALL ARMS", 
-        2
-    ], 
-    [
-        "CAUSTIC SODA  (ETC.", 
-        2
-    ], 
-    [
-        "CEMENT  ROOFING  LIQUID", 
-        2
-    ], 
-    [
-        "CHLOROBENZENE", 
-        2
-    ], 
-    [
-        "CLEANING FLUID  LIQUID", 
-        2
-    ], 
-    [
-        "COAL TAR DISTILLATES  FLAMMABLE", 
-        2
-    ], 
-    [
-        "COMPOUND  LACQUER  PAINT  OR VARNISH REMOVING LIQUID", 
-        2
-    ], 
-    [
-        "COMPOUND  POLISHING  LIQUID", 
-        2
-    ], 
-    [
-        "DIAZINON", 
-        2
-    ], 
-    [
-        "DICYCLOPENTADIENE", 
-        2
-    ], 
-    [
-        "DRUGS CHEMICALS FL", 
-        2
-    ], 
-    [
-        "DRUGS CHEMICALS PB", 
-        2
-    ], 
-    [
-        "DRY ICE", 
-        2
-    ], 
-    [
-        "ELEVATED TEMPERATURE LIQUID  FLAMMABLE  N.O.S.  WITH FLASH POINT ABOVE 37.8 C  AT OR ABOVE ITS FLASH POINT", 
-        2
-    ], 
-    [
-        "ETHYL ETHER", 
-        2
-    ], 
-    [
-        "ETHYL MERCAPTAN", 
-        2
-    ], 
-    [
-        "ETHYL METHACRYLATE  STABILIZED", 
-        2
-    ], 
-    [
-        "FERTILIZER AMMONIATING SOLUTION WITH FREE AMMONIA", 
-        2
-    ], 
-    [
-        "FORMALDEHYDE SOLUTION (FLASH POINT MORE THAN 141 DEG F.; IN CONTAINERS OF 110 GALLONS OR LESS)", 
-        2
-    ], 
-    [
-        "FORMIC ACID SOLUTION", 
-        2
-    ], 
-    [
-        "FORMIC ACID WITH NOT LESS THAN 10% BUT NOT MORE THAN 85% ACID BY MASS", 
-        2
-    ], 
-    [
-        "FORMIC ACID WITH NOT LESS THAN 5% BUT LESS THAN 10% ACID BY MASS", 
-        2
-    ], 
-    [
-        "GASOLINE  CASINGHEAD", 
-        2
-    ], 
-    [
-        "HALOGENATED IRRITATING LIQUIDS  N.O.S.", 
-        2
-    ], 
-    [
-        "HAZARDOUS WASTE  LIQUID  N.O.S.", 
-        2
-    ], 
-    [
-        "HELIUM  COMPRESSED", 
-        2
-    ], 
-    [
-        "HELIUM  REFRIGERATED LIQUID (CRYOGENIC LIQUID)", 
-        2
-    ], 
-    [
-        "HYDRAZINE  AQUEOUS SOLUTION  WITH NOT MORE THAN 37 PERCENT HYDRAZINE  BY MASS", 
-        2
-    ], 
-    [
-        "HYDROBROMIC ACID SOLUTION", 
-        2
-    ], 
-    [
-        "HYDROGEN  PEROXIDE  AQUEOUS SOLUTIONS WITH NOT LESS THAN 8 PERCENT BUT LESS THAN 20 PERCENT HYDROGEN PEROXIDE (STABILIZED AS NECESSARY)", 
-        2
-    ], 
-    [
-        "INFECTIOUS SUBSTANCES  AFFECTING HUMANS", 
-        2
-    ], 
-    [
-        "INSECTICIDE  LIQUEFIED GAS (CONTAINING NO POISON A OR B MATERIAL)", 
-        2
-    ], 
-    [
-        "ISOPHORONEDIAMINE", 
-        2
-    ], 
-    [
-        "LIGHTER REPLACEMENT CARTRIDGES CONTAINING LIQUEFIED PETROLEUM GASES", 
-        2
-    ], 
-    [
-        "LITHIUM BATTERIES  CONTAINED IN EQUIPMENT", 
-        2
-    ], 
-    [
-        "LITHIUM BATTERY", 
-        2
-    ], 
-    [
-        "LITHIUM HYPOCHLORITE  DRY OR LITHIUM HYPOCHLORITE MIXTURE", 
-        2
-    ], 
-    [
-        "LPG", 
-        2
-    ], 
-    [
-        "MAGNETIZED MATERIAL", 
-        2
-    ], 
-    [
-        "MATCHES  SAFETY (BOOK  CARD OR STRIKE ON BOX", 
-        2
-    ], 
-    [
-        "MERCAPTAN MIXTURE  ALIPHATIC", 
-        2
-    ], 
-    [
-        "MERCURIC NITRATE", 
-        2
-    ], 
-    [
-        "MERCURY", 
-        2
-    ], 
-    [
-        "MERCURY COMPOUNDS  LIQUID  N.O.S.", 
-        2
-    ], 
-    [
-        "METHYL ACETATE", 
-        2
-    ], 
-    [
-        "MOTOR FUEL  N.O.S.", 
-        2
-    ], 
-    [
-        "MOTOR FUEL ANTI-KNOCK MIXTURES", 
-        2
-    ], 
-    [
-        "N N-DIMETHYLFORMAMIDE", 
-        2
-    ], 
-    [
-        "N-PROPYL ACETATE", 
-        2
-    ], 
-    [
-        "NITRATES  INORGANIC  N.O.S.", 
-        2
-    ], 
-    [
-        "NITROCELLULOSE  SOLUTION  FLAMMABLE WITH NOT MORE THAN 12.6 PERCENT NITROGEN  BY MASS  AND NOT MORE THAN 55 PERCENT NITROCELLULOSE", 
-        2
-    ], 
-    [
-        "OCTANES", 
-        2
-    ], 
-    [
-        "PERMANGANATES  INORGANIC  AQUEOUS SOLUTION  N.O.S.", 
-        2
-    ], 
-    [
-        "PETROLEUM SPIRIT", 
-        2
-    ], 
-    [
-        "PHENOXY PESTICIDES  LIQUID  TOXIC  N.O.S.", 
-        2
-    ], 
-    [
-        "POLYAMINES  LIQUID  CORROSIVE  N.O.S.", 
-        2
-    ], 
-    [
-        "POLYCHORINATED BIPHENYLS  LIQUID", 
-        2
-    ], 
-    [
-        "POTASSIUM HYDROXIDE  SOLID", 
-        2
-    ], 
-    [
-        "PROPIONIC ACID  SOLUTION", 
-        2
-    ], 
-    [
-        "PROPIONIC ACID WITH NOT LESS THAN 90% ACID BY MASS", 
-        2
-    ], 
-    [
-        "PYRETHROID PESTICIDE  LIQUID TOXIC", 
-        2
-    ], 
-    [
-        "RADIOACTIVE MATERIAL  LOW SPECIFIC ACTIVITY (LSA-I) NON FISSILE OR FISSILE-EXCEPTED", 
-        2
-    ], 
-    [
-        "RECEPTACLES  SMALL  CONTAINING GAS OR GAS CARTRIDGES (FLAMMABLE) WITHOUT RELEASE DEVICE  NOT REFILLABLE AND NOT EXCEEDING 1 L CAPACITY", 
-        2
-    ], 
-    [
-        "SODIUM AZIDE", 
-        2
-    ], 
-    [
-        "SODIUM BOROHYDRIDE AND SODIUM HYDROXIDE SOLUTION  WITH NOT MORE THAN 12 PERCENT SODIUM BOROHYDRIDE AND NOT MORE THAN 40 PERCENT SODIUM HYDROXIDE BY MASS", 
-        2
-    ], 
-    [
-        "SODIUM CHLORITE SOLUTION WITH MORE THAN 5 PERCENT AVAILABLE CHLORINE", 
-        2
-    ], 
-    [
-        "SODIUM PERCHLORATE", 
-        2
-    ], 
-    [
-        "SOLIDS CONTAINING FLAMMABLE LIQUID  N.O.S.", 
-        2
-    ], 
-    [
-        "SULFURIC ACID  FUMING", 
-        2
-    ], 
-    [
-        "TETRAETHYL LEAD  LIQUID", 
-        2
-    ], 
-    [
-        "TOXIC SOLIDS  ORGANIC  N.O.S.", 
-        2
-    ], 
-    [
-        "TRIETHYLENETETRAMINE", 
-        2
-    ], 
-    [
-        "ACETIC ANHYDRIDE", 
-        3
-    ], 
-    [
-        "AIR  COMPRESSED", 
-        3
-    ], 
-    [
-        "AMMONIUM HYDROGENDIFLUORIDE  SOLUTION", 
-        3
-    ], 
-    [
-        "AMMONIUM HYDROXIDE (CONTAINING LESS THAN 12% AMMONIA)", 
-        3
-    ], 
-    [
-        "BATTERIES  WET  NON-SPILLABLE  ELECTRIC STORAGE", 
-        3
-    ], 
-    [
-        "BUTANOLS", 
-        3
-    ], 
-    [
-        "CARTRIDGES  SMALL ARMS", 
-        3
-    ], 
-    [
-        "COAL TAR DYE  LIQUID (NOT OTHERWISE SPECIFICALLY NAMED IN 172.101)", 
-        3
-    ], 
-    [
-        "CORROSIVE LIQUIDS  OXIDIZING  N.O.S.", 
-        3
-    ], 
-    [
-        "COSMETICS  N.O.S", 
-        3
-    ], 
-    [
-        "CRESYLIC ACID", 
-        3
-    ], 
-    [
-        "CYCLOHEXANE", 
-        3
-    ], 
-    [
-        "DICHLORODIFLUOROMETHANE OR REFRIGERANT GAS R 12", 
-        3
-    ], 
-    [
-        "DIISOPROPYL ETHER", 
-        3
-    ], 
-    [
-        "ETHYLENE GLYCOL MONOBUTYL ETHER", 
-        3
-    ], 
-    [
-        "FORMIC ACID WITH MORE THAN 85% ACID BY MASS", 
-        3
-    ], 
-    [
-        "FUEL OIL  DIESEL", 
-        3
-    ], 
-    [
-        "HEXAMETHYLENETETRAMINE", 
-        3
-    ], 
-    [
-        "LACQUER BASE OR LACQUER CHIPS  PLASTIC  WET WITH ALCOHOL OR SOLVENT", 
-        3
-    ], 
-    [
-        "LEAD PHOSPHITE  DIBASIC", 
-        3
-    ], 
-    [
-        "LITHIUM HYDROXIDE  SOLID", 
-        3
-    ], 
-    [
-        "METHYL ETHYL KETONE PEROXIDE  IN SOLUTION WITH NOT MORE THAN 9% BY WEIGHT ACTIVE OXYGEN", 
-        3
-    ], 
-    [
-        "N-PROPANOL OR PROPYL ALCOHOL  NORMAL", 
-        3
-    ], 
-    [
-        "NAPHTHA", 
-        3
-    ], 
-    [
-        "NITRIC ACID OTHER THAN RED FUMING  WITH MORE THAN 70 PERCENT NITRIC ACID", 
-        3
-    ], 
-    [
-        "ORGANIC PEROXIDE TYPE C  LIQUID", 
-        3
-    ], 
-    [
-        "ORGANIC PHOSPHATE MIXTURE  ORGANIC PHOSPHATE COMPOUND MIXTURE  OR ORGANIC PHOSPHORUS COMPOUND MIXTURE; SOLID OR DRY", 
-        3
-    ], 
-    [
-        "ORGANOPHOSPHORUS PESTICIDES  LIQUID  TOXIC", 
-        3
-    ], 
-    [
-        "ORM-A  N.O.S.", 
-        3
-    ], 
-    [
-        "OXIDIZING SOLID  CORROSIVE  N.O.S.", 
-        3
-    ], 
-    [
-        "PERCHLORIC ACID WITH MORE THAN 50 PERCENT BUT NOT MORE THAN 72 PERCENT ACID  BY MASS", 
-        3
-    ], 
-    [
-        "PHOSPHORUS WHITE OR YELLOW  IN WATER", 
-        3
-    ], 
-    [
-        "PROPIONIC ACID WITH NOT LESS THAN 10% AND LESS THAN 90% ACID BY MASS", 
-        3
-    ], 
-    [
-        "RADIOACTIVE MATERIAL  EXCEPTED PACKAGE-LIMITED QUANTITY OF MATERIAL", 
-        3
-    ], 
-    [
-        "SMOKELESS POWDER FOR SMALL ARMS (100 POUNDS OR LESS)", 
-        3
-    ], 
-    [
-        "SODIUM CYANIDE", 
-        3
-    ], 
-    [
-        "TERT-BUTYL PEROXYISOPROPYL CARBONATE  TECHNICALLY PURE", 
-        3
-    ], 
-    [
-        "TOXIC LIQUID  INORGANIC  N.O.S.", 
-        3
-    ], 
-    [
-        "TOXIC LIQUIDS  CORROSIVE  ORGANIC  N.O.S.", 
-        3
-    ], 
-    [
-        "TRICHLOROACETIC ACID  SOLUTION", 
-        3
-    ], 
-    [
-        "ZINC CHLORIDE  ANHYDROUS", 
-        3
-    ], 
-    [
-        "ADHESIVE", 
-        4
-    ], 
-    [
-        "ALKYLAMINES  N.O.S. OR POLYALKYLAMINES  N.O.S. CORROSIVE", 
-        4
-    ], 
-    [
-        "BIPYRIDILIUM PESTICIDES  LIQUID  TOXIC", 
-        4
-    ], 
-    [
-        "BISULFITES  AQUEOUS SOLUTIONS  N.O.S.", 
-        4
-    ], 
-    [
-        "CARBON DIOXIDE", 
-        4
-    ], 
-    [
-        "CHROMIC ACID SOLUTION", 
-        4
-    ], 
-    [
-        "COMPOUND  CLEANING  LIQUID (CONTAINING HYDROFLUORIC ACID)", 
-        4
-    ], 
-    [
-        "COMPOUND  TREE OR WEED KILLING  LIQUID", 
-        4
-    ], 
-    [
-        "COMPOUND PAINT REMOVING LIQUID", 
-        4
-    ], 
-    [
-        "DIFLUOROETHANE", 
-        4
-    ], 
-    [
-        "ETHYLENE GLYCOL MONOETHYL ETHER", 
-        4
-    ], 
-    [
-        "ETHYLENE OXIDE OR ETHYLENE OXIDE WITH NITROGEN UP TO A TOTAL PRESSURE OF 1MPA (10 BAR) AT 50 DEGREES C", 
-        4
-    ], 
-    [
-        "FLAMMABLE LIQUIDS  POISONOUS  N.O.S.", 
-        4
-    ], 
-    [
-        "FORMALDEHYDE SOLUTION (FLASH POINT NOT MORE THAN 141 DEG F.; IN CONTAINERS OF 110 GALLONS OR LESS)", 
-        4
-    ], 
-    [
-        "FURFURYL ALCOHOL", 
-        4
-    ], 
-    [
-        "HAZARDOUS WASTE  LIQUID OR SOLID  N.O.S.", 
-        4
-    ], 
-    [
-        "HYDROGEN SULFIDE", 
-        4
-    ], 
-    [
-        "HYPOCHLORITE SOLUTIONS", 
-        4
-    ], 
-    [
-        "LITHIUM HYDROXIDE", 
-        4
-    ], 
-    [
-        "NAPHTHA  SOLVENT", 
-        4
-    ], 
-    [
-        "ORM-B  N.O.S.", 
-        4
-    ], 
-    [
-        "OXYGEN  REFRIGERATED LIQUID (CRYOGENIC LIQUID)", 
-        4
-    ], 
-    [
-        "PCB", 
-        4
-    ], 
-    [
-        "PESTICIDES  LIQUID  TOXIC  FLAMMABLE  N.O.S. FLASH POINT NOT LESS THAN 23 DEGREES C", 
-        4
-    ], 
-    [
-        "PETROLEUM DISTILLATE", 
-        4
-    ], 
-    [
-        "POTASSIUM CYANIDE SOLUTION", 
-        4
-    ], 
-    [
-        "PYRIDINE", 
-        4
-    ], 
-    [
-        "REFRIGERANT GASES  N.O.S.", 
-        4
-    ], 
-    [
-        "SODIUM FLUORIDE  SOLID", 
-        4
-    ], 
-    [
-        "SODIUM HYDROGEN SULFATE SOLUTION", 
-        4
-    ], 
-    [
-        "SULFAMIC ACID", 
-        4
-    ], 
-    [
-        "SULFURIC ACID WITH MORE THAN 51 PERCENT ACID", 
-        4
-    ], 
-    [
-        "THIOGLYCOLIC ACID", 
-        4
-    ], 
-    [
-        "ZINC CHLORIDE  SOLUTION", 
-        4
-    ], 
-    [
-        "1-METHOXY-2-PROPANOL", 
-        5
-    ], 
-    [
-        "AMINE  LIQUID  CORROSIVE  FLAMMABLE  N.O.S. OR POLYAMINES  LIQUID  CORROSIVE  FLAMMABLE  N.O.S.", 
-        5
-    ], 
-    [
-        "ANTIFREEZE COMPOUND  LIQUID", 
-        5
-    ], 
-    [
-        "CHLORPYRIFOS", 
-        5
-    ], 
-    [
-        "DANGEROUS GOODS IN MACHINERY OR DANGEROUS GOODS IN APPARATUS", 
-        5
-    ], 
-    [
-        "DIETHYL ETHER OR ETHYL ETHER", 
-        5
-    ], 
-    [
-        "DRUGS CHEMICALS COR", 
-        5
-    ], 
-    [
-        "ETHYL ALCOHOL", 
-        5
-    ], 
-    [
-        "FORMALDEHYDE SOLUTIONS  FLAMMABLE", 
-        5
-    ], 
-    [
-        "FORMALDEHYDE SOLUTIONS  WITH NOT LESS THAN 25 PERCENT FORMALDEHYDE", 
-        5
-    ], 
-    [
-        "HYDROCHLORIC ACID SOLUTION  INHIBITED", 
-        5
-    ], 
-    [
-        "LIQUEFIED PETROLEUM GAS", 
-        5
-    ], 
-    [
-        "ORGANIC PEROXIDE  LIQUID OR SOLUTION  N.O.S.", 
-        5
-    ], 
-    [
-        "OTHER REGULATED SUBSTANCES  LIQUID  N.O.S.", 
-        5
-    ], 
-    [
-        "OXIDIZING LIQUID  N.O.S.", 
-        5
-    ], 
-    [
-        "PROPANE", 
-        5
-    ], 
-    [
-        "PROPELLANT EXPLOSIVE  SOLID", 
-        5
-    ], 
-    [
-        "SODIUM ALUMINATE  SOLUTION", 
-        5
-    ], 
-    [
-        "SODIUM PERSULFATE", 
-        5
-    ], 
-    [
-        "SULFUR  MOLTEN", 
-        5
-    ], 
-    [
-        "WATER TREATMENT COMPOUNDS  LIQUID", 
-        5
-    ], 
-    [
-        "ACETONITRILE", 
-        6
-    ], 
-    [
-        "AMMONIA  ANHYDROUS  LIQUEFIED OR AMMONIA SOLUTIONS RELATIVE DENSITY LESS THAN .880 AT 15 DEGREES C IN WATER  WITH MORE THAN 50 PERCENT AMMONIA", 
-        6
-    ], 
-    [
-        "CALCIUM HYPOCHLORITE  DRY OR CALCIUM HYPOCHLORITE MIXTURES DRY WITH MORE THAN 39 PERCENT AVAILABLE CHLORINE (8.8 PERCENT AVAILABLE OXYGEN)", 
-        6
-    ], 
-    [
-        "CARBON DIOXIDE  REFRIGERATED LIQUID", 
-        6
-    ], 
-    [
-        "CORROSIVE LIQUIDS  POISONOUS  N.O.S.", 
-        6
-    ], 
-    [
-        "DICHLOROISOCYANURIC ACID  DRY OR DICHLOROISOCYANURIC ACID SALTS", 
-        6
-    ], 
-    [
-        "ENGINE STARTING FLUID  WITH FLAMMABLE GAS", 
-        6
-    ], 
-    [
-        "GAS OIL", 
-        6
-    ], 
-    [
-        "HEPTANES", 
-        6
-    ], 
-    [
-        "HYPOCHLORITE SOLUTIONS WITH 16 PERCENT OR MORE AVAILABLE CHLORINE", 
-        6
-    ], 
-    [
-        "METHYL CYANIDE", 
-        6
-    ], 
-    [
-        "OXYGEN  COMPRESSED", 
-        6
-    ], 
-    [
-        "PAINT RELATED MATERIAL", 
-        6
-    ], 
-    [
-        "POTASSIUM NITRATE", 
-        6
-    ], 
-    [
-        "RESIN SOLUTION (RESIN COMPOUND  LIQUID)", 
-        6
-    ], 
-    [
-        "TERPENE HYDROCARBONS  N.O.S.", 
-        6
-    ], 
-    [
-        "AEROSOLS  NON-FLAMMABLE  (EACH NOT EXCEEDING 1 L CAPACITY)", 
-        7
-    ], 
-    [
-        "AMMONIUM NITRATE  LIQUID (HOT CONCENTRATED SOLUTION)          )", 
-        7
-    ], 
-    [
-        "AMMONIUM NITRATE FERTILIZERS", 
-        7
-    ], 
-    [
-        "FLAMMABLE LIQUIDS  TOXIC  N.O.S.", 
-        7
-    ], 
-    [
-        "FLAMMABLE SOLIDS  N.O.S.", 
-        7
-    ], 
-    [
-        "HAZARDOUS WASTE  SOLID  N.O.S.", 
-        7
-    ], 
-    [
-        "HYDROCARBONS  LIQUID  N.O.S.", 
-        7
-    ], 
-    [
-        "HYDROCHLORIC ACID", 
-        7
-    ], 
-    [
-        "HYDROGEN PEROXIDE  STABILIZED OR HYDROGEN PEROXIDE AQUEOUS SOLUTIONS  STABILIZED WITH MORE THAN 60 PERCENT HYDROGEN PEROXIDE", 
-        7
-    ], 
-    [
-        "SODIUM NITRATE", 
-        7
-    ], 
-    [
-        "TARS  LIQUID INCLUDING ROAD OILS AND CUTBACK BITUMENS", 
-        7
-    ], 
-    [
-        "TOXIC SOLID  INORGANIC  N.O.S.", 
-        7
-    ], 
-    [
-        "TRICHLOROISOCYANURIC ACID  DRY", 
-        7
-    ], 
-    [
-        "BOILER COMPOUND  LIQUID", 
-        8
-    ], 
-    [
-        "BUTYL ACETATES", 
-        8
-    ], 
-    [
-        "CHLORINE", 
-        8
-    ], 
-    [
-        "CHLOROFORM", 
-        8
-    ], 
-    [
-        "CORROSIVE LIQUIDS  FLAMMABLE  N.O.S.", 
-        8
-    ], 
-    [
-        "CORROSIVE SOLID  ACIDIC  INORGANIC  N.O.S.", 
-        8
-    ], 
-    [
-        "FORMALDEHYDE  SOLUTIONS", 
-        8
-    ], 
-    [
-        "LIGHTER REFILLS CONTAINING FLAMMABLE GAS NOT EXCEEDING 4 FLUID OUNCES (7.22 CUBIC INCHES) AND 65 GRAMS OF FLAMMABLE GAS", 
-        8
-    ], 
-    [
-        "SODIUM NITRITE", 
-        8
-    ], 
-    [
-        "DIPHENYLMETHANE-4 4DIISOCYANATE", 
-        9
-    ], 
-    [
-        "ETHANOLAMINE OR ETHANOLAMINE SOLUTIONS", 
-        9
-    ], 
-    [
-        "FERRIC CHLORIDE  SOLUTION", 
-        9
-    ], 
-    [
-        "FLUOROBORIC ACID", 
-        9
-    ], 
-    [
-        "KEROSENE", 
-        9
-    ], 
-    [
-        "POISONOUS SOLIDS  N.O.S", 
-        9
-    ], 
-    [
-        "RESORCINOL", 
-        9
-    ], 
-    [
-        "SOLVENT  N.O.S.", 
-        9
-    ], 
-    [
-        "AMMONIUM NITRATE  WITH NOT MORE THAN 0.2%  OF COMBUSTIBLE MATERIALS  INCLUDING ANY ORGANIC SUBSTANCE CALCULATED AS CARBON TO THE EXCLUSION OF ANY OTHER ADDED SUBSTANCE", 
-        10
-    ], 
-    [
-        "CEMENT  RUBBER", 
-        10
-    ], 
-    [
-        "COMPOUND  RUST PREVENTING OR COMPOUND  RUST REMOVING", 
-        10
-    ], 
-    [
-        "COMPRESSED GAS  FLAMMABLE  N.O.S.", 
-        10
-    ], 
-    [
-        "ETHANOL SOLUTIONS", 
-        10
-    ], 
-    [
-        "FLUOROSILICIC ACID", 
-        10
-    ], 
-    [
-        "MATCHES  STRIKE ANYWHERE", 
-        10
-    ], 
-    [
-        "PERFUMERY PRODUCTS WITH FLAMMABLE SOLVENTS", 
-        10
-    ], 
-    [
-        "PETROLEUM OIL", 
-        10
-    ], 
-    [
-        "TOLUENE DIISOCYANATE", 
-        10
-    ], 
-    [
-        "HAZARDOUS SUBSTANCE  LIQUID OR SOLID  N.O.S. OR ORM-E  LIQUID OR SOLID  N.O.S.", 
-        11
-    ], 
-    [
-        "NITRIC ACID (OVER 40%)", 
-        11
-    ], 
-    [
-        "ORGANOPHOSPHORUS PESTICIDES  LIQUID  TOXIC  FLAMMABLE  FLASH POINT NOT LESS THAN 23 DEGREES C", 
-        11
-    ], 
-    [
-        "PAINT OR PAINT RELATED MATERIAL", 
-        11
-    ], 
-    [
-        "TETRAHYDROFURAN", 
-        11
-    ], 
-    [
-        "ETHYL METHYL KETONE OR METHYL ETHYL KETONE", 
-        12
-    ], 
-    [
-        "PETROLEUM CRUDE OIL", 
-        12
-    ], 
-    [
-        "AEROSOLS  POISON  PACKING GROUP III (EACH NOT EXCEEDING 1 L CAPACITY)", 
-        13
-    ], 
-    [
-        "CALCIUM HYPOCHLORITE  HYDRATED OR CALCIUM HYPOCHLORITE  HYDRATED MIXTURES  WITH NOT LESS THAN 5.5 PERCENT BUT NOT MORE THAN 16 PERCENT WATER", 
-        13
-    ], 
-    [
-        "CARBON DIOXIDE  SOLID OR DRY ICE", 
-        13
-    ], 
-    [
-        "TRICHLOROETHYLENE", 
-        13
-    ], 
-    [
-        "HEXANES", 
-        14
-    ], 
-    [
-        "ISOPROPYL ALCOHOL", 
-        14
-    ], 
-    [
-        "OXIDIZING SOLID  N.O.S.", 
-        14
-    ], 
-    [
-        "INSECTICIDE  LIQUID  N.O.S.", 
-        15
-    ], 
-    [
-        "TETRACHLOROETHYLENE", 
-        15
-    ], 
-    [
-        "1 1 1-TRICHLOROETHANE", 
-        16
-    ], 
-    [
-        "CORROSIVE SOLID  BASIC  INORGANIC  N.O.S.", 
-        16
-    ], 
-    [
-        "FUEL  AVIATION  TURBINE ENGINE", 
-        16
-    ], 
-    [
-        "HYDROFLUORIC ACID SOLUTION", 
-        16
-    ], 
-    [
-        "ORGANIC PEROXIDE TYPE F  LIQUID", 
-        16
-    ], 
-    [
-        "RADIOACTIVE MATERIAL  N.O.S.", 
-        16
-    ], 
-    [
-        "COMPRESSED GAS  N.O.S", 
-        17
-    ], 
-    [
-        "CORROSIVE LIQUIDS  TOXIC  N.O.S.", 
-        17
-    ], 
-    [
-        "NITROGEN  REFRIGERATED LIQUID (CRYOGENIC LIQUID)", 
-        17
-    ], 
-    [
-        "ORGANIC PEROXIDE TYPE E  LIQUID", 
-        17
-    ], 
-    [
-        "DENATURED ALCOHOL", 
-        18
-    ], 
-    [
-        "OXIDIZING LIQUID  CORROSIVE  N.O.S.", 
-        18
-    ], 
-    [
-        "SODIUM HYDROXIDE  SOLID", 
-        18
-    ], 
-    [
-        "DISINFECTANTS  LIQUID  CORROSIVE N.O.S.", 
-        19
-    ], 
-    [
-        "HYDROGEN  PEROXIDE  AQUEOUS SOLUTIONS WITH MORE THAN 40 PERCENT BUT NOT MORE THAN 60 PERCENT HYDROGEN PEROXIDE (STABILIZED AS NECESSARY)", 
-        19
-    ], 
-    [
-        "TOXIC LIQUIDS  ORGANIC  N.O.S.", 
-        19
-    ], 
-    [
-        "STYRENE MONOMER  STABILIZED", 
-        20
-    ], 
-    [
-        "ACETIC ACID  GLACIAL OR ACETIC ACID SOLUTION  WITH MORE THAN 80 PERCENT ACID  BY MASS", 
-        21
-    ], 
-    [
-        "ETHYL ACETATE", 
-        21
-    ], 
-    [
-        "SULFURIC ACID WITH NOT MORE THAN 51% ACID", 
-        22
-    ], 
-    [
-        "CORROSIVE SOLIDS  N.O.S.", 
-        23
-    ], 
-    [
-        "ENVIRONMENTALLY HAZARDOUS SUBSTANCES  SOLID  N.O.S.", 
-        23
-    ], 
-    [
-        "GASOHOL GASOLINE MIXED WITH ETHYL ALCOHOL  WITH NOT MORE THAN 10% ALCOHOL", 
-        23
-    ], 
-    [
-        "NAPHTHA  PETROLEUM", 
-        23
-    ], 
-    [
-        "COMPOUND  CLEANING  LIQUID (CONTAINING HYDROCHLORIC (MURIATIC) ACID)", 
-        24
-    ], 
-    [
-        "CORROSIVE LIQUID  BASIC  ORGANIC  N.O.S.", 
-        24
-    ], 
-    [
-        "PESTICIDES  LIQUID  TOXIC  N.O.S.", 
-        25
-    ], 
-    [
-        "AMINES  LIQUID  CORROSIVE  N.O.S. OR POLYAMINES  LIQUID  CORROSIVE  N.O.S.", 
-        26
-    ], 
-    [
-        "COMPOUNDS  TREE KILLING  LIQUID OR COMPOUNDS  WEED KILLING  LIQUID", 
-        26
-    ], 
-    [
-        "ACETIC ACID SOLUTION  NOT LESS THAN 50 PERCENT BUT NOT MORE THAN 80 PERCENT ACID  BY MASS", 
-        27
-    ], 
-    [
-        "DICHLOROMETHANE", 
-        27
-    ], 
-    [
-        "FUEL OIL", 
-        27
-    ], 
-    [
-        "ORGANIC PEROXIDE TYPE D  LIQUID", 
-        27
-    ], 
-    [
-        "AEROSOLS  FLAMMABLE  (EACH NOT EXCEEDING 1 L CAPACITY)", 
-        28
-    ], 
-    [
-        "ELEVATED TEMPERATURE LIQUID  N.O.S.  AT OR ABOVE 100 C AND BELOW ITS FLASH POINT (INCLUDING MOLTEN METALS  MOLTEN SALTS  ETC.)", 
-        28
-    ], 
-    [
-        "ORGANOPHOSPHORUS PESTICIDES  SOLID  TOXIC", 
-        28
-    ], 
-    [
-        "TOLUENE", 
-        33
-    ], 
-    [
-        "HYDROGEN PEROXIDE  AQUEOUS SOLUTIONS WITH NOT LESS THAN 20 PERCENT BUT NOT MORE THAN 40 PERCENT HYDROGEN PEROXIDE (STABILIZED AS NECESSARY)", 
-        34
-    ], 
-    [
-        "METHYL ETHYL KETONE", 
-        35
-    ], 
-    [
-        "ENVIRONMENTALLY HAZARDOUS SUBSTANCES  LIQUID  N.O.S.", 
-        38
-    ], 
-    [
-        "COMBUSTIBLE LIQUID  N.O.S.", 
-        39
-    ], 
-    [
-        "COMPOUND  CLEANING  LIQUID (CONTAINING PHOSPHORIC ACID  ACETIC ACID  SODIUM HYDROXIDE OR POTASSIUM HYDROXIDE)", 
-        40
-    ], 
-    [
-        "POISONOUS LIQUIDS  N.O.S.", 
-        40
-    ], 
-    [
-        "AMMONIA SOLUTION  RELATIVE DENSITY BETWEEN 0.880 AND 0.957 AT 15 DEGREES C IN WATER  WITH MORE THAN 10 PERCENT BUT NOT MORE THAN 35 PERCENT AMMONIA", 
-        41
-    ], 
-    [
-        "EXTRACTS  FLAVORING  LIQUID", 
-        42
-    ], 
-    [
-        "NITRIC ACID OTHER THAN RED FUMING  WITH AT LEAST 65 PERCENT  BUT NOT MORE THAN 70 PERCENT NITRIC ACID", 
-        42
-    ], 
-    [
-        "CONSUMER COMMODITY", 
-        43
-    ], 
-    [
-        "ACID  LIQUID  N.O.S.", 
-        44
-    ], 
-    [
-        "ACETONE", 
-        46
-    ], 
-    [
-        "METHYL METHACRYLATE MONOMER  STABILIZED", 
-        46
-    ], 
-    [
-        "HYPOCHLORITE SOLUTIONS WITH MORE THAN 5 PERCENT BUT LESS THAN 16 PERCENT AVAILABLE CHLORINE", 
-        47
-    ], 
-    [
-        "XYLENES", 
-        47
-    ], 
-    [
-        "INK PRINTERS FLAMMABLE", 
-        50
-    ], 
-    [
-        "COMPOUND  LACQUER  PAINT  OR VARNISH  REMOVING  REDUCING  OR THINNING  LIQUID", 
-        51
-    ], 
-    [
-        "COATING SOLUTION ( INCLUDES SURFACE TREATMENTS OR COATINGS USED FOR INDUSTRIAL OR OTHER PURPOSES SUCH AS VEHICLE UNDERCOATING  DRUM OR BARREL LINING )", 
-        52
-    ], 
-    [
-        "FLAMMABLE LIQUIDS  CORROSIVE  N.O.S.", 
-        52
-    ], 
-    [
-        "BATTERY FLUID  ACID", 
-        53
-    ], 
-    [
-        "ETHANOL OR ETHYL ALCOHOL OR ETHANOL SOLUTIONS OR ETHYL ALCOHOL SOLUTIONS", 
-        59
-    ], 
-    [
-        "PETROLEUM DISTILLATES  N.O.S. OR PETROLEUM PRODUCTS  N.O.S.", 
-        59
-    ], 
-    [
-        "PETROLEUM GASES  LIQUEFIED OR LIQUEFIED PETROLEUM GAS", 
-        59
-    ], 
-    [
-        "DIESEL FUEL", 
-        65
-    ], 
-    [
-        "ALCOHOLS  N.O.S.", 
-        66
-    ], 
-    [
-        "CORROSIVE LIQUID  ACIDIC  ORGANIC  N.O.S.", 
-        83
-    ], 
-    [
-        "PHOSPHORIC ACID SOLUTION", 
-        84
-    ], 
-    [
-        "PRINTING INK  FLAMMABLE OR PRINTING INK RELATED MATERIAL (INCLUDING PRINTING INK THINNING OR REDUCING COMPOUND)  FLAMMABLE", 
-        84
-    ], 
-    [
-        "HYDROGEN PEROXIDE AND PEROXYACETIC ACID MIXTURES  STABILIZED WITH ACIDS  WATER  AND NOT MORE THAN 5 PERCENT PEROXYACETIC ACID", 
-        92
-    ], 
-    [
-        "FIRE EXTINGUISHERS CONTAINING COMPRESSED OR LIQUEFIED GAS", 
-        95
-    ], 
-    [
-        "PAINT", 
-        95
-    ], 
-    [
-        "CAUSTIC ALKALI LIQUIDS  N.O.S.", 
-        103
-    ], 
-    [
-        "AMMONIA ANHYDROUS", 
-        110
-    ], 
-    [
-        "FUEL OIL (NO. 1  2  4  5  OR 6)", 
-        110
-    ], 
-    [
-        "METHANOL", 
-        113
-    ], 
-    [
-        "CEMENT", 
-        114
-    ], 
-    [
-        "CORROSIVE LIQUID  ACIDIC  INORGANIC  N.O.S.", 
-        115
-    ], 
-    [
-        "FUEL OIL  NO. 1  2  4  5  OR 6", 
-        122
-    ], 
-    [
-        "POTASSIUM HYDROXIDE  SOLUTION", 
-        124
-    ], 
-    [
-        "SULFURIC ACID", 
-        158
-    ], 
-    [
-        "ISOPROPANOL OR ISOPROPYL ALCOHOL", 
-        161
-    ], 
-    [
-        "CORROSIVE LIQUID  BASIC  INORGANIC  N.O.S.", 
-        196
-    ], 
-    [
-        "HYDROCHLORIC ACID  SOLUTION", 
-        197
-    ], 
-    [
-        "ADHESIVES  CONTAINING A FLAMMABLE LIQUID", 
-        205
-    ], 
-    [
-        "SODIUM HYDROXIDE  SOLUTION", 
-        215
-    ], 
-    [
-        "BATTERIES  WET  FILLED WITH ACID  ELECTRIC STORAGE", 
-        229
-    ], 
-    [
-        "COMPOUNDS  CLEANING LIQUID", 
-        309
-    ], 
-    [
-        "RESIN SOLUTION  FLAMMABLE", 
-        327
-    ], 
-    [
-        "PAINT INCLUDING PAINT  LACQUER  ENAMEL  STAIN  SHELLAC SOLUTIONS  VARNISH  POLISH  LIQUID FILLER AND LIQUID LACQUER BASE", 
-        440
-    ], 
-    [
-        "FLAMMABLE LIQUIDS  N.O.S.", 
-        513
-    ], 
-    [
-        "CORROSIVE LIQUIDS  N.O.S.", 
-        519
-    ], 
-    [
-        "PAINT RELATED MATERIAL INCLUDING PAINT THINNING  DRYING  REMOVING  OR REDUCING COMPOUND", 
-        554
-    ], 
-    [
-        "GASOLINE INCLUDES GASOLINE MIXED WITH ETHYL ALCOHOL  WITH NOT MORE THAN 10% ALCOHOL", 
-        623
     ]
 ]

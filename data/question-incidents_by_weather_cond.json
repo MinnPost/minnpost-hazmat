@@ -1,5 +1,29 @@
 [
     [
+        null, 
+        9380
+    ], 
+    [
+        "CLEAR", 
+        6
+    ], 
+    [
+        "CLEAR/DRY", 
+        2
+    ], 
+    [
+        "Fair", 
+        2
+    ], 
+    [
+        "SUNNY", 
+        2
+    ], 
+    [
+        "dry", 
+        2
+    ], 
+    [
         "35/DARK/CLOUDY", 
         1
     ], 
@@ -130,29 +154,5 @@
     [
         "iced roadways", 
         1
-    ], 
-    [
-        "CLEAR/DRY", 
-        2
-    ], 
-    [
-        "Fair", 
-        2
-    ], 
-    [
-        "SUNNY", 
-        2
-    ], 
-    [
-        "dry", 
-        2
-    ], 
-    [
-        "CLEAR", 
-        6
-    ], 
-    [
-        null, 
-        9380
     ]
 ]
