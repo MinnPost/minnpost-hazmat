@@ -6,6 +6,10 @@ require.config({
   shim: {
     'underscore': {
       exports: '_'
+    },
+    'Highcharts': {
+      exports: 'Highcharts',
+      'deps': [ 'jquery']
     }
   },
   baseUrl: 'js',
@@ -15,7 +19,7 @@ require.config({
     'jquery': '../bower_components/jquery/jquery.min',
     'underscore': '../bower_components/underscore/underscore-min',
     'Ractive': '../bower_components/ractive/build/Ractive-legacy.min',
-    'highcharts': '../bower_components/highcharts/highcharts',
+    'Highcharts': '../bower_components/highcharts/highcharts',
     'minnpost-hazmat': 'app'
   }
 });

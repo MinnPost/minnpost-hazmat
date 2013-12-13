@@ -5,12 +5,12 @@
  * and creates the main object for the application.
  */
 define('minnpost-hazmat', [
-  'underscore', 'Ractive', 'highcharts', 'helpers',
+  'underscore', 'jquery', 'Ractive', 'Highcharts', 'helpers',
   'text!../data/question-incident_by_year.json',
   'text!templates/application.mustache',
   'text!templates/loading.mustache'
 ],
-function(_, Ractive, Highcharts, helpers,
+function(_, $, Ractive, Highcharts, helpers,
   dByYear,
   tApplication, tLoading) {
 
