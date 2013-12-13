@@ -47,7 +47,7 @@ class AlchemyEncoder(json.JSONEncoder):
 def write_json(name, data):
   path = os.path.join(os.path.dirname(__file__), '../data/question-%s.json' % name)
   with open(path, 'w') as output:
-    output.write(json.dumps(data, cls=AlchemyEncoder))
+    output.write(json.dumps(data, cls=AlchemyEncoder, indent=4))
 
 
 # Create connection/database.
@@ -89,7 +89,7 @@ print "Report rows: %s" % report_count
 print "Incident rows: %s" % incident_count
 
 # Some shared values.  This one gets individual incidents and key fields.
-common_query_desc = session.query(Incident.Rpt_Num, Incident.Tot_Amt_of_Damages, Incident.Date_Inc, Incident.Time_Inc, Incident.What_Failed_Desc, Incident.Commod_Long_Name, Incident.Desc_of_Events).distinct(Incident.Rpt_Num)
+common_query_desc = session.query(Incident.Rpt_Num, Incident.C_R_Name, Incident.Ship_Name, Incident.Tot_Amt_of_Damages, Incident.Date_Inc, Incident.Time_Inc, Incident.What_Failed_Desc, Incident.How_Failed_Desc, Incident.Commod_Long_Name, Incident.Quant_Released, Incident.Unit_of_Measure, Incident.Desc_of_Events).distinct(Incident.Rpt_Num)
 # Count of reports
 count = func.count(distinct(Incident.Rpt_Num))
 
@@ -162,4 +162,9 @@ print "Making: 10 expensive incidents"
 money = desc(func.cast(Incident.Tot_Amt_of_Damages, Numeric))
 most_expensive_incidents = common_query_desc.order_by(money).limit(10)
 write_json('most_expensive_incidents', most_expensive_incidents.all())
+
+print "================================="
+print "Making: 20 most released"
+most_released_incidents = common_query_desc.group_by(Incident.Unit_of_Measure, Incident.Quant_Released).order_by(desc(Incident.Quant_Released)).limit(20)
+write_json('most_released_incidents', most_released_incidents.all())
 
