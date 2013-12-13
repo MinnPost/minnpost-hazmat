@@ -25,26 +25,12 @@
     ],
     "returns": "_"
   },
-  "backbone": {
-    "rname": "Backbone",
-    "js": [
-      "backbone/backbone-min"
-    ],
-    "returns": "Backbone"
-  },
   "ractive": {
     "rname": "Ractive",
     "js": [
       "ractive/build/Ractive-legacy.min"
     ],
     "returns": "Ractive"
-  },
-  "ractive-backbone": {
-    "rname": "Ractive-Backbone",
-    "js": [
-      "ractive-backbone/Ractive-Backbone.min"
-    ],
-    "returns": "RactiveBackbone"
   },
   "unsemantic": {
     "css": [

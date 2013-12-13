@@ -4,8 +4,11 @@
  * This pulls in all the parts
  * and creates the main object for the application.
  */
-define('minnpost-hazmat', ['underscore', 'helpers', 'routers'],
-  function(_, helpers, routers) {
+define('minnpost-hazmat', ['underscore', 'Ractive', 'helpers',
+  'text!templates/application.mustache',
+  'text!templates/loading.mustache'],
+  function(_, Ractive, helpers,
+    tApplication, tLoading) {
 
   // Constructor for app
   var App = function(options) {
@@ -21,13 +24,18 @@ define('minnpost-hazmat', ['underscore', 'helpers', 'routers'],
 
   // Start function
   App.prototype.start = function() {
-    // Create router
-    this.router = new routers.Router({
-      app: this
+    // Create application view
+    this.view = new Ractive({
+      el: this.$el,
+      template: tApplication,
+      data: {
+
+      },
+      partials: {
+        loading: tLoading
+      }
     });
 
-    // Start backbone history
-    this.router.start();
   };
 
   return App;

@@ -16,9 +16,7 @@
   "dependencies": {
     "jquery": "~1.9",
     "underscore": "~1.5.2",
-    "backbone": "~1.1.0",
     "ractive": "~0.3.7",
-    "ractive-backbone": "~0.1.0",
     "unsemantic": "*",
     "requirejs": "~2.1.9",
     "text": "~2.0.10"
