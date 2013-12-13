@@ -24,9 +24,6 @@ body .node-unpublished {
   padding-top: 1em;
   font-family: $sans-serif-font;
 
-  max-width: 640px;
-  margin: 1em auto;
-
   .clear {
     clear: both;
   }
@@ -75,11 +72,34 @@ body .node-unpublished {
     }
   }
 
-  
+  .content-container p {
+    text-align: justify;
+  }
 
-  
+  .section {
+    margin-bottom: 5em;
 
-  
+    .section-heading {
+      font-size: 2em;
+      line-height: 1.25em;
+      text-align: center;
+    }
+
+    .section-visual {
+      min-height: 10em;
+    }
+  }
+
+  .single-stat {
+    text-align: center;
+    font-size: 1.5em;
+    line-height: 1.25em;
+
+    .main-number {
+      font-size: 3em;
+      line-height: 1.25em;
+    }
+  }
 
   // Breakpoints
   @media screen and (max-width: 768px) {

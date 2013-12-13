@@ -20,7 +20,6 @@
     "ractive": "~0.3.7",
     "ractive-backbone": "~0.1.0",
     "unsemantic": "*",
-    "undefined": "*",
     "requirejs": "~2.1.9",
     "text": "~2.0.10"
   }

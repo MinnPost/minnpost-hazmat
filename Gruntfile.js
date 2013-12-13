@@ -53,7 +53,6 @@ module.exports = function(grunt) {
       files: ['Gruntfile.js', 'js/*.js', 'data-processing/*.js']
     },
 
-    
     // Compass is an extended SASS.  Set it up so that it generates to .tmp/
     compass: {
       options: {
@@ -81,7 +80,6 @@ module.exports = function(grunt) {
         }
       }
     },
-    
 
     // Copy relevant files over to distribution
     copy: {
@@ -108,7 +106,6 @@ module.exports = function(grunt) {
       }
     },
 
-    
     // R.js to bring together files through requirejs.  We exclude libraries
     // and compile them separately.
     requirejs: {
@@ -132,10 +129,8 @@ module.exports = function(grunt) {
         }
       }
     },
-    
 
     // Brings files toggether
-    
     concat: {
       options: {
         separator: '\r\n\r\n'
@@ -148,7 +143,7 @@ module.exports = function(grunt) {
       // CSS
       css: {
         src: [
-          
+
           '<%= compass.dist.options.cssDir %>/main.css'
         ],
         dest: 'dist/<%= pkg.name %>.<%= pkg.version %>.css'
@@ -159,7 +154,7 @@ module.exports = function(grunt) {
       },
       cssIe: {
         src: [
-          
+
           '<%= compass.dist.options.cssDir %>/main.ie.css'
         ],
         dest: 'dist/<%= pkg.name %>.<%= pkg.version %>.ie.css'
@@ -178,7 +173,6 @@ module.exports = function(grunt) {
         dest: 'dist/<%= pkg.name %>.libs.ie.css'
       }
     },
-    
 
     // Minify JS for network efficiency
     uglify: {
@@ -263,6 +257,7 @@ module.exports = function(grunt) {
         ]
       }
     },
+
     // HTTP Server
     connect: {
       server: {
@@ -271,6 +266,7 @@ module.exports = function(grunt) {
         }
       }
     },
+
     // Watches files for changes and performs task
     watch: {
       files: ['<%= jshint.files %>', 'styles/*.scss'],
@@ -291,16 +287,12 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-s3');
 
-  
-
   // Default build task
   grunt.registerTask('default', ['jshint', 'compass:dist', 'clean', 'copy', 'requirejs', 'concat', 'cssmin', 'uglify']);
 
   // Watch tasks
-  
   grunt.registerTask('watcher', ['jshint', 'compass:dev']);
   grunt.registerTask('server', ['compass:dev', 'connect', 'watch']);
-  
 
   // Deploy tasks
   grunt.registerTask('deploy', ['s3']);
