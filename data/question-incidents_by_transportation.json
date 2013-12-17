@@ -1,22 +1,18 @@
 [
-    [
-        "Highway", 
-        8870
-    ], 
-    [
-        "Rail", 
-        330
-    ], 
-    [
-        "Air", 
-        222
-    ], 
-    [
-        "OTHER", 
-        4
-    ], 
-    [
-        "Water", 
-        1
-    ]
+    {
+        "count": 3518, 
+        "Mode_Transpo": "Highway"
+    }, 
+    {
+        "count": 136, 
+        "Mode_Transpo": "Air"
+    }, 
+    {
+        "count": 123, 
+        "Mode_Transpo": "Rail"
+    }, 
+    {
+        "count": 1, 
+        "Mode_Transpo": "Water"
+    }
 ]

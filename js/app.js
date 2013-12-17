@@ -11,11 +11,13 @@ define('minnpost-hazmat', [
   'text!../data/question-incidents_by_material.json',
   'text!../data/question-incidents_by_carrier.json',
   'text!../data/question-incidents_by_shipper.json',
+  'text!../data/question-most_released_incidents_lga.json',
+  'text!../data/question-most_released_incidents_slb.json',
   'text!templates/application.mustache',
   'text!templates/loading.mustache'
 ],
 function(_, $, Ractive, Highcharts, helpers,
-  dTotal, dByYear, dByMaterial, dByCarrier, dByShipper,
+  dTotal, dByYear, dByMaterial, dByCarrier, dByShipper, dTopLGA, dTopSLB,
   tApplication, tLoading) {
 
   // Parse the incoming data
@@ -24,8 +26,18 @@ function(_, $, Ractive, Highcharts, helpers,
     byYear: JSON.parse(dByYear),
     byMaterial: JSON.parse(dByMaterial),
     byCarrier: _.first(JSON.parse(dByCarrier), 10),
-    byShipper: _.first(JSON.parse(dByShipper), 10)
+    byShipper: _.first(JSON.parse(dByShipper), 10),
+    topGallons: _.first(JSON.parse(dTopLGA), 2),
+    topPounds: _.first(JSON.parse(dTopSLB), 2)
   };
+
+  // Make some data into arrays for charting
+  pData.byYearArray = _.map(pData.byYear, function(d) {
+    return [ d.year, d.count ];
+  });
+  pData.byMaterialArray = _.map(pData.byMaterial, function(d) {
+    return [ d.Commod_Long_Name, d.count ];
+  });
 
   // Constructor for app
   var App = function(options) {
@@ -62,7 +74,7 @@ function(_, $, Ractive, Highcharts, helpers,
       });
 
       // Observe data to make some charts
-      this.view.observe('sources.byYear', function(n, o) {
+      this.view.observe('sources.byYearArray', function(n, o) {
         var options;
 
         if (!_.isUndefined(n)) {
@@ -77,7 +89,7 @@ function(_, $, Ractive, Highcharts, helpers,
         }
       });
 
-      this.view.observe('sources.byMaterial', function(n, o) {
+      this.view.observe('sources.byMaterialArray', function(n, o) {
         var options;
 
         if (!_.isUndefined(n)) {
@@ -99,10 +111,10 @@ function(_, $, Ractive, Highcharts, helpers,
     // Make stats
     makeStats: function() {
       return {
-        // There are two years that have the max
-        //topYear: _.max(pData.byYear, function(d) { return d[1]; })[0],
-        total: pData.total[0][0],
-        topYearCount: _.max(pData.byYear, function(d) { return d[1]; })[1]
+        pastYears: _.size(pData.byYear),
+        topYear: _.max(pData.byYear, function(d) { return d.count; }).year,
+        total: pData.total[0].count,
+        topYearCount: _.max(pData.byYear, function(d) { return d.count; }).count
       };
     },
 

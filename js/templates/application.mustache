@@ -6,11 +6,11 @@
 
   <div class="single-stat section">
     <div class="main-number">{{ fNum(stats.total, 0) }}</div>
-    Incidents over the past 40 years
+    Incidents over the past {{ stats.pastYears }} years
   </div>
 
   <div class="section">
-    <div class="section-heading">1994 and 2006 both saw the most incidents with {{ fNum(stats.topYearCount, 0) }}.</div>
+    <div class="section-heading">{{ stats.topYear }} saw the most incidents with {{ fNum(stats.topYearCount, 0) }}.</div>
 
     <div class="section-visual">
       <div class="chart chart-incidents-by-year"></div>
@@ -35,7 +35,7 @@
     <div class="section-visual">
       <ul>
         {{#sources.byCarrier:i}}
-          <li>{{ arrayItem(., 0) }}: <strong>{{ fNum(arrayItem(., 1), 0) }}</li>
+          <li>{{ C_R_Name }}: <strong>{{ fNum(count, 0) }}</li>
         {{/sources.byCarrier}}
       </ul>
     </div>
@@ -49,12 +49,40 @@
     <div class="section-visual">
       <ul>
         {{#sources.byShipper:i}}
-          <li>{{ arrayItem(., 0) }}: <strong>{{ fNum(arrayItem(., 1), 0) }}</li>
+          <li>{{ Ship_Name }}: <strong>{{ fNum(count, 0) }}</li>
         {{/sources.byShipper}}
       </ul>
     </div>
 
     <div class="section-footing">Blah akbskjdfh ksjhdf ksjhdf ksjd fsdkjhf skjfh skjdfh skjfh wodihf wkdj flksjf lkjdf lskf pwiojfd lksdjf lskjf sdlkfjowijdf lksjdf a;lkdjf a;lkj ;l dk lskfj lskjdf woiu fkj lskjf alkjsd flskjls fow l ls ldk lsk f slkfj ls.</div>
+  </div>
+
+  <div class="section">
+    <div class="section-heading">Top liquids spilled</div>
+
+    <div class="section-visual">
+      {{#sources.topGallons:i}}
+        <div class="">
+          On {{ Date_Inc }}, {{ C_R_Name }} was making a shipment for {{ Ship_Name }} traveling via {{ Mode_Transpo }}.  At around {{ Time_Inc }} an accident occured that spilled {{ fNum(Quant_Released , 0) }} gallons of {{ Commod_Long_Name }}.  Reported details below: <br><br>
+
+          <small>{{ Desc_of_Events }}</small> <br><br>
+        </div>
+      {{/sources.topGallons}}
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-heading">Top other things spilled</div>
+
+    <div class="section-visual">
+      {{#sources.topPounds:i}}
+        <div class="">
+          On {{ Date_Inc }}, {{ C_R_Name }} was making a shipment for {{ Ship_Name }} traveling via {{ Mode_Transpo }}.  At around {{ Time_Inc }} an accident occured that spilled {{ fNum(Quant_Released , 0) }} gallons of {{ Commod_Long_Name }}.  Reported details below: <br><br>
+
+          <small>{{ Desc_of_Events }}</small> <br><br>
+        </div>
+      {{/sources.topPounds}}
+    </div>
   </div>
 
 </div>

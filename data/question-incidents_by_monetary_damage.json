@@ -1,410 +1,306 @@
 [
-    [
-        0, 
-        8861
-    ], 
-    [
-        1000, 
-        140
-    ], 
-    [
-        2000, 
-        98
-    ], 
-    [
-        3000, 
-        65
-    ], 
-    [
-        5000, 
-        34
-    ], 
-    [
-        4000, 
-        21
-    ], 
-    [
-        7000, 
-        17
-    ], 
-    [
-        10000, 
-        11
-    ], 
-    [
-        6000, 
-        10
-    ], 
-    [
-        12000, 
-        10
-    ], 
-    [
-        8000, 
-        6
-    ], 
-    [
-        30000, 
-        6
-    ], 
-    [
-        15000, 
-        5
-    ], 
-    [
-        60000, 
-        5
-    ], 
-    [
-        11000, 
-        4
-    ], 
-    [
-        18000, 
-        4
-    ], 
-    [
-        25000, 
-        4
-    ], 
-    [
-        36000, 
-        4
-    ], 
-    [
-        51000, 
-        4
-    ], 
-    [
-        9000, 
-        3
-    ], 
-    [
-        29000, 
-        3
-    ], 
-    [
-        63000, 
-        3
-    ], 
-    [
-        100000, 
-        3
-    ], 
-    [
-        141000, 
-        3
-    ], 
-    [
-        160000, 
-        3
-    ], 
-    [
-        13000, 
-        2
-    ], 
-    [
-        14000, 
-        2
-    ], 
-    [
-        21000, 
-        2
-    ], 
-    [
-        22000, 
-        2
-    ], 
-    [
-        23000, 
-        2
-    ], 
-    [
-        34000, 
-        2
-    ], 
-    [
-        35000, 
-        2
-    ], 
-    [
-        37000, 
-        2
-    ], 
-    [
-        39000, 
-        2
-    ], 
-    [
-        40000, 
-        2
-    ], 
-    [
-        42000, 
-        2
-    ], 
-    [
-        49000, 
-        2
-    ], 
-    [
-        50000, 
-        2
-    ], 
-    [
-        61000, 
-        2
-    ], 
-    [
-        62000, 
-        2
-    ], 
-    [
-        78000, 
-        2
-    ], 
-    [
-        80000, 
-        2
-    ], 
-    [
-        85000, 
-        2
-    ], 
-    [
-        92000, 
-        2
-    ], 
-    [
-        93000, 
-        2
-    ], 
-    [
-        96000, 
-        2
-    ], 
-    [
-        114000, 
-        2
-    ], 
-    [
-        436000, 
-        2
-    ], 
-    [
-        16000, 
-        1
-    ], 
-    [
-        19000, 
-        1
-    ], 
-    [
-        20000, 
-        1
-    ], 
-    [
-        28000, 
-        1
-    ], 
-    [
-        32000, 
-        1
-    ], 
-    [
-        38000, 
-        1
-    ], 
-    [
-        45000, 
-        1
-    ], 
-    [
-        52000, 
-        1
-    ], 
-    [
-        56000, 
-        1
-    ], 
-    [
-        64000, 
-        1
-    ], 
-    [
-        66000, 
-        1
-    ], 
-    [
-        67000, 
-        1
-    ], 
-    [
-        72000, 
-        1
-    ], 
-    [
-        81000, 
-        1
-    ], 
-    [
-        83000, 
-        1
-    ], 
-    [
-        87000, 
-        1
-    ], 
-    [
-        88000, 
-        1
-    ], 
-    [
-        90000, 
-        1
-    ], 
-    [
-        97000, 
-        1
-    ], 
-    [
-        102000, 
-        1
-    ], 
-    [
-        104000, 
-        1
-    ], 
-    [
-        105000, 
-        1
-    ], 
-    [
-        107000, 
-        1
-    ], 
-    [
-        108000, 
-        1
-    ], 
-    [
-        109000, 
-        1
-    ], 
-    [
-        112000, 
-        1
-    ], 
-    [
-        117000, 
-        1
-    ], 
-    [
-        118000, 
-        1
-    ], 
-    [
-        122000, 
-        1
-    ], 
-    [
-        126000, 
-        1
-    ], 
-    [
-        130000, 
-        1
-    ], 
-    [
-        134000, 
-        1
-    ], 
-    [
-        142000, 
-        1
-    ], 
-    [
-        144000, 
-        1
-    ], 
-    [
-        145000, 
-        1
-    ], 
-    [
-        147000, 
-        1
-    ], 
-    [
-        150000, 
-        1
-    ], 
-    [
-        151000, 
-        1
-    ], 
-    [
-        161000, 
-        1
-    ], 
-    [
-        163000, 
-        1
-    ], 
-    [
-        172000, 
-        1
-    ], 
-    [
-        179000, 
-        1
-    ], 
-    [
-        180000, 
-        1
-    ], 
-    [
-        185000, 
-        1
-    ], 
-    [
-        188000, 
-        1
-    ], 
-    [
-        200000, 
-        1
-    ], 
-    [
-        203000, 
-        1
-    ], 
-    [
-        209000, 
-        1
-    ], 
-    [
-        230000, 
-        1
-    ], 
-    [
-        235000, 
-        1
-    ], 
-    [
-        243000, 
-        1
-    ], 
-    [
-        1150000, 
-        1
-    ], 
-    [
-        1550000, 
-        1
-    ], 
-    [
-        1600000, 
-        1
-    ]
+    {
+        "count": 3401, 
+        "money_thousands": 0
+    }, 
+    {
+        "count": 99, 
+        "money_thousands": 1000
+    }, 
+    {
+        "count": 72, 
+        "money_thousands": 2000
+    }, 
+    {
+        "count": 50, 
+        "money_thousands": 3000
+    }, 
+    {
+        "count": 18, 
+        "money_thousands": 5000
+    }, 
+    {
+        "count": 13, 
+        "money_thousands": 4000
+    }, 
+    {
+        "count": 13, 
+        "money_thousands": 7000
+    }, 
+    {
+        "count": 8, 
+        "money_thousands": 6000
+    }, 
+    {
+        "count": 6, 
+        "money_thousands": 10000
+    }, 
+    {
+        "count": 6, 
+        "money_thousands": 12000
+    }, 
+    {
+        "count": 5, 
+        "money_thousands": 8000
+    }, 
+    {
+        "count": 4, 
+        "money_thousands": 11000
+    }, 
+    {
+        "count": 4, 
+        "money_thousands": 30000
+    }, 
+    {
+        "count": 3, 
+        "money_thousands": 18000
+    }, 
+    {
+        "count": 3, 
+        "money_thousands": 141000
+    }, 
+    {
+        "count": 2, 
+        "money_thousands": 13000
+    }, 
+    {
+        "count": 2, 
+        "money_thousands": 15000
+    }, 
+    {
+        "count": 2, 
+        "money_thousands": 21000
+    }, 
+    {
+        "count": 2, 
+        "money_thousands": 29000
+    }, 
+    {
+        "count": 2, 
+        "money_thousands": 42000
+    }, 
+    {
+        "count": 2, 
+        "money_thousands": 60000
+    }, 
+    {
+        "count": 2, 
+        "money_thousands": 62000
+    }, 
+    {
+        "count": 2, 
+        "money_thousands": 63000
+    }, 
+    {
+        "count": 2, 
+        "money_thousands": 80000
+    }, 
+    {
+        "count": 2, 
+        "money_thousands": 92000
+    }, 
+    {
+        "count": 2, 
+        "money_thousands": 114000
+    }, 
+    {
+        "count": 2, 
+        "money_thousands": 160000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 9000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 14000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 16000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 20000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 22000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 23000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 25000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 28000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 32000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 34000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 35000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 36000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 37000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 39000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 40000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 49000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 51000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 52000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 56000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 61000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 66000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 67000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 72000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 81000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 85000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 88000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 90000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 93000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 96000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 97000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 100000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 105000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 107000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 112000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 118000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 126000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 145000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 151000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 161000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 163000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 185000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 188000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 200000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 209000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 230000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 235000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 436000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 1150000
+    }, 
+    {
+        "count": 1, 
+        "money_thousands": 1600000
+    }
 ]

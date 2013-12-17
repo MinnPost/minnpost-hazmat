@@ -1,206 +1,198 @@
 [
-    [
-        "MINNESOTA", 
-        2862
-    ], 
-    [
-        "ILLINOIS", 
-        1178
-    ], 
-    [
-        "TEXAS", 
-        449
-    ], 
-    [
-        "OHIO", 
-        441
-    ], 
-    [
-        "NEW JERSEY", 
-        350
-    ], 
-    [
-        "WISCONSIN", 
-        325
-    ], 
-    [
-        "MICHIGAN", 
-        320
-    ], 
-    [
-        "CALIFORNIA", 
-        289
-    ], 
-    [
-        "MISSOURI", 
-        287
-    ], 
-    [
-        "PENNSYLVANIA", 
-        274
-    ], 
-    [
-        "INDIANA", 
-        236
-    ], 
-    [
-        "GEORGIA", 
-        228
-    ], 
-    [
-        null, 
-        216
-    ], 
-    [
-        "NEW YORK", 
-        216
-    ], 
-    [
-        "IOWA", 
-        182
-    ], 
-    [
-        "NORTH CAROLINA", 
-        143
-    ], 
-    [
-        "TENNESSEE", 
-        127
-    ], 
-    [
-        "KENTUCKY", 
-        122
-    ], 
-    [
-        "KANSAS", 
-        99
-    ], 
-    [
-        "MASSACHUSETTS", 
-        98
-    ], 
-    [
-        "FLORIDA", 
-        94
-    ], 
-    [
-        "NORTH DAKOTA", 
-        89
-    ], 
-    [
-        "OKLAHOMA", 
-        80
-    ], 
-    [
-        "VIRGINIA", 
-        75
-    ], 
-    [
-        "WASHINGTON", 
-        56
-    ], 
-    [
-        "NEBRASKA", 
-        54
-    ], 
-    [
-        "CONNECTICUT", 
-        53
-    ], 
-    [
-        "ALABAMA", 
-        45
-    ], 
-    [
-        "MARYLAND", 
-        43
-    ], 
-    [
-        "ARKANSAS", 
-        42
-    ], 
-    [
-        "COLORADO", 
-        39
-    ], 
-    [
-        "LOUISIANA", 
-        39
-    ], 
-    [
-        "SOUTH DAKOTA", 
-        37
-    ], 
-    [
-        "SOUTH CAROLINA", 
-        34
-    ], 
-    [
-        "OREGON", 
-        31
-    ], 
-    [
-        "MISSISSIPPI", 
-        30
-    ], 
-    [
-        "ARIZONA", 
-        25
-    ], 
-    [
-        "WEST VIRGINIA", 
-        23
-    ], 
-    [
-        "MONTANA", 
-        18
-    ], 
-    [
-        "NEVADA", 
-        18
-    ], 
-    [
-        "DELAWARE", 
-        13
-    ], 
-    [
-        "UTAH", 
-        11
-    ], 
-    [
-        "RHODE ISLAND", 
-        9
-    ], 
-    [
-        "NEW HAMPSHIRE", 
-        8
-    ], 
-    [
-        "IDAHO", 
-        7
-    ], 
-    [
-        "MAINE", 
-        6
-    ], 
-    [
-        "WYOMING", 
-        6
-    ], 
-    [
-        "VERMONT", 
-        3
-    ], 
-    [
-        "NEW MEXICO", 
-        2
-    ], 
-    [
-        "DISTRICT OF COLUMBIA", 
-        1
-    ], 
-    [
-        "HAWAII", 
-        1
-    ]
+    {
+        "count": 1011, 
+        "Orig_State": "MINNESOTA"
+    }, 
+    {
+        "count": 576, 
+        "Orig_State": "ILLINOIS"
+    }, 
+    {
+        "count": 233, 
+        "Orig_State": "TEXAS"
+    }, 
+    {
+        "count": 146, 
+        "Orig_State": "OHIO"
+    }, 
+    {
+        "count": 142, 
+        "Orig_State": "CALIFORNIA"
+    }, 
+    {
+        "count": 118, 
+        "Orig_State": "PENNSYLVANIA"
+    }, 
+    {
+        "count": 115, 
+        "Orig_State": "GEORGIA"
+    }, 
+    {
+        "count": 114, 
+        "Orig_State": "WISCONSIN"
+    }, 
+    {
+        "count": 102, 
+        "Orig_State": "MISSOURI"
+    }, 
+    {
+        "count": 102, 
+        "Orig_State": "NEW JERSEY"
+    }, 
+    {
+        "count": 100, 
+        "Orig_State": "INDIANA"
+    }, 
+    {
+        "count": 98, 
+        "Orig_State": "MICHIGAN"
+    }, 
+    {
+        "count": 88, 
+        "Orig_State": "NORTH CAROLINA"
+    }, 
+    {
+        "count": 73, 
+        "Orig_State": "IOWA"
+    }, 
+    {
+        "count": 72, 
+        "Orig_State": "NEW YORK"
+    }, 
+    {
+        "count": 67, 
+        "Orig_State": null
+    }, 
+    {
+        "count": 55, 
+        "Orig_State": "FLORIDA"
+    }, 
+    {
+        "count": 49, 
+        "Orig_State": "NORTH DAKOTA"
+    }, 
+    {
+        "count": 46, 
+        "Orig_State": "TENNESSEE"
+    }, 
+    {
+        "count": 44, 
+        "Orig_State": "KENTUCKY"
+    }, 
+    {
+        "count": 44, 
+        "Orig_State": "VIRGINIA"
+    }, 
+    {
+        "count": 40, 
+        "Orig_State": "OKLAHOMA"
+    }, 
+    {
+        "count": 32, 
+        "Orig_State": "KANSAS"
+    }, 
+    {
+        "count": 32, 
+        "Orig_State": "NEBRASKA"
+    }, 
+    {
+        "count": 28, 
+        "Orig_State": "MASSACHUSETTS"
+    }, 
+    {
+        "count": 24, 
+        "Orig_State": "COLORADO"
+    }, 
+    {
+        "count": 23, 
+        "Orig_State": "WASHINGTON"
+    }, 
+    {
+        "count": 20, 
+        "Orig_State": "LOUISIANA"
+    }, 
+    {
+        "count": 19, 
+        "Orig_State": "CONNECTICUT"
+    }, 
+    {
+        "count": 18, 
+        "Orig_State": "ARKANSAS"
+    }, 
+    {
+        "count": 17, 
+        "Orig_State": "ALABAMA"
+    }, 
+    {
+        "count": 16, 
+        "Orig_State": "ARIZONA"
+    }, 
+    {
+        "count": 16, 
+        "Orig_State": "SOUTH DAKOTA"
+    }, 
+    {
+        "count": 13, 
+        "Orig_State": "MARYLAND"
+    }, 
+    {
+        "count": 13, 
+        "Orig_State": "SOUTH CAROLINA"
+    }, 
+    {
+        "count": 12, 
+        "Orig_State": "NEVADA"
+    }, 
+    {
+        "count": 11, 
+        "Orig_State": "OREGON"
+    }, 
+    {
+        "count": 10, 
+        "Orig_State": "MISSISSIPPI"
+    }, 
+    {
+        "count": 9, 
+        "Orig_State": "MONTANA"
+    }, 
+    {
+        "count": 8, 
+        "Orig_State": "WEST VIRGINIA"
+    }, 
+    {
+        "count": 7, 
+        "Orig_State": "NEW HAMPSHIRE"
+    }, 
+    {
+        "count": 6, 
+        "Orig_State": "DELAWARE"
+    }, 
+    {
+        "count": 3, 
+        "Orig_State": "UTAH"
+    }, 
+    {
+        "count": 3, 
+        "Orig_State": "VERMONT"
+    }, 
+    {
+        "count": 3, 
+        "Orig_State": "WYOMING"
+    }, 
+    {
+        "count": 2, 
+        "Orig_State": "IDAHO"
+    }, 
+    {
+        "count": 1, 
+        "Orig_State": "DISTRICT OF COLUMBIA"
+    }, 
+    {
+        "count": 1, 
+        "Orig_State": "HAWAII"
+    }, 
+    {
+        "count": 1, 
+        "Orig_State": "RHODE ISLAND"
+    }
 ]

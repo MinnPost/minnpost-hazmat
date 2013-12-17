@@ -1,2430 +1,1318 @@
 [
-    [
-        "ST PAUL", 
-        1401
-    ], 
-    [
-        "MINNEAPOLIS", 
-        1074
-    ], 
-    [
-        "BURNSVILLE", 
-        981
-    ], 
-    [
-        "EAGAN", 
-        955
-    ], 
-    [
-        "MAHTOMEDI", 
-        685
-    ], 
-    [
-        "ROSEVILLE", 
-        656
-    ], 
-    [
-        "BLAINE", 
-        282
-    ], 
-    [
-        "FRIDLEY", 
-        167
-    ], 
-    [
-        "SHOREVIEW", 
-        150
-    ], 
-    [
-        "OWATONNA", 
-        146
-    ], 
-    [
-        "SAINT PAUL", 
-        116
-    ], 
-    [
-        "BLOOMINGTON", 
-        109
-    ], 
-    [
-        "ROCHESTER", 
-        87
-    ], 
-    [
-        "MAPLE GROVE", 
-        78
-    ], 
-    [
-        "MANKATO", 
-        77
-    ], 
-    [
-        "COON RAPIDS", 
-        67
-    ], 
-    [
-        "DULUTH", 
-        65
-    ], 
-    [
-        "ST CLOUD", 
-        62
-    ], 
-    [
-        "Mahtomedi", 
-        60
-    ], 
-    [
-        "NEW BRIGHTON", 
-        56
-    ], 
-    [
-        "WILLMAR", 
-        55
-    ], 
-    [
-        "SHAKOPEE", 
-        44
-    ], 
-    [
-        "WINONA", 
-        36
-    ], 
-    [
-        "NEW ULM", 
-        34
-    ], 
-    [
-        "FARIBAULT", 
-        33
-    ], 
-    [
-        "WAITE PARK", 
-        32
-    ], 
-    [
-        "ALBERT LEA", 
-        27
-    ], 
-    [
-        "SPRING VALLEY", 
-        27
-    ], 
-    [
-        "MARSHALL", 
-        26
-    ], 
-    [
-        "PINE BEND", 
-        26
-    ], 
-    [
-        "AUSTIN", 
-        23
-    ], 
-    [
-        "BRAINERD", 
-        23
-    ], 
-    [
-        "Fridley", 
-        23
-    ], 
-    [
-        "LAKEVILLE", 
-        23
-    ], 
-    [
-        "BROOKLYN PARK", 
-        22
-    ], 
-    [
-        "FARMINGTON", 
-        22
-    ], 
-    [
-        "MOUNDS VIEW", 
-        22
-    ], 
-    [
-        "SAINT CLOUD", 
-        22
-    ], 
-    [
-        "Minneapolis", 
-        21
-    ], 
-    [
-        "VIRGINIA", 
-        21
-    ], 
-    [
-        "EDEN PRAIRIE", 
-        20
-    ], 
-    [
-        "JACKSON", 
-        20
-    ], 
-    [
-        "ROSEMOUNT", 
-        20
-    ], 
-    [
-        "CLOQUET", 
-        19
-    ], 
-    [
-        "PLYMOUTH", 
-        19
-    ], 
-    [
-        "SACRED HEART", 
-        19
-    ], 
-    [
-        "ST PAUL PARK", 
-        19
-    ], 
-    [
-        "GRAND RAPIDS", 
-        18
-    ], 
-    [
-        "Grant", 
-        18
-    ], 
-    [
-        "MINNETONKA", 
-        18
-    ], 
-    [
-        "ANOKA", 
-        17
-    ], 
-    [
-        "BEMIDJI", 
-        17
-    ], 
-    [
-        "CIRCLE PINES", 
-        17
-    ], 
-    [
-        "HOYT LAKES", 
-        17
-    ], 
-    [
-        "MOUNDSVIEW", 
-        17
-    ], 
-    [
-        "HIBBING", 
-        16
-    ], 
-    [
-        "HUTCHINSON", 
-        16
-    ], 
-    [
-        "ALEXANDRIA", 
-        15
-    ], 
-    [
-        "GRANITE FALLS", 
-        13
-    ], 
-    [
-        "NORTHFIELD", 
-        13
-    ], 
-    [
-        "ST LOUIS PARK", 
-        13
-    ], 
-    [
-        "COTTAGE GROVE", 
-        12
-    ], 
-    [
-        "DILWORTH", 
-        12
-    ], 
-    [
-        "EDINA", 
-        12
-    ], 
-    [
-        "GLENWOOD", 
-        12
-    ], 
-    [
-        "MOUNTAIN IRON", 
-        12
-    ], 
-    [
-        "GLENCOE", 
-        11
-    ], 
-    [
-        "HERMANTOWN", 
-        11
-    ], 
-    [
-        "INVER GROVE HEIGHTS", 
-        11
-    ], 
-    [
-        "MOORHEAD", 
-        11
-    ], 
-    [
-        "NEWPORT", 
-        11
-    ], 
-    [
-        "BROOKLYN CENTER", 
-        10
-    ], 
-    [
-        "CHASKA", 
-        10
-    ], 
-    [
-        "HASTINGS", 
-        10
-    ], 
-    [
-        "SOUTH ST PAUL", 
-        10
-    ], 
-    [
-        "ST. PAUL", 
-        10
-    ], 
-    [
-        "THIEF RIVER FALLS", 
-        10
-    ], 
-    [
-        "CANNON FALLS", 
-        9
-    ], 
-    [
-        "Eagan", 
-        9
-    ], 
-    [
-        "FERGUS FALLS", 
-        9
-    ], 
-    [
-        "RED WING", 
-        9
-    ], 
-    [
-        "MAPLE PLAIN", 
-        8
-    ], 
-    [
-        "NORTH MANKATO", 
-        8
-    ], 
-    [
-        "THIEF RIV FLS", 
-        8
-    ], 
-    [
-        "UNKNOWN", 
-        8
-    ], 
-    [
-        "WHITE BEAR LK", 
-        8
-    ], 
-    [
-        "BIWABIK", 
-        7
-    ], 
-    [
-        "GOLDEN VALLEY", 
-        7
-    ], 
-    [
-        "INTL FALLS", 
-        7
-    ], 
-    [
-        "ISANTI", 
-        7
-    ], 
-    [
-        "KEEWATIN", 
-        7
-    ], 
-    [
-        "MAPLEWOOD", 
-        7
-    ], 
-    [
-        "MORRIS", 
-        7
-    ], 
-    [
-        "OSSEO", 
-        7
-    ], 
-    [
-        "RICHFIELD", 
-        7
-    ], 
-    [
-        "SAUK CENTRE", 
-        7
-    ], 
-    [
-        "STILLWATER", 
-        7
-    ], 
-    [
-        "WHITE BEAR LAKE", 
-        7
-    ], 
-    [
-        "BAYPORT", 
-        6
-    ], 
-    [
-        "BUFFALO", 
-        6
-    ], 
-    [
-        "BURNSVLLE", 
-        6
-    ], 
-    [
-        "COONS RAPIDS", 
-        6
-    ], 
-    [
-        "CRYSTAL", 
-        6
-    ], 
-    [
-        "DETROIT LAKES", 
-        6
-    ], 
-    [
-        "ELY", 
-        6
-    ], 
-    [
-        "HAMPTON", 
-        6
-    ], 
-    [
-        "LITTLE FALLS", 
-        6
-    ], 
-    [
-        "MIESVILLE", 
-        6
-    ], 
-    [
-        "NEW HOPE", 
-        6
-    ], 
-    [
-        "OAKDALE", 
-        6
-    ], 
-    [
-        "SAINT JAMES", 
-        6
-    ], 
-    [
-        "SLAYTON", 
-        6
-    ], 
-    [
-        "St. Paul", 
-        6
-    ], 
-    [
-        "WADENA", 
-        6
-    ], 
-    [
-        "BECKER", 
-        5
-    ], 
-    [
-        "BLOOMING PRAIRIE", 
-        5
-    ], 
-    [
-        "CHATFIELD", 
-        5
-    ], 
-    [
-        "EVELETH", 
-        5
-    ], 
-    [
-        "FOREST LAKE", 
-        5
-    ], 
-    [
-        "GRAND MARAIS", 
-        5
-    ], 
-    [
-        "HOPKINS", 
-        5
-    ], 
-    [
-        "LINO LAKES", 
-        5
-    ], 
-    [
-        "ORTONVILLE", 
-        5
-    ], 
-    [
-        "ROGERS", 
-        5
-    ], 
-    [
-        "SAVAGE", 
-        5
-    ], 
-    [
-        "SLEEPY EYE", 
-        5
-    ], 
-    [
-        "ST JAMES", 
-        5
-    ], 
-    [
-        "WINNEBAGO", 
-        5
-    ], 
-    [
-        "WINSTED", 
-        5
-    ], 
-    [
-        "ANNANDALE", 
-        4
-    ], 
-    [
-        "APPLE VALLEY", 
-        4
-    ], 
-    [
-        "BACKUS", 
-        4
-    ], 
-    [
-        "BELLE PLAINE", 
-        4
-    ], 
-    [
-        "CARLTON", 
-        4
-    ], 
-    [
-        "DODGE CENTER", 
-        4
-    ], 
-    [
-        "EAST GRAND FORKS", 
-        4
-    ], 
-    [
-        "ELLENDALE", 
-        4
-    ], 
-    [
-        "FAIRMONT", 
-        4
-    ], 
-    [
-        "LAKEFIELD", 
-        4
-    ], 
-    [
-        "MONTICELLO", 
-        4
-    ], 
-    [
-        "OLIVIA", 
-        4
-    ], 
-    [
-        "Owatonna", 
-        4
-    ], 
-    [
-        "PINE CITY", 
-        4
-    ], 
-    [
-        "PRIOR LAKE", 
-        4
-    ], 
-    [
-        "RICE", 
-        4
-    ], 
-    [
-        "SAINT AUGUSTA", 
-        4
-    ], 
-    [
-        "SAUK RAPIDS", 
-        4
-    ], 
-    [
-        "SOUTH SAINT PAUL", 
-        4
-    ], 
-    [
-        "ST CHARLES", 
-        4
-    ], 
-    [
-        "Saint Paul", 
-        4
-    ], 
-    [
-        "Shakopee", 
-        4
-    ], 
-    [
-        "TRACY", 
-        4
-    ], 
-    [
-        "TWO HARBORS", 
-        4
-    ], 
-    [
-        "WABASHA", 
-        4
-    ], 
-    [
-        "WACONIA", 
-        4
-    ], 
-    [
-        "WARREN", 
-        4
-    ], 
-    [
-        "WAYZATA", 
-        4
-    ], 
-    [
-        "WINDOM", 
-        4
-    ], 
-    [
-        "WORTHINGTON", 
-        4
-    ], 
-    [
-        "WRENSHALL", 
-        4
-    ], 
-    [
-        "ALBERTVILLE", 
-        3
-    ], 
-    [
-        "ALBUQUERQUE", 
-        3
-    ], 
-    [
-        "ALTURA", 
-        3
-    ], 
-    [
-        "BABBITT", 
-        3
-    ], 
-    [
-        "BENSON", 
-        3
-    ], 
-    [
-        "BLUE EARTH", 
-        3
-    ], 
-    [
-        "BROOKLYN CTR", 
-        3
-    ], 
-    [
-        "BYRON", 
-        3
-    ], 
-    [
-        "CAMBRIDGE", 
-        3
-    ], 
-    [
-        "CASS LAKE", 
-        3
-    ], 
-    [
-        "COOK", 
-        3
-    ], 
-    [
-        "CROMWELL", 
-        3
-    ], 
-    [
-        "DASSEL", 
-        3
-    ], 
-    [
-        "DEER RIVER", 
-        3
-    ], 
-    [
-        "GRAND MEADOW", 
-        3
-    ], 
-    [
-        "HOFFMAN", 
-        3
-    ], 
-    [
-        "HOLDINGFORD", 
-        3
-    ], 
-    [
-        "INTERNATIONAL FALLS", 
-        3
-    ], 
-    [
-        "LE CENTER", 
-        3
-    ], 
-    [
-        "LE SUEUR", 
-        3
-    ], 
-    [
-        "LITCHFIELD", 
-        3
-    ], 
-    [
-        "LITTLE CANADA", 
-        3
-    ], 
-    [
-        "LONG PRAIRIE", 
-        3
-    ], 
-    [
-        "MADELIA", 
-        3
-    ], 
-    [
-        "MAHNOMEN", 
-        3
-    ], 
-    [
-        "MELROSE", 
-        3
-    ], 
-    [
-        "MURDOCK", 
-        3
-    ], 
-    [
-        "NEW PRAGUE", 
-        3
-    ], 
-    [
-        "NEW YORK MILLS", 
-        3
-    ], 
-    [
-        "NORTHTOWN", 
-        3
-    ], 
-    [
-        "PARK RAPIDS", 
-        3
-    ], 
-    [
-        "PAYNESVILLE", 
-        3
-    ], 
-    [
-        "PERHAM", 
-        3
-    ], 
-    [
-        "PIPESTONE", 
-        3
-    ], 
-    [
-        "SHERBURN", 
-        3
-    ], 
-    [
-        "SPRING LAKE PARK", 
-        3
-    ], 
-    [
-        "TRUMAN", 
-        3
-    ], 
-    [
-        "TWIG", 
-        3
-    ], 
-    [
-        "WELLS", 
-        3
-    ], 
-    [
-        "Waite Park", 
-        3
-    ], 
-    [
-        "ADAMS", 
-        2
-    ], 
-    [
-        "ADOLPH", 
-        2
-    ], 
-    [
-        "ANAKA", 
-        2
-    ], 
-    [
-        "ANDOVER", 
-        2
-    ], 
-    [
-        "ARDEN HILLS", 
-        2
-    ], 
-    [
-        "BARNUM", 
-        2
-    ], 
-    [
-        "BURNS", 
-        2
-    ], 
-    [
-        "CHANHASSEN", 
-        2
-    ], 
-    [
-        "CHEMOLITE", 
-        2
-    ], 
-    [
-        "CHISHOLM", 
-        2
-    ], 
-    [
-        "CLAREMONT", 
-        2
-    ], 
-    [
-        "COLD SPRING", 
-        2
-    ], 
-    [
-        "CROOKSTON", 
-        2
-    ], 
-    [
-        "DAWSON", 
-        2
-    ], 
-    [
-        "DAYTON", 
-        2
-    ], 
-    [
-        "DETROIT", 
-        2
-    ], 
-    [
-        "Duluth", 
-        2
-    ], 
-    [
-        "E MINNEAPOLIS", 
-        2
-    ], 
-    [
-        "EAST BETHEL", 
-        2
-    ], 
-    [
-        "ELK RIVER", 
-        2
-    ], 
-    [
-        "ESKO", 
-        2
-    ], 
-    [
-        "EYOTA", 
-        2
-    ], 
-    [
-        "FERTILE", 
-        2
-    ], 
-    [
-        "FORT SNELLING", 
-        2
-    ], 
-    [
-        "FULDA", 
-        2
-    ], 
-    [
-        "GILBERT", 
-        2
-    ], 
-    [
-        "GOODHUE", 
-        2
-    ], 
-    [
-        "GREENBUSH", 
-        2
-    ], 
-    [
-        "HAM LAKE", 
-        2
-    ], 
-    [
-        "HARMONY", 
-        2
-    ], 
-    [
-        "HAYFIELD", 
-        2
-    ], 
-    [
-        "HOUSTON", 
-        2
-    ], 
-    [
-        "JORDAN", 
-        2
-    ], 
-    [
-        "KANDIYOHI", 
-        2
-    ], 
-    [
-        "KELLOGG", 
-        2
-    ], 
-    [
-        "LAKE CITY", 
-        2
-    ], 
-    [
-        "LAKE CRYSTAL", 
-        2
-    ], 
-    [
-        "LANESBORO", 
-        2
-    ], 
-    [
-        "LEWISTON", 
-        2
-    ], 
-    [
-        "LINDSTROM", 
-        2
-    ], 
-    [
-        "MEISVILLE", 
-        2
-    ], 
-    [
-        "MONTGOMERY", 
-        2
-    ], 
-    [
-        "MOUND", 
-        2
-    ], 
-    [
-        "MOUNTAIN LAKE", 
-        2
-    ], 
-    [
-        "NORWOOD", 
-        2
-    ], 
-    [
-        "ORR", 
-        2
-    ], 
-    [
-        "PLAINVIEW", 
-        2
-    ], 
-    [
-        "PRINCETON", 
-        2
-    ], 
-    [
-        "Q", 
-        2
-    ], 
-    [
-        "RANDOLPH", 
-        2
-    ], 
-    [
-        "REVERE", 
-        2
-    ], 
-    [
-        "ROCKFORD", 
-        2
-    ], 
-    [
-        "SAINT CHARLES", 
-        2
-    ], 
-    [
-        "SAINT LOUIS PARK", 
-        2
-    ], 
-    [
-        "SARTELL", 
-        2
-    ], 
-    [
-        "SCHROEDER", 
-        2
-    ], 
-    [
-        "SILVER BAY", 
-        2
-    ], 
-    [
-        "SILVER LAKE", 
-        2
-    ], 
-    [
-        "SPRING PARK", 
-        2
-    ], 
-    [
-        "SPRINGFIELD", 
-        2
-    ], 
-    [
-        "ST ANTHONY", 
-        2
-    ], 
-    [
-        "ST PETER", 
-        2
-    ], 
-    [
-        "ST. PETER", 
-        2
-    ], 
-    [
-        "STACY", 
-        2
-    ], 
-    [
-        "STAPLES", 
-        2
-    ], 
-    [
-        "STARBUCK", 
-        2
-    ], 
-    [
-        "STEWARTVILLE", 
-        2
-    ], 
-    [
-        "Saint Augusta", 
-        2
-    ], 
-    [
-        "W ST PAUL", 
-        2
-    ], 
-    [
-        "WALDORF", 
-        2
-    ], 
-    [
-        "WARROAD", 
-        2
-    ], 
-    [
-        "WYOMING", 
-        2
-    ], 
-    [
-        "ZUMBROTA", 
-        2
-    ], 
-    [
-        "917 LONE OAK RD #100", 
-        1
-    ], 
-    [
-        "ADRIAN", 
-        1
-    ], 
-    [
-        "AFTON", 
-        1
-    ], 
-    [
-        "AITKIN", 
-        1
-    ], 
-    [
-        "ALBANY", 
-        1
-    ], 
-    [
-        "ALBERT LCA", 
-        1
-    ], 
-    [
-        "ALBERTA", 
-        1
-    ], 
-    [
-        "ALMELUND", 
-        1
-    ], 
-    [
-        "ALVWOOD", 
-        1
-    ], 
-    [
-        "ANOLCA", 
-        1
-    ], 
-    [
-        "APPLETON", 
-        1
-    ], 
-    [
-        "ARLINGTON", 
-        1
-    ], 
-    [
-        "ATWATER", 
-        1
-    ], 
-    [
-        "AUDEN HILLS", 
-        1
-    ], 
-    [
-        "AUDUBON", 
-        1
-    ], 
-    [
-        "AURORA", 
-        1
-    ], 
-    [
-        "BABBIT", 
-        1
-    ], 
-    [
-        "BAGAN", 
-        1
-    ], 
-    [
-        "BAGLEY", 
-        1
-    ], 
-    [
-        "BARNESVILLE", 
-        1
-    ], 
-    [
-        "BARRON", 
-        1
-    ], 
-    [
-        "BASS BROOK", 
-        1
-    ], 
-    [
-        "BAUDETTE", 
-        1
-    ], 
-    [
-        "BAXTER", 
-        1
-    ], 
-    [
-        "BEAVER CREEK", 
-        1
-    ], 
-    [
-        "BECIDA", 
-        1
-    ], 
-    [
-        "BELGRADE", 
-        1
-    ], 
-    [
-        "BELLE PLAIN", 
-        1
-    ], 
-    [
-        "BEMDJI", 
-        1
-    ], 
-    [
-        "BERTHA", 
-        1
-    ], 
-    [
-        "BETHEL", 
-        1
-    ], 
-    [
-        "BIGFORK", 
-        1
-    ], 
-    [
-        "BINGHAM LAKE", 
-        1
-    ], 
-    [
-        "BIRD ISLAND", 
-        1
-    ], 
-    [
-        "BLUFFTON", 
-        1
-    ], 
-    [
-        "BOWER", 
-        1
-    ], 
-    [
-        "BOYD", 
-        1
-    ], 
-    [
-        "BRECKENRIDGE", 
-        1
-    ], 
-    [
-        "BROWERVILLE", 
-        1
-    ], 
-    [
-        "BROWNS VALLEY", 
-        1
-    ], 
-    [
-        "BROWNSDALE", 
-        1
-    ], 
-    [
-        "BROWNTON", 
-        1
-    ], 
-    [
-        "BUFFALO LAKE", 
-        1
-    ], 
-    [
-        "BURRSVILLE", 
-        1
-    ], 
-    [
-        "BUTTE", 
-        1
-    ], 
-    [
-        "BUTTERFIELD", 
-        1
-    ], 
-    [
-        "Bemidji", 
-        1
-    ], 
-    [
-        "Blain", 
-        1
-    ], 
-    [
-        "CANBY", 
-        1
-    ], 
-    [
-        "CARDIGAN JCT", 
-        1
-    ], 
-    [
-        "CARDIGAN JUNC", 
-        1
-    ], 
-    [
-        "CARLISLE", 
-        1
-    ], 
-    [
-        "CARLOS", 
-        1
-    ], 
-    [
-        "CARROLTON", 
-        1
-    ], 
-    [
-        "CEDAR LAKE", 
-        1
-    ], 
-    [
-        "CHEMOLITE SPG", 
-        1
-    ], 
-    [
-        "CHESTER", 
-        1
-    ], 
-    [
-        "CHISAGO", 
-        1
-    ], 
-    [
-        "CHISAGO CITY", 
-        1
-    ], 
-    [
-        "CITY UNKNOWN", 
-        1
-    ], 
-    [
-        "CLARA CITY", 
-        1
-    ], 
-    [
-        "CLEARBROOK", 
-        1
-    ], 
-    [
-        "CLEARWATER", 
-        1
-    ], 
-    [
-        "CLINTON", 
-        1
-    ], 
-    [
-        "CLITHERALL", 
-        1
-    ], 
-    [
-        "COATES", 
-        1
-    ], 
-    [
-        "COHASSET", 
-        1
-    ], 
-    [
-        "COKATO", 
-        1
-    ], 
-    [
-        "COLOGNE", 
-        1
-    ], 
-    [
-        "COLUMBUS", 
-        1
-    ], 
-    [
-        "COMFREY", 
-        1
-    ], 
-    [
-        "COON RADIDS", 
-        1
-    ], 
-    [
-        "COON RAPISIDS", 
-        1
-    ], 
-    [
-        "COSMOS", 
-        1
-    ], 
-    [
-        "COTTON", 
-        1
-    ], 
-    [
-        "CYRUS", 
-        1
-    ], 
-    [
-        "Clear Lake", 
-        1
-    ], 
-    [
-        "Cloquet", 
-        1
-    ], 
-    [
-        "DAKOTA", 
-        1
-    ], 
-    [
-        "DANNY JUNCTION", 
-        1
-    ], 
-    [
-        "DARFUR", 
-        1
-    ], 
-    [
-        "DELAN", 
-        1
-    ], 
-    [
-        "DELANO", 
-        1
-    ], 
-    [
-        "DEWALD", 
-        1
-    ], 
-    [
-        "DONALDSON", 
-        1
-    ], 
-    [
-        "DOVER", 
-        1
-    ], 
-    [
-        "DUGDALE", 
-        1
-    ], 
-    [
-        "DUNNELL", 
-        1
-    ], 
-    [
-        "E GRAND FORKS", 
-        1
-    ], 
-    [
-        "E ST PAUL", 
-        1
-    ], 
-    [
-        "EAGLE LAKE", 
-        1
-    ], 
-    [
-        "EAGON", 
-        1
-    ], 
-    [
-        "EARTH CITY", 
-        1
-    ], 
-    [
-        "EAST CHICAGO", 
-        1
-    ], 
-    [
-        "EDEN PRARIE", 
-        1
-    ], 
-    [
-        "EDGEN", 
-        1
-    ], 
-    [
-        "EDGERTON", 
-        1
-    ], 
-    [
-        "EGAN", 
-        1
-    ], 
-    [
-        "ELBA", 
-        1
-    ], 
-    [
-        "ELELETH", 
-        1
-    ], 
-    [
-        "ELGIN", 
-        1
-    ], 
-    [
-        "ELKO", 
-        1
-    ], 
-    [
-        "ELLSWORTH", 
-        1
-    ], 
-    [
-        "EMBARRAS", 
-        1
-    ], 
-    [
-        "EMBARRASS", 
-        1
-    ], 
-    [
-        "EMMONS", 
-        1
-    ], 
-    [
-        "ERSKINE", 
-        1
-    ], 
-    [
-        "EVANSVILLE", 
-        1
-    ], 
-    [
-        "EXCELSIOR", 
-        1
-    ], 
-    [
-        "FAIRFAX", 
-        1
-    ], 
-    [
-        "FARMINTON", 
-        1
-    ], 
-    [
-        "FELTON", 
-        1
-    ], 
-    [
-        "FLORENCE", 
-        1
-    ], 
-    [
-        "FORT RIPLEY", 
-        1
-    ], 
-    [
-        "FOX", 
-        1
-    ], 
-    [
-        "FRANKLIN", 
-        1
-    ], 
-    [
-        "FRASER", 
-        1
-    ], 
-    [
-        "FRAZEE", 
-        1
-    ], 
-    [
-        "Falcon Heights", 
-        1
-    ], 
-    [
-        "GARDON CITY", 
-        1
-    ], 
-    [
-        "GARY", 
-        1
-    ], 
-    [
-        "GAYLORD", 
-        1
-    ], 
-    [
-        "GENEVA", 
-        1
-    ], 
-    [
-        "GENSON", 
-        1
-    ], 
-    [
-        "GLENVILLE", 
-        1
-    ], 
-    [
-        "GLYNDON", 
-        1
-    ], 
-    [
-        "GOODLAND", 
-        1
-    ], 
-    [
-        "GOODVIEW", 
-        1
-    ], 
-    [
-        "GOOSEBERRY FALLS", 
-        1
-    ], 
-    [
-        "GRADY", 
-        1
-    ], 
-    [
-        "GRANADA", 
-        1
-    ], 
-    [
-        "GRAND FORKS", 
-        1
-    ], 
-    [
-        "GRANT", 
-        1
-    ], 
-    [
-        "GREGORY", 
-        1
-    ], 
-    [
-        "HALLOCK", 
-        1
-    ], 
-    [
-        "HALSTAD", 
-        1
-    ], 
-    [
-        "HANCOCK", 
-        1
-    ], 
-    [
-        "HANLEY FALLS", 
-        1
-    ], 
-    [
-        "HARRIS", 
-        1
-    ], 
-    [
-        "HAYWARD", 
-        1
-    ], 
-    [
-        "HENDERSON", 
-        1
-    ], 
-    [
-        "HENDRUM", 
-        1
-    ], 
-    [
-        "HERMAN", 
-        1
-    ], 
-    [
-        "HERON LAKE", 
-        1
-    ], 
-    [
-        "HOBBS", 
-        1
-    ], 
-    [
-        "HOMER", 
-        1
-    ], 
-    [
-        "HOPE", 
-        1
-    ], 
-    [
-        "HOWARD LAKE", 
-        1
-    ], 
-    [
-        "HUMESTON", 
-        1
-    ], 
-    [
-        "HYDES LAKE", 
-        1
-    ], 
-    [
-        "INTERNATL FLS", 
-        1
-    ], 
-    [
-        "INVER GRV HTS", 
-        1
-    ], 
-    [
-        "ISLE", 
-        1
-    ], 
-    [
-        "IVANHOE", 
-        1
-    ], 
-    [
-        "JEFFERS", 
-        1
-    ], 
-    [
-        "JUDSON", 
-        1
-    ], 
-    [
-        "KABEKONA CORNER", 
-        1
-    ], 
-    [
-        "KABETOGAMA", 
-        1
-    ], 
-    [
-        "KANDIOHI", 
-        1
-    ], 
-    [
-        "KASOTA", 
-        1
-    ], 
-    [
-        "KENNETH", 
-        1
-    ], 
-    [
-        "KENYON", 
-        1
-    ], 
-    [
-        "KERKHOVEN", 
-        1
-    ], 
-    [
-        "KIMBALL", 
-        1
-    ], 
-    [
-        "LA CRESCENT", 
-        1
-    ], 
-    [
-        "LA SALLE", 
-        1
-    ], 
-    [
-        "LACONITE HBR", 
-        1
-    ], 
-    [
-        "LAKE ALICE", 
-        1
-    ], 
-    [
-        "LAKE ELMO", 
-        1
-    ], 
-    [
-        "LANCASTER", 
-        1
-    ], 
-    [
-        "LANSBORO", 
-        1
-    ], 
-    [
-        "LENGBY", 
-        1
-    ], 
-    [
-        "LESTER PRAIRI", 
-        1
-    ], 
-    [
-        "LESTER PRARIE", 
-        1
-    ], 
-    [
-        "LESUEUR", 
-        1
-    ], 
-    [
-        "LEXINGTON", 
-        1
-    ], 
-    [
-        "LEXINGTON VLG", 
-        1
-    ], 
-    [
-        "LITTLE MARAIS", 
-        1
-    ], 
-    [
-        "LONG LAKE", 
-        1
-    ], 
-    [
-        "LONGVILLE", 
-        1
-    ], 
-    [
-        "LOWDEN", 
-        1
-    ], 
-    [
-        "LOWRY", 
-        1
-    ], 
-    [
-        "LUVERNE", 
-        1
-    ], 
-    [
-        "LYLE", 
-        1
-    ], 
-    [
-        "MADELLA", 
-        1
-    ], 
-    [
-        "MADISON", 
-        1
-    ], 
-    [
-        "MAKINEN", 
-        1
-    ], 
-    [
-        "MANDATO", 
-        1
-    ], 
-    [
-        "MAPLE LAKE", 
-        1
-    ], 
-    [
-        "MAPLEGROVE", 
-        1
-    ], 
-    [
-        "MATELIA", 
-        1
-    ], 
-    [
-        "MAYER", 
-        1
-    ], 
-    [
-        "MCGREGOR", 
-        1
-    ], 
-    [
-        "MEDINA", 
-        1
-    ], 
-    [
-        "MENDOTA", 
-        1
-    ], 
-    [
-        "MENDOTA HTS", 
-        1
-    ], 
-    [
-        "MERRIFIELD", 
-        1
-    ], 
-    [
-        "MILLE LACS INDIAN RESERVA", 
-        1
-    ], 
-    [
-        "MILTONA", 
-        1
-    ], 
-    [
-        "MINNEOTA", 
-        1
-    ], 
-    [
-        "MINNESOTA CITY", 
-        1
-    ], 
-    [
-        "MORA", 
-        1
-    ], 
-    [
-        "MORGAN", 
-        1
-    ], 
-    [
-        "MORRISTOWN", 
-        1
-    ], 
-    [
-        "MOUND VIEW", 
-        1
-    ], 
-    [
-        "MOUNDS VISION", 
-        1
-    ], 
-    [
-        "Mahotomedi", 
-        1
-    ], 
-    [
-        "Mankato", 
-        1
-    ], 
-    [
-        "N ST PAUL", 
-        1
-    ], 
-    [
-        "NEW  RICHLAND", 
-        1
-    ], 
-    [
-        "NEW BRIGHTEN", 
-        1
-    ], 
-    [
-        "NEW GERMANY", 
-        1
-    ], 
-    [
-        "NEW MARKET", 
-        1
-    ], 
-    [
-        "NEW RICHLAND", 
-        1
-    ], 
-    [
-        "NEWFOLDEN", 
-        1
-    ], 
-    [
-        "NEWULM", 
-        1
-    ], 
-    [
-        "NODINE", 
-        1
-    ], 
-    [
-        "NORTH BRANCH", 
-        1
-    ], 
-    [
-        "NORTH ST PAUL", 
-        1
-    ], 
-    [
-        "NUOPORT", 
-        1
-    ], 
-    [
-        "Northfield", 
-        1
-    ], 
-    [
-        "OAK GROVE", 
-        1
-    ], 
-    [
-        "OGILVIE", 
-        1
-    ], 
-    [
-        "OKLEE", 
-        1
-    ], 
-    [
-        "OLMSTED", 
-        1
-    ], 
-    [
-        "ONAMIA", 
-        1
-    ], 
-    [
-        "OPOLE", 
-        1
-    ], 
-    [
-        "OPWATONNAS", 
-        1
-    ], 
-    [
-        "OSAKIS", 
-        1
-    ], 
-    [
-        "OTSEGO", 
-        1
-    ], 
-    [
-        "OTTWA", 
-        1
-    ], 
-    [
-        "OWAONNA", 
-        1
-    ], 
-    [
-        "Oakland", 
-        1
-    ], 
-    [
-        "PARKERS PRAIRIE", 
-        1
-    ], 
-    [
-        "PARTRIDGE", 
-        1
-    ], 
-    [
-        "PELICAN RAPIDS", 
-        1
-    ], 
-    [
-        "PENNOCK", 
-        1
-    ], 
-    [
-        "PIERZ", 
-        1
-    ], 
-    [
-        "PINE ISLAND", 
-        1
-    ], 
-    [
-        "PLATO", 
-        1
-    ], 
-    [
-        "PLUMMER", 
-        1
-    ], 
-    [
-        "PORTER", 
-        1
-    ], 
-    [
-        "PRESTON", 
-        1
-    ], 
-    [
-        "PRIAM", 
-        1
-    ], 
-    [
-        "PROCTER", 
-        1
-    ], 
-    [
-        "PROCTOR", 
-        1
-    ], 
-    [
-        "Parkers Prairie", 
-        1
-    ], 
-    [
-        "Plymouth", 
-        1
-    ], 
-    [
-        "RACINE", 
-        1
-    ], 
-    [
-        "RAMSEY", 
-        1
-    ], 
-    [
-        "RANDALL", 
-        1
-    ], 
-    [
-        "RANIER", 
-        1
-    ], 
-    [
-        "RAVENNA TOWNSHIP", 
-        1
-    ], 
-    [
-        "RAYMOND", 
-        1
-    ], 
-    [
-        "READS LANDING", 
-        1
-    ], 
-    [
-        "RED LAKE FALLS", 
-        1
-    ], 
-    [
-        "REDWING", 
-        1
-    ], 
-    [
-        "REDWOOD FALLS", 
-        1
-    ], 
-    [
-        "REMER", 
-        1
-    ], 
-    [
-        "RICE LAKE", 
-        1
-    ], 
-    [
-        "ROCKPORT", 
-        1
-    ], 
-    [
-        "ROCKVILLE", 
-        1
-    ], 
-    [
-        "ROLLING", 
-        1
-    ], 
-    [
-        "ROSEAU", 
-        1
-    ], 
-    [
-        "ROSEPORT", 
-        1
-    ], 
-    [
-        "ROTHSAY", 
-        1
-    ], 
-    [
-        "RUSH CITY", 
-        1
-    ], 
-    [
-        "RUSHFORD", 
-        1
-    ], 
-    [
-        "S HAVEN", 
-        1
-    ], 
-    [
-        "S MINNEAPOLIS", 
-        1
-    ], 
-    [
-        "S ST PAUL", 
-        1
-    ], 
-    [
-        "SAGINAW", 
-        1
-    ], 
-    [
-        "SAINT", 
-        1
-    ], 
-    [
-        "SAINT ANTHONY", 
-        1
-    ], 
-    [
-        "SAINT HILAIRE", 
-        1
-    ], 
-    [
-        "SAINT LOUIS", 
-        1
-    ], 
-    [
-        "SANBORN", 
-        1
-    ], 
-    [
-        "SANDSTONE", 
-        1
-    ], 
-    [
-        "SCHILLER PARK", 
-        1
-    ], 
-    [
-        "SHAKO", 
-        1
-    ], 
-    [
-        "SHEVLIN", 
-        1
-    ], 
-    [
-        "SHOREHAM", 
-        1
-    ], 
-    [
-        "SOUTH MINNEAPOLIS", 
-        1
-    ], 
-    [
-        "SOUTH ST.  PAUL", 
-        1
-    ], 
-    [
-        "SOUTH ST. PAUL", 
-        1
-    ], 
-    [
-        "SPICER", 
-        1
-    ], 
-    [
-        "SQUAW LAKE", 
-        1
-    ], 
-    [
-        "ST BONIFACIUS", 
-        1
-    ], 
-    [
-        "ST CROIX JUNCTION", 
-        1
-    ], 
-    [
-        "ST JOSEPH", 
-        1
-    ], 
-    [
-        "ST LOUIS", 
-        1
-    ], 
-    [
-        "ST MICHAEL", 
-        1
-    ], 
-    [
-        "ST. CLOUD", 
-        1
-    ], 
-    [
-        "ST. JAMES", 
-        1
-    ], 
-    [
-        "ST. JOE", 
-        1
-    ], 
-    [
-        "ST. LOUIS PARK", 
-        1
-    ], 
-    [
-        "STANCHFIELD", 
-        1
-    ], 
-    [
-        "STEELTON", 
-        1
-    ], 
-    [
-        "STORDEN", 
-        1
-    ], 
-    [
-        "Sacred Heart", 
-        1
-    ], 
-    [
-        "South Saint Paul", 
-        1
-    ], 
-    [
-        "TACONITE HARBOR", 
-        1
-    ], 
-    [
-        "THEIF RIVER F", 
-        1
-    ], 
-    [
-        "THIEF RIVERFALLS", 
-        1
-    ], 
-    [
-        "TINTAH", 
-        1
-    ], 
-    [
-        "TOFTE", 
-        1
-    ], 
-    [
-        "TYLER", 
-        1
-    ], 
-    [
-        "UNDERWOOD", 
-        1
-    ], 
-    [
-        "VADNAIS HEIGHTS", 
-        1
-    ], 
-    [
-        "VALLEY PARK", 
-        1
-    ], 
-    [
-        "VASA", 
-        1
-    ], 
-    [
-        "VESTA", 
-        1
-    ], 
-    [
-        "VICTORIA", 
-        1
-    ], 
-    [
-        "WAASA", 
-        1
-    ], 
-    [
-        "WALKER", 
-        1
-    ], 
-    [
-        "WALTHAM", 
-        1
-    ], 
-    [
-        "WATERVILLE", 
-        1
-    ], 
-    [
-        "WATKINS", 
-        1
-    ], 
-    [
-        "WAUBUN", 
-        1
-    ], 
-    [
-        "WEST CONCORD", 
-        1
-    ], 
-    [
-        "WESTBROOK", 
-        1
-    ], 
-    [
-        "WHEATON", 
-        1
-    ], 
-    [
-        "WHITE BEAR", 
-        1
-    ], 
-    [
-        "WHITE PARK", 
-        1
-    ], 
-    [
-        "WHT BEAR LAKE", 
-        1
-    ], 
-    [
-        "WILLOW RIVER", 
-        1
-    ], 
-    [
-        "WINGER", 
-        1
-    ], 
-    [
-        "WITOKA", 
-        1
-    ], 
-    [
-        "Willmar", 
-        1
-    ], 
-    [
-        "ZIMMERMAN", 
-        1
-    ], 
-    [
-        "ZUMBRO FALLS", 
-        1
-    ], 
-    [
-        "mahromedi", 
-        1
-    ], 
-    [
-        "mahtmedi", 
-        1
-    ], 
-    [
-        "matomedi", 
-        1
-    ]
+    {
+        "count": 528, 
+        "Inc_City": "MAHTOMEDI"
+    }, 
+    {
+        "count": 463, 
+        "Inc_City": "ROSEVILLE"
+    }, 
+    {
+        "count": 377, 
+        "Inc_City": "EAGAN"
+    }, 
+    {
+        "count": 369, 
+        "Inc_City": "BURNSVILLE"
+    }, 
+    {
+        "count": 279, 
+        "Inc_City": "MINNEAPOLIS"
+    }, 
+    {
+        "count": 166, 
+        "Inc_City": "ST PAUL"
+    }, 
+    {
+        "count": 132, 
+        "Inc_City": "FRIDLEY"
+    }, 
+    {
+        "count": 116, 
+        "Inc_City": "SAINT PAUL"
+    }, 
+    {
+        "count": 83, 
+        "Inc_City": "OWATONNA"
+    }, 
+    {
+        "count": 77, 
+        "Inc_City": "BLAINE"
+    }, 
+    {
+        "count": 66, 
+        "Inc_City": "MAPLE GROVE"
+    }, 
+    {
+        "count": 60, 
+        "Inc_City": "Mahtomedi"
+    }, 
+    {
+        "count": 59, 
+        "Inc_City": "COON RAPIDS"
+    }, 
+    {
+        "count": 35, 
+        "Inc_City": "WILLMAR"
+    }, 
+    {
+        "count": 32, 
+        "Inc_City": "MANKATO"
+    }, 
+    {
+        "count": 30, 
+        "Inc_City": "SHAKOPEE"
+    }, 
+    {
+        "count": 29, 
+        "Inc_City": "WAITE PARK"
+    }, 
+    {
+        "count": 25, 
+        "Inc_City": "NEW BRIGHTON"
+    }, 
+    {
+        "count": 25, 
+        "Inc_City": "ST CLOUD"
+    }, 
+    {
+        "count": 24, 
+        "Inc_City": "ROCHESTER"
+    }, 
+    {
+        "count": 23, 
+        "Inc_City": "Fridley"
+    }, 
+    {
+        "count": 22, 
+        "Inc_City": "SAINT CLOUD"
+    }, 
+    {
+        "count": 21, 
+        "Inc_City": "Minneapolis"
+    }, 
+    {
+        "count": 20, 
+        "Inc_City": "FARMINGTON"
+    }, 
+    {
+        "count": 18, 
+        "Inc_City": "Grant"
+    }, 
+    {
+        "count": 17, 
+        "Inc_City": "DULUTH"
+    }, 
+    {
+        "count": 17, 
+        "Inc_City": "MOUNDSVIEW"
+    }, 
+    {
+        "count": 15, 
+        "Inc_City": "JACKSON"
+    }, 
+    {
+        "count": 15, 
+        "Inc_City": "WINONA"
+    }, 
+    {
+        "count": 13, 
+        "Inc_City": "BLOOMINGTON"
+    }, 
+    {
+        "count": 13, 
+        "Inc_City": "MOUNDS VIEW"
+    }, 
+    {
+        "count": 13, 
+        "Inc_City": "ROSEMOUNT"
+    }, 
+    {
+        "count": 11, 
+        "Inc_City": "CIRCLE PINES"
+    }, 
+    {
+        "count": 11, 
+        "Inc_City": "HERMANTOWN"
+    }, 
+    {
+        "count": 10, 
+        "Inc_City": "ALEXANDRIA"
+    }, 
+    {
+        "count": 10, 
+        "Inc_City": "PLYMOUTH"
+    }, 
+    {
+        "count": 10, 
+        "Inc_City": "ST. PAUL"
+    }, 
+    {
+        "count": 9, 
+        "Inc_City": "Eagan"
+    }, 
+    {
+        "count": 9, 
+        "Inc_City": "LAKEVILLE"
+    }, 
+    {
+        "count": 7, 
+        "Inc_City": "BRAINERD"
+    }, 
+    {
+        "count": 7, 
+        "Inc_City": "BROOKLYN PARK"
+    }, 
+    {
+        "count": 7, 
+        "Inc_City": "CANNON FALLS"
+    }, 
+    {
+        "count": 7, 
+        "Inc_City": "THIEF RIVER FALLS"
+    }, 
+    {
+        "count": 7, 
+        "Inc_City": "VIRGINIA"
+    }, 
+    {
+        "count": 6, 
+        "Inc_City": "BURNSVLLE"
+    }, 
+    {
+        "count": 6, 
+        "Inc_City": "COONS RAPIDS"
+    }, 
+    {
+        "count": 6, 
+        "Inc_City": "DILWORTH"
+    }, 
+    {
+        "count": 6, 
+        "Inc_City": "ISANTI"
+    }, 
+    {
+        "count": 6, 
+        "Inc_City": "MOORHEAD"
+    }, 
+    {
+        "count": 6, 
+        "Inc_City": "NORTH MANKATO"
+    }, 
+    {
+        "count": 6, 
+        "Inc_City": "SAINT JAMES"
+    }, 
+    {
+        "count": 6, 
+        "Inc_City": "St. Paul"
+    }, 
+    {
+        "count": 6, 
+        "Inc_City": "WHITE BEAR LAKE"
+    }, 
+    {
+        "count": 6, 
+        "Inc_City": "WHITE BEAR LK"
+    }, 
+    {
+        "count": 5, 
+        "Inc_City": "BEMIDJI"
+    }, 
+    {
+        "count": 5, 
+        "Inc_City": "FERGUS FALLS"
+    }, 
+    {
+        "count": 5, 
+        "Inc_City": "GLENCOE"
+    }, 
+    {
+        "count": 5, 
+        "Inc_City": "GRAND RAPIDS"
+    }, 
+    {
+        "count": 5, 
+        "Inc_City": "LINO LAKES"
+    }, 
+    {
+        "count": 5, 
+        "Inc_City": "MINNETONKA"
+    }, 
+    {
+        "count": 5, 
+        "Inc_City": "MOUNTAIN IRON"
+    }, 
+    {
+        "count": 5, 
+        "Inc_City": "NORTHFIELD"
+    }, 
+    {
+        "count": 5, 
+        "Inc_City": "PINE BEND"
+    }, 
+    {
+        "count": 5, 
+        "Inc_City": "WADENA"
+    }, 
+    {
+        "count": 5, 
+        "Inc_City": "WINNEBAGO"
+    }, 
+    {
+        "count": 4, 
+        "Inc_City": "ALBERT LEA"
+    }, 
+    {
+        "count": 4, 
+        "Inc_City": "AUSTIN"
+    }, 
+    {
+        "count": 4, 
+        "Inc_City": "BLOOMING PRAIRIE"
+    }, 
+    {
+        "count": 4, 
+        "Inc_City": "EDEN PRAIRIE"
+    }, 
+    {
+        "count": 4, 
+        "Inc_City": "FARIBAULT"
+    }, 
+    {
+        "count": 4, 
+        "Inc_City": "GRANITE FALLS"
+    }, 
+    {
+        "count": 4, 
+        "Inc_City": "HIBBING"
+    }, 
+    {
+        "count": 4, 
+        "Inc_City": "HUTCHINSON"
+    }, 
+    {
+        "count": 4, 
+        "Inc_City": "INVER GROVE HEIGHTS"
+    }, 
+    {
+        "count": 4, 
+        "Inc_City": "Owatonna"
+    }, 
+    {
+        "count": 4, 
+        "Inc_City": "SAINT AUGUSTA"
+    }, 
+    {
+        "count": 4, 
+        "Inc_City": "SOUTH SAINT PAUL"
+    }, 
+    {
+        "count": 4, 
+        "Inc_City": "ST LOUIS PARK"
+    }, 
+    {
+        "count": 4, 
+        "Inc_City": "Saint Paul"
+    }, 
+    {
+        "count": 4, 
+        "Inc_City": "Shakopee"
+    }, 
+    {
+        "count": 3, 
+        "Inc_City": "ALBERTVILLE"
+    }, 
+    {
+        "count": 3, 
+        "Inc_City": "CLOQUET"
+    }, 
+    {
+        "count": 3, 
+        "Inc_City": "COTTAGE GROVE"
+    }, 
+    {
+        "count": 3, 
+        "Inc_City": "EDINA"
+    }, 
+    {
+        "count": 3, 
+        "Inc_City": "FOREST LAKE"
+    }, 
+    {
+        "count": 3, 
+        "Inc_City": "HASTINGS"
+    }, 
+    {
+        "count": 3, 
+        "Inc_City": "HOYT LAKES"
+    }, 
+    {
+        "count": 3, 
+        "Inc_City": "MORRIS"
+    }, 
+    {
+        "count": 3, 
+        "Inc_City": "SACRED HEART"
+    }, 
+    {
+        "count": 3, 
+        "Inc_City": "SLAYTON"
+    }, 
+    {
+        "count": 3, 
+        "Inc_City": "WORTHINGTON"
+    }, 
+    {
+        "count": 3, 
+        "Inc_City": "Waite Park"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "ANOKA"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "BACKUS"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "BAYPORT"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "BROOKLYN CENTER"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "BUFFALO"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "BYRON"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "CARLTON"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "CHANHASSEN"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "CHASKA"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "DAYTON"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "DEER RIVER"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "DODGE CENTER"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "Duluth"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "EAST BETHEL"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "EAST GRAND FORKS"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "HAYFIELD"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "HOFFMAN"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "KEEWATIN"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "LAKEFIELD"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "LE SUEUR"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "LITCHFIELD"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "MAPLE PLAIN"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "MAPLEWOOD"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "MARSHALL"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "MONTICELLO"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "MURDOCK"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "NEW HOPE"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "NEW ULM"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "NEW YORK MILLS"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "NEWPORT"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "OSSEO"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "PAYNESVILLE"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "PRIOR LAKE"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "RANDOLPH"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "RED WING"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "RICHFIELD"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "ROGERS"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "SAINT CHARLES"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "SAINT LOUIS PARK"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "SHOREVIEW"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "STARBUCK"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "Saint Augusta"
+    }, 
+    {
+        "count": 2, 
+        "Inc_City": "WINDOM"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "917 LONE OAK RD #100"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ADOLPH"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ALBANY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ALBERT LCA"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ALBUQUERQUE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ALVWOOD"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ANDOVER"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "APPLE VALLEY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "AUDEN HILLS"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "AURORA"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "BAGAN"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "BARNESVILLE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "BARNUM"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "BAXTER"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "BECIDA"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "BELLE PLAIN"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "BEMDJI"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "BENSON"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "BINGHAM LAKE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "BLUE EARTH"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "BOYD"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "BUTTE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "Bemidji"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "Blain"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "CAMBRIDGE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "CANBY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "CARLISLE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "CHISAGO CITY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "CLARA CITY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "CLAREMONT"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "CLEARBROOK"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "CLINTON"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "COATES"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "COOK"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "COON RADIDS"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "COON RAPISIDS"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "COSMOS"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "COTTON"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "CROMWELL"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "Clear Lake"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "Cloquet"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "DETROIT LAKES"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "DOVER"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "EAGON"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "EARTH CITY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "EAST CHICAGO"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "EDGERTON"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "EGAN"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ELBA"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ELK RIVER"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ELKO"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "EMBARRASS"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "EVELETH"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "EYOTA"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "FARMINTON"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "FELTON"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "FOX"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "FRANKLIN"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "Falcon Heights"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "GILBERT"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "GLYNDON"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "GOLDEN VALLEY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "GOODHUE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "GOODLAND"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "GRAND MARAIS"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "GRAND MEADOW"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "GRANT"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "GREGORY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "HALSTAD"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "HAM LAKE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "HAYWARD"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "HERON LAKE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "HOLDINGFORD"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "HOMER"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "HOPE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "IVANHOE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "JORDAN"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "JUDSON"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "KABEKONA CORNER"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "KABETOGAMA"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "KENNETH"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "KENYON"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "LAKE ALICE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "LAKE CITY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "LANESBORO"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "LANSBORO"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "LENGBY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "LESUEUR"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "LINDSTROM"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "LITTLE CANADA"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "LITTLE FALLS"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "LONG PRAIRIE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "MADELIA"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "MAPLE LAKE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "MAPLEGROVE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "MEDINA"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "MELROSE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "MERRIFIELD"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "MIESVILLE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "MINNESOTA CITY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "MONTGOMERY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "MOUND VIEW"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "MOUNDS VISION"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "MOUNTAIN LAKE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "Mahotomedi"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "Mankato"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "NEW  RICHLAND"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "NEW MARKET"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "NEW PRAGUE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "NEW RICHLAND"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "NODINE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "Northfield"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "OAK GROVE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "OAKDALE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "OLIVIA"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "OPWATONNAS"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "OSAKIS"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "OWAONNA"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "Oakland"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "PARTRIDGE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "PIPESTONE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "PLUMMER"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "PORTER"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "PRIAM"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "PRINCETON"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "PROCTER"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "Parkers Prairie"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "Plymouth"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "RAVENNA TOWNSHIP"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "RED LAKE FALLS"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "REDWING"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "REDWOOD FALLS"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "REMER"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "REVERE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ROLLING"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ROSEAU"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ROTHSAY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "RUSH CITY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SAINT"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SAINT ANTHONY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SAINT HILAIRE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SAINT LOUIS"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SARTELL"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SAUK RAPIDS"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SAVAGE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SCHILLER PARK"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SCHROEDER"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SHERBURN"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SHEVLIN"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SILVER BAY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SILVER LAKE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SLEEPY EYE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SOUTH ST PAUL"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SOUTH ST.  PAUL"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SOUTH ST. PAUL"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SPICER"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SPRING LAKE PARK"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SPRING VALLEY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "SPRINGFIELD"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ST MICHAEL"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ST PAUL PARK"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ST. CLOUD"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ST. JAMES"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ST. JOE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ST. LOUIS PARK"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "ST. PETER"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "STACY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "STANCHFIELD"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "STAPLES"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "STEWARTVILLE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "Sacred Heart"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "South Saint Paul"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "THIEF RIVERFALLS"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "TINTAH"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "TRACY"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "TRUMAN"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "TWIG"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "TYLER"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "VADNAIS HEIGHTS"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "VESTA"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "WABASHA"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "WACONIA"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "WALKER"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "WARREN"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "WATERVILLE"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "WATKINS"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "WAYZATA"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "WHITE PARK"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "WINGER"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "WINSTED"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "Willmar"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "mahromedi"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "mahtmedi"
+    }, 
+    {
+        "count": 1, 
+        "Inc_City": "matomedi"
+    }
 ]
