@@ -2,12 +2,26 @@
 
 <div class="content-container">
 
-  <p>Over the past 40 years, many things have been spilled in Minnesota.  Here are some highlights.  Over the past 40 years, many things have been spilled in Minnesota.  Here are some highlights.  Over the past 40 years, many things have been spilled in Minnesota.  Here are some highlights.</p>
+  <div class="section">
+    <div class="section-heading">How many incidents have occured?</div>
 
-  <div class="single-stat section">
-    <div class="main-number">{{ fNum(stats.total, 0) }}</div>
-    Incidents over the past {{ stats.pastYears }} years
+    <div class="section-visual">
+      <div class="incidents-occured grid-container">
+        <div class="timeframe grid-50">
+          <div class="main-number">{{ fNum(stats.total, 0) }}</div>
+          <div>Since 2000</div>
+        </div>
+
+        <div class="timeframe grid-50">
+          <div class="main-number">{{ fNum(stats.totalForever, 0) }}</div>
+          <div>Since 1971</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-footing">There is not much of an overall trend and its even hard to know a trend considering the fact that more and more materials are transported all the time.</div>
   </div>
+
 
   <div class="section">
     <div class="section-heading">{{ stats.topYear }} saw the most incidents with {{ fNum(stats.topYearCount, 0) }}.</div>
@@ -19,15 +33,25 @@
     <div class="section-footing">There is not much of an overall trend and its even hard to know a trend considering the fact that more and more materials are transported all the time.</div>
   </div>
 
+
   <div class="section">
     <div class="section-heading">By transportation.</div>
 
     <div class="section-visual">
-      <div class="chart chart-incidents-by-transportation"></div>
+      <div class="transporation-visual grid-container">
+        {{#sources.byTransportation:i}}
+          <div class="category grid-25 {{ Mode_Transpo }}">
+            <div class="category-icon"></div>
+            <div class="category-title">{{ Mode_Transpo }}</div>
+            <div>{{ fNum(count, 0) }} incidents</div>
+          </div>
+        {{/sources.byTransportation}}
+      </div>
     </div>
 
     <div class="section-footing">blah blahs slkldksjf lskdjf lskdjf l l sl fsk flsdkjf slkfjd slkfdj slkdjf l  fkjdkf jdkjf lskejrl kjd lfkjs lkfjd fkj lsk dkjflks j.</div>
   </div>
+
 
   <div class="section">
     <div class="section-heading">By Material.</div>
@@ -39,59 +63,63 @@
     <div class="section-footing">Blah balh alsb abla lbhal abla.  Blah balh alsb abla lbhal abla. Blah balh alsb abla lbhal abla.</div>
   </div>
 
+
   <div class="section">
-    <div class="section-heading">Top carriers</div>
+    <div class="section-heading">Who?</div>
 
     <div class="section-visual">
-      <ul>
-        {{#sources.byCarrier:i}}
-          <li>{{ C_R_Name }}: <strong>{{ fNum(count, 0) }}</li>
-        {{/sources.byCarrier}}
-      </ul>
+      <div class="top-who grid-container">
+        <div class="grid-50">
+          <div class="top-who-title">Carriers</div>
+          <ul>
+            {{#sources.byCarrier:i}}
+              <li>
+                <div class="top-who-label">{{ C_R_Name }}</div>
+                <div class="top-who-value">{{ fNum(count, 0) }}</div>
+              </li>
+            {{/sources.byCarrier}}
+          </ul>
+        </div>
+
+        <div class="grid-50">
+          <div class="top-who-title">Shippers</div>
+          <ul>
+            {{#sources.byShipper:i}}
+              <li>
+                <div class="top-who-label">{{ Ship_Name }}</div>
+                <div class="top-who-value">{{ fNum(count, 0) }}</div>
+              </li>
+            {{/sources.byShipper}}
+          </ul>
+        </div>
+      </div>
     </div>
 
     <div class="section-footing">Blah akbskjdfh ksjhdf ksjhdf ksjd fsdkjhf skjfh skjdfh skjfh wodihf wkdj flksjf lkjdf lskf pwiojfd lksdjf lskjf sdlkfjowijdf lksjdf a;lkdjf a;lkj ;l dk lskfj lskjdf woiu fkj lskjf alkjsd flskjls fow l ls ldk lsk f slkfj ls.</div>
   </div>
 
-  <div class="section">
-    <div class="section-heading">Top shippers</div>
-
-    <div class="section-visual">
-      <ul>
-        {{#sources.byShipper:i}}
-          <li>{{ Ship_Name }}: <strong>{{ fNum(count, 0) }}</li>
-        {{/sources.byShipper}}
-      </ul>
-    </div>
-
-    <div class="section-footing">Blah akbskjdfh ksjhdf ksjhdf ksjd fsdkjhf skjfh skjdfh skjfh wodihf wkdj flksjf lkjdf lskf pwiojfd lksdjf lskjf sdlkfjowijdf lksjdf a;lkdjf a;lkj ;l dk lskfj lskjdf woiu fkj lskjf alkjsd flskjls fow l ls ldk lsk f slkfj ls.</div>
-  </div>
 
   <div class="section">
-    <div class="section-heading">Top liquids spilled</div>
+    <div class="section-heading">What are the top spills</div>
 
     <div class="section-visual">
-      {{#sources.topGallons:i}}
-        <div class="">
-          On {{ Date_Inc }}, {{ C_R_Name }} was making a shipment for {{ Ship_Name }} traveling via {{ Mode_Transpo }}.  At around {{ Time_Inc }} an accident occured that spilled {{ fNum(Quant_Released , 0) }} gallons of {{ Commod_Long_Name }}.  Reported details below: <br><br>
+      <div class="top-spills grid-container">
+        {{#sources.topSpills:i}}
+          <div class="spill">
+            <div class="short-description">
+              On {{ Date_Inc }}, {{ C_R_Name }} was making a shipment for {{ Ship_Name }} traveling via {{ Mode_Transpo }}.  At around {{ Time_Inc }} an accident occured that spilled {{ fNum(Quant_Released , 0) }} gallons of {{ Commod_Long_Name }}.
+            </div>
 
-          <small>{{ Desc_of_Events }}</small> <br><br>
-        </div>
-      {{/sources.topGallons}}
-    </div>
-  </div>
+            <div class="stats">
 
-  <div class="section">
-    <div class="section-heading">Top other things spilled</div>
+            </div>
 
-    <div class="section-visual">
-      {{#sources.topPounds:i}}
-        <div class="">
-          On {{ Date_Inc }}, {{ C_R_Name }} was making a shipment for {{ Ship_Name }} traveling via {{ Mode_Transpo }}.  At around {{ Time_Inc }} an accident occured that spilled {{ fNum(Quant_Released , 0) }} lbs of {{ Commod_Long_Name }}.  Reported details below: <br><br>
-
-          <small>{{ Desc_of_Events }}</small> <br><br>
-        </div>
-      {{/sources.topPounds}}
+            <div class="full-report">
+              {{ Desc_of_Events }}
+            </div>
+          </div>
+        {{/sources.topSpills}}
+      </div>
     </div>
   </div>
 

@@ -7,6 +7,7 @@
 define('minnpost-hazmat', [
   'underscore', 'jquery', 'Ractive', 'Highcharts', 'helpers',
   'text!../data/question-incidents_total.json',
+  'text!../data/question-incidents_total_forever.json',
   'text!../data/question-incidents_by_year.json',
   'text!../data/question-incidents_by_material.json',
   'text!../data/question-incidents_by_carrier.json',
@@ -18,19 +19,22 @@ define('minnpost-hazmat', [
   'text!templates/loading.mustache'
 ],
 function(_, $, Ractive, Highcharts, helpers,
-  dTotal, dByYear, dByMaterial, dByCarrier, dByShipper, dByTransportation, dTopLGA, dTopSLB,
+  dTotal, dTotalForever, dByYear, dByMaterial, dByCarrier, dByShipper, dByTransportation, dTopLGA, dTopSLB,
   tApplication, tLoading) {
 
   // Parse the incoming data
   var pData = {
     total: JSON.parse(dTotal),
+    totalForever: JSON.parse(dTotalForever),
     byYear: JSON.parse(dByYear),
     byMaterial: JSON.parse(dByMaterial),
     byTransportation: JSON.parse(dByTransportation),
     byCarrier: _.first(JSON.parse(dByCarrier), 10),
     byShipper: _.first(JSON.parse(dByShipper), 10),
-    topGallons: _.first(JSON.parse(dTopLGA), 2),
-    topPounds: _.first(JSON.parse(dTopSLB), 2)
+    topSpills: _.union(
+      _.first(JSON.parse(dTopLGA), 2),
+      _.first(JSON.parse(dTopSLB), 2)
+    )
   };
 
   // Make some data into arrays for charting
@@ -39,9 +43,6 @@ function(_, $, Ractive, Highcharts, helpers,
   });
   pData.byMaterialArray = _.map(pData.byMaterial, function(d) {
     return [ d.Commod_Long_Name, d.count ];
-  });
-  pData.byTransportationArray = _.map(pData.byTransportation, function(d) {
-    return [ d.Mode_Transpo, d.count ];
   });
 
   // Constructor for app
@@ -110,32 +111,19 @@ function(_, $, Ractive, Highcharts, helpers,
           thisApp.$el.find('.chart-incidents-by-material').highcharts(options);
         }
       });
-      this.view.observe('sources.byTransportationArray', function(n, o) {
-        var options;
-
-        if (!_.isUndefined(n)) {
-          options = _.clone(thisApp.options.highChartOptions);
-          options = $.extend(true, options, {
-            chart: {
-              type: 'column'
-            },
-            series: [{
-              name: 'Incidents by transportation type',
-              data: n
-            }]
-          });
-          thisApp.$el.find('.chart-incidents-by-transportation').highcharts(options);
-        }
-      });
     },
 
     // Make stats
     makeStats: function() {
       return {
+        total: pData.total[0].count,
+        totalForever: pData.totalForever[0].count,
         pastYears: _.size(pData.byYear),
         topYear: _.max(pData.byYear, function(d) { return d.count; }).year,
-        total: pData.total[0].count,
-        topYearCount: _.max(pData.byYear, function(d) { return d.count; }).count
+        topYearCount: _.max(pData.byYear, function(d) { return d.count; }).count,
+        transportationTotal: _.reduce(pData.byTransportation, function(m, d) {
+          return m + d.count;
+        }, 0)
       };
     },
 

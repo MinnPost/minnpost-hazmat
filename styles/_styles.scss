@@ -77,7 +77,7 @@ body .node-unpublished {
   }
 
   .section {
-    margin-bottom: 7em;
+    margin-bottom: 12em;
 
     .section-heading {
       font-size: 2em;
@@ -88,18 +88,73 @@ body .node-unpublished {
 
     .section-visual {
       min-height: 10em;
-      margin-bottom: .5em
+      margin-bottom: 1em
     }
   }
 
-  .single-stat {
-    text-align: center;
-    font-size: 1.5em;
-    line-height: 1.25em;
+  .incidents-occured {
 
-    .main-number {
-      font-size: 3em;
+    .timeframe {
+      text-align: center;
+      font-size: 1.5em;
       line-height: 1.25em;
+
+      .main-number {
+        font-size: 3em;
+        line-height: 1.25em;
+      }
+    }
+  }
+
+  .transporation-visual {
+
+    .category {
+      text-align: center;
+
+      .category-icon {
+        height: 8em;
+        width: 100%;
+      }
+
+      .category-title {
+        font-size: 1.5em;
+        line-height: 1.25em;
+      }
+    }
+  }
+
+  .top-who {
+
+    ul, li {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .top-who-title {
+      font-size: 1.5em;
+      line-height: 1.25em;
+    }
+
+    .top-who-label {
+      @include inline-block();
+      width: 75%;
+    }
+
+    .top-who-value {
+      @include inline-block();
+      font-weight: bold;
+    }
+  }
+
+  .top-spills {
+
+    .spill {
+      margin-bottom: 2em;
+    }
+
+    .full-report {
+      display: none;
     }
   }
 

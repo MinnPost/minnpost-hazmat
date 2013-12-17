@@ -114,6 +114,12 @@ hour = func.cast(func.cast(Incident.Time_Inc, Numeric()) / 100, Integer).label('
 
 # Total number of incidents
 print "================================="
+print "Making: total incidents (non-filtered)"
+incidents_total = session.query(count).all()
+write_json('incidents_total_forever', incidents_total)
+
+# Total number of incidents
+print "================================="
 print "Making: total incidents"
 incidents_total = session.query(count).filter(common_filter).all()
 write_json('incidents_total', incidents_total)
