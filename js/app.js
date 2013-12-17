@@ -13,13 +13,13 @@ define('minnpost-hazmat', [
   'text!../data/question-incidents_by_carrier.json',
   'text!../data/question-incidents_by_shipper.json',
   'text!../data/question-incidents_by_transportation.json',
-  'text!../data/question-most_released_incidents_lga.json',
-  'text!../data/question-most_released_incidents_slb.json',
+  'text!../data/question-most_released_incidents.json',
+  'text!../data/question-most_expensive_incidents.json',
   'text!templates/application.mustache',
   'text!templates/loading.mustache'
 ],
 function(_, $, Ractive, Highcharts, helpers,
-  dTotal, dTotalForever, dByYear, dByMaterial, dByCarrier, dByShipper, dByTransportation, dTopLGA, dTopSLB,
+  dTotal, dTotalForever, dByYear, dByMaterial, dByCarrier, dByShipper, dByTransportation, dTopReleased, dMostExpensive,
   tApplication, tLoading) {
 
   // Parse the incoming data
@@ -31,10 +31,8 @@ function(_, $, Ractive, Highcharts, helpers,
     byTransportation: JSON.parse(dByTransportation),
     byCarrier: _.first(JSON.parse(dByCarrier), 10),
     byShipper: _.first(JSON.parse(dByShipper), 10),
-    topSpills: _.union(
-      _.first(JSON.parse(dTopLGA), 2),
-      _.first(JSON.parse(dTopSLB), 2)
-    )
+    topReleased: _.first(JSON.parse(dTopReleased), 1),
+    mostExpensive: _.first(JSON.parse(dMostExpensive), 1)
   };
 
   // Make some data into arrays for charting

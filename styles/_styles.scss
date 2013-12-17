@@ -92,6 +92,11 @@ body .node-unpublished {
     }
   }
 
+  .subsection-title {
+    font-size: 1.5em;
+    line-height: 1.25em;
+  }
+
   .incidents-occured {
 
     .timeframe {
@@ -115,11 +120,6 @@ body .node-unpublished {
         height: 8em;
         width: 100%;
       }
-
-      .category-title {
-        font-size: 1.5em;
-        line-height: 1.25em;
-      }
     }
   }
 
@@ -129,11 +129,6 @@ body .node-unpublished {
       list-style: none;
       margin: 0;
       padding: 0;
-    }
-
-    .top-who-title {
-      font-size: 1.5em;
-      line-height: 1.25em;
     }
 
     .top-who-label {
@@ -147,9 +142,9 @@ body .node-unpublished {
     }
   }
 
-  .top-spills {
+  .top-incidents {
 
-    .spill {
+    .incident {
       margin-bottom: 2em;
     }
 

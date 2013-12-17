@@ -1,7 +1,9 @@
 [
     {
         "Rpt_Num": "X-2012010047", 
-        "Unit_of_Measure": "SLB", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": "Bottom Outlet Valve", 
         "Mode_Transpo": "Rail", 
         "Date_Inc": "2011-12-15", 
@@ -12,11 +14,17 @@
         "Commod_Long_Name": "AMMONIUM NITRATE  WITH NOT MORE THAN 0.2%  OF COMBUSTIBLE MATERIALS  INCLUDING ANY ORGANIC SUBSTANCE CALCULATED AS CARBON TO THE EXCLUSION OF ANY OTHER ADDED SUBSTANCE", 
         "Time_Inc": "1500", 
         "Desc_of_Events": "On 12/15/2011  BNSF Assistant Director Hazardous Material was informed by the shipper of CRDX 6046 (AAR C314  four compartment covered hopper) that they were notified by consignee that CRDX 6046 arrived at consignee's location missing commodity from hopper compartments with spillage on the ground at their facility. BNSF investigation of car movement records of CRDX 6046 revealed that in transit CRDX 6046 was stopped in Dilworth  MN on 11/17/2011 with a bottom outlet mechanical problem. Local mechanical responders reportedly wired closed a partially open bottom hopper outlet on 11/21/2011. A small amount of product spillage under CRDX 6046 was shoveled  followed by local disposal.   After the aforementioned 12/15/2011 notification  a response contractor was requested to have a vacuum truck go to Dilworth railyard and locations entering the railyard to vacuum up any product spillage found (later reporting that an estimated 3000 lbs. was vacuumed). This captured material was earmarked for appropriate disposal. Also  BNSF mechanical personnel were requested to inspect CRDX 6046 at its Decker  MT location and report on the operation of its bottom outlets. Inspection revealed that number 1 and 4 bottom outlet door gate systems would not close properly to securely lock shut due to capstans needing replacement and door gates out of adjustment.  CRDX 6046 was directed to a repair facility after the consignee unloaded and released it.", 
-        "Tot_Amt_of_Damages": 22000.0
+        "Unit_of_Measure": "SLB", 
+        "Inc_City": "DILWORTH", 
+        "Tot_Amt_of_Damages": 22000.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": "56529"
     }, 
     {
         "Rpt_Num": "E-2010010151", 
-        "Unit_of_Measure": "SLB", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": "Closure (e.g.  Cap  Top  or Plug)", 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2009-12-16", 
@@ -27,11 +35,17 @@
         "Commod_Long_Name": "AMMONIUM NITRATE  WITH NOT MORE THAN 0.2%  OF COMBUSTIBLE MATERIALS  INCLUDING ANY ORGANIC SUBSTANCE CALCULATED AS CARBON TO THE EXCLUSION OF ANY OTHER ADDED SUBSTANCE", 
         "Time_Inc": "1524", 
         "Desc_of_Events": "The vehicle incurred a right side  steer tire failure.  The XATA crash data report indicates that the driver immediately removed his foot from the throttle and applied his brakes.  As the vehicle decelerated  the application of the brakes caused the vehicle to move to the right-side off the highway  crossing the paved shoulder on to the slope of a drainage ditch that tilted the vehicle beyond its center of gravity causing it to rollover coming to rest on the drivers side.    Three (3) ammonium nitrate bin lids were torn off during the roll  even though they were securely locked.  The driver was seat belted properly during the crash  and subsequently was able to climb out of the passengers side of the vehicle.  9-1-1 was notified  and subsequently the drivers terminal manager was notified of the incident.  The drivers terminal manager notified the company  which notified ERTS  the companys 24-hr spill consultant who dispatched Wench Associates  a qualified spill contractor to the scene.  ERTS called the National Response Center at 4:00 PM as required by the HMR.    The release occurred at 3:24 PM EST and the recovery was concluded at approximately 9:00 PM EST.  Wench Associates contained and cleaned up the spill working in coordination with State Highway officials and Local First Responders.", 
-        "Tot_Amt_of_Damages": 96100.0
+        "Unit_of_Measure": "SLB", 
+        "Inc_City": "SPICER", 
+        "Tot_Amt_of_Damages": 96100.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": "56288"
     }, 
     {
         "Rpt_Num": "I-2004120322", 
-        "Unit_of_Measure": "SLB", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": "Closure (e.g.  Cap  Top  or Plug); Piping or Fittings", 
         "Mode_Transpo": "Rail", 
         "Date_Inc": "2004-11-13", 
@@ -42,11 +56,17 @@
         "Commod_Long_Name": "AMMONIUM NITRATE  WITH NOT MORE THAN 0.2%  OF COMBUSTIBLE MATERIALS  INCLUDING ANY ORGANIC SUBSTANCE CALCULATED AS CARBON TO THE EXCLUSION OF ANY OTHER ADDED SUBSTANCE", 
         "Time_Inc": "800", 
         "Desc_of_Events": "THIS RAILCAR WAS OBSERVED LEAKING FROM THE BOTTOM DURING NORMAL SWITCHING OPERATIONS.  UNDER CLOSER INSPECTION IT WAS NOTED THAT THE OUTLET GATE LOCKS WERE WORN AND ALLOWED A-END BOTTOM HOPPER DOOR TO OPEN WHICH ALLOWED PRODUCT TO LEAK OUT.  DOOR WAS CLOSED AND PROPERLY LOCKED  LEAK SECURED.", 
-        "Tot_Amt_of_Damages": 0.0
+        "Unit_of_Measure": "SLB", 
+        "Inc_City": "VIRGINIA", 
+        "Tot_Amt_of_Damages": 0.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": null
     }, 
     {
         "Rpt_Num": "I-2011100369", 
-        "Unit_of_Measure": "SLB", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": "Body", 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2011-09-23", 
@@ -57,11 +77,17 @@
         "Commod_Long_Name": "ZINC CHLORIDE  ANHYDROUS", 
         "Time_Inc": "600", 
         "Desc_of_Events": "WHILE UNLOADING THE TRAILER  15 BAGS WERE FOUND DAMAGED AND LEAKING.  A CERTIFIED EMERGENCY RESPONSE CONTRACTOR WAS DISPATCHED TO MANAGE THE RELEASE.  THE DAMAGED FREIGHT WAS PLACED INTO A LINED SALVAGE DRUM AND HELD PENDING DISPOSITION FROM THE SHIPPER.", 
-        "Tot_Amt_of_Damages": 0.0
+        "Unit_of_Measure": "SLB", 
+        "Inc_City": "COON RAPIDS", 
+        "Tot_Amt_of_Damages": 0.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": "55448"
     }, 
     {
         "Rpt_Num": "I-2008010566", 
-        "Unit_of_Measure": "SLB", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": "Outer Frame", 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2008-01-11", 
@@ -72,11 +98,17 @@
         "Commod_Long_Name": "CORROSIVE SOLID  BASIC  INORGANIC  N.O.S.", 
         "Time_Inc": "800", 
         "Desc_of_Events": "BAG TORN DURING TRANSIT", 
-        "Tot_Amt_of_Damages": 0.0
+        "Unit_of_Measure": "SLB", 
+        "Inc_City": "WINSTED", 
+        "Tot_Amt_of_Damages": 0.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": "55395"
     }, 
     {
         "Rpt_Num": "X-2008050181", 
-        "Unit_of_Measure": "SLB", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": "Body", 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2008-04-30", 
@@ -87,11 +119,17 @@
         "Commod_Long_Name": "CALCIUM HYPOCHLORITE  HYDRATED OR CALCIUM HYPOCHLORITE  HYDRATED MIXTURES  WITH NOT LESS THAN 5.5 PERCENT BUT NOT MORE THAN 16 PERCENT WATER", 
         "Time_Inc": "818", 
         "Desc_of_Events": "The package was dropped in handling.  Examination of the inner container revealed a ruptured seam which allowed the contents to escape. The leakage was contained.  The undamaged portion of the package was repacked for return to shipper.", 
-        "Tot_Amt_of_Damages": 0.0
+        "Unit_of_Measure": "SLB", 
+        "Inc_City": "MAHTOMEDI", 
+        "Tot_Amt_of_Damages": 0.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": "55115"
     }, 
     {
         "Rpt_Num": "I-2002050837", 
-        "Unit_of_Measure": "SLB", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": "Basic Material", 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2002-05-10", 
@@ -102,11 +140,17 @@
         "Commod_Long_Name": "ORGANOPHOSPHORUS PESTICIDES  SOLID  TOXIC", 
         "Time_Inc": "750", 
         "Desc_of_Events": "IMPROPER HANDLING CAUSED RELEASE OF PRODUCT.  ALL SPILLED PRODUCT WAS ABSORBED WITH OIL DRY AND PLACED INTO A SALVAGE DRUM.  ALL DAMAGED PRODUCT WAS HANDLED ACCORDING TO ALL LOCAL  STATE  AND FEDERAL REGULATIONS. INSTRUCTION HAVE BEEN GIVEN AND CORRECTIVE ACTIONS TAKEN FOR ALL EMPLOYEES INVOLVED IN THE RELEASE.", 
-        "Tot_Amt_of_Damages": 1975.0
+        "Unit_of_Measure": "SLB", 
+        "Inc_City": "OWATONNA", 
+        "Tot_Amt_of_Damages": 1975.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": null
     }, 
     {
         "Rpt_Num": "X-2013070303", 
-        "Unit_of_Measure": "SLB", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": "Basic Material", 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2013-06-19", 
@@ -117,11 +161,17 @@
         "Commod_Long_Name": "CORROSIVE SOLID  BASIC  INORGANIC  N.O.S.", 
         "Time_Inc": "910", 
         "Desc_of_Events": "The trailer came in from another terminal with chemical beads spilling out of a pallet that had a piece of freight stuck out of it. The cause was determined to be improper loading.  The damaged pallet was blocked and braced with plywood but another piece of freight was rammed into the pallet causing the damage to the freight.  The paper bag was ripped open with another piece of freight.  The hole was ripped on the side of the bottom bag on the pallet.  Bag was open and spilling out for about 4  hours.  The released was cleaned up and placed in a salvage drum.  The rest of the skid was secured with cardboard and shrink wrap to prevent further leakage.", 
-        "Tot_Amt_of_Damages": 0.0
+        "Unit_of_Measure": "SLB", 
+        "Inc_City": "Waite Park", 
+        "Tot_Amt_of_Damages": 0.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": "56387"
     }, 
     {
         "Rpt_Num": "I-2001080836", 
-        "Unit_of_Measure": "SLB", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": null, 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2001-08-01", 
@@ -132,11 +182,17 @@
         "Commod_Long_Name": "BOOSTERS  WITHOUT DETONATOR", 
         "Time_Inc": "1500", 
         "Desc_of_Events": "LOADED PRODUCT ON TAILGATE OF TRUCK. DRIVER FORGOT PRODUCT WAS ON TAILGATE AND DROVE AWAY FROM LOCATION. DISCOVERED PRODUCT MISSING AT A LATER TIME.", 
-        "Tot_Amt_of_Damages": 120.0
+        "Unit_of_Measure": "SLB", 
+        "Inc_City": "ST CLOUD", 
+        "Tot_Amt_of_Damages": 120.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": null
     }, 
     {
         "Rpt_Num": "I-2009120203", 
-        "Unit_of_Measure": "SLB", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": "Closure (e.g.  Cap  Top  or Plug)", 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2009-12-03", 
@@ -147,6 +203,10 @@
         "Commod_Long_Name": "FIRE EXTINGUISHERS CONTAINING COMPRESSED OR LIQUEFIED GAS", 
         "Time_Inc": "800", 
         "Desc_of_Events": "UNLOADER SAW HE LEAKING PKG  NOTIFIED MANAGER; MANAGER AND RESPONDER REMOVED PKG FROM SORT.", 
-        "Tot_Amt_of_Damages": 0.0
+        "Unit_of_Measure": "SLB", 
+        "Inc_City": "WADENA", 
+        "Tot_Amt_of_Damages": 0.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": "56482"
     }
 ]

@@ -1,7 +1,9 @@
 [
     {
         "Rpt_Num": "E-2011010088", 
-        "Unit_of_Measure": "GCF", 
+        "Tot_Hazmat_Inj": 55.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": "Closure (e.g.  Cap  Top  or Plug)", 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2010-12-08", 
@@ -12,11 +14,17 @@
         "Commod_Long_Name": "AMMONIA ANHYDROUS", 
         "Time_Inc": "745", 
         "Desc_of_Events": "Driver was unloading anhydrous ammonia into an 18 000 gallon above ground storage tank.  The customer had ordered four loads.  The driver started to unload the product and saw vapor coming from the storage tank.  He immediately shut down the truck pump and notified the customer who then closed a valve on the storag tank where they had removed a pump.", 
-        "Tot_Amt_of_Damages": 0.0
+        "Unit_of_Measure": "GCF", 
+        "Inc_City": "RANDOLPH", 
+        "Tot_Amt_of_Damages": 0.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": "55065"
     }, 
     {
         "Rpt_Num": "E-2012070129", 
-        "Unit_of_Measure": "GCF", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": "Hose", 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2012-06-20", 
@@ -27,11 +35,17 @@
         "Commod_Long_Name": "AMMONIA ANHYDROUS", 
         "Time_Inc": "1200", 
         "Desc_of_Events": "Hose had a pin hole sized leak which released a small amount of anhydrous that expanded into a cloud while unloading at the bulk plant.  The valve was closed and the contents of the hose vaporized until it was empty.  No emergency services were needed.", 
-        "Tot_Amt_of_Damages": 0.0
+        "Unit_of_Measure": "GCF", 
+        "Inc_City": "EDGERTON", 
+        "Tot_Amt_of_Damages": 0.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": "56128"
     }, 
     {
         "Rpt_Num": "E-2012120064", 
-        "Unit_of_Measure": "GCF", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 1.0, 
         "What_Failed_Desc": "Gasket", 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2012-11-08", 
@@ -42,11 +56,17 @@
         "Commod_Long_Name": "AMMONIA ANHYDROUS", 
         "Time_Inc": "1300", 
         "Desc_of_Events": "The semi was passing a farm tractor.  When the semi and half of the tank was past the farm tractor  the tractor driver turned left and hit the side of the tank.  The farmer was trying to turn into a field approach.    The farm tractor forced the semi and tank off the road and into a ditch.  The tank separated from the semi and rolled over several times.  The semi then went into the ditch and rolled over.      The piping on the discharge side of the pump was torn off and a gasket inside the internal vavle ripped and stuck inside the valve preventing it from closing completely.  Anhydrous released and blew toward the semi where the driver was unconscious.    A water fog was sprayed onto the leaking anhydrous but the cold weather made the release slow until it was barely noticable allowing responders to approach the tank and install a valve on the pump discharg to eliminate the release.", 
-        "Tot_Amt_of_Damages": 18000.0
+        "Unit_of_Measure": "GCF", 
+        "Inc_City": "LAKEFIELD", 
+        "Tot_Amt_of_Damages": 18000.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": null
     }, 
     {
         "Rpt_Num": "I-2007040619", 
-        "Unit_of_Measure": "GCF", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": "Pressure Relief Valve or Device - Reclosing; Valve Stem", 
         "Mode_Transpo": "Rail", 
         "Date_Inc": "2007-03-17", 
@@ -57,11 +77,17 @@
         "Commod_Long_Name": "AMMONIA ANHYDROUS", 
         "Time_Inc": "645", 
         "Desc_of_Events": "The Lake City Police Department investigated a report from the Goodhue County Sherriffs Department that a southbound train was leaking a substance that smelled like ammonia. The officer confirmed the chemical leak as the train passed by and advised his dispatcher to call the railroad. The Canadian Pacific Railway & Iowa  Chicago and Eastern Railroad were notified that the IC&E MSPKC-17 train  traveling south on the Canadian Pacific Railways River Subdivision Mainline Track  did indeed have a chemical leak. The train was stopped south of Lake City  MN and the crew was evacuated. Residents in the immediate area were evacuated and the Emergency Operations Center (EOC) was activated. As more information from the scene was relayed  forces were dispatched including local fire  emergency management  ambulance  law  IC&E Emergency Responders  CP Emergency Responders  MN Regional Haz-Mat Responders  MN State Responders and contract Haz-Mat responders. The contracted Haz-Mat team was able to seal the anhydrous ammonia tank cars leak  which was found to be coming from the pressure relief valve  with an Emergency Response Midland B Capping Kit. After the leak had been sealed and the area determined to be safe the evacuation was lifted and the area cleared. Tank Car GATX 58261 was set out at the adjacent siding for trans-loading  investigation and repairs. Tran-loading of the remaining product was completed March 20  2007 at 1400 hours. Investigation during the teardown process of the cars relief valve revealed a complete fracture of the valve stem which adjusts and retains the relief pressure valve. In addition  the relieve valves spring  retainer and nuts were observed in the bottom of the car. A new complete certified pressure relief valve was installed on site by Rescar  who was contracted by CF Industries Inc.", 
-        "Tot_Amt_of_Damages": 0.0
+        "Unit_of_Measure": "GCF", 
+        "Inc_City": "LAKE CITY", 
+        "Tot_Amt_of_Damages": 0.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": "55041"
     }, 
     {
         "Rpt_Num": "E-2013050557", 
-        "Unit_of_Measure": "GCF", 
+        "Tot_Hazmat_Inj": 7.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 1.0, 
         "What_Failed_Desc": "Basic Material", 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2013-05-07", 
@@ -72,11 +98,17 @@
         "Commod_Long_Name": "AMMONIA ANHYDROUS", 
         "Time_Inc": "930", 
         "Desc_of_Events": "According to the information obtatined  the following occurred.  While traveling  Jensen Transport vehicle was clipped by a train  which caused truck to rollover onto its side and release product.  The capacity of the tanker is 40 000 pounds.  The Local Fire Department responded to apply water to the overturned tanker and reduce vapor cloud emitting from the cargo tank.  Immediate area was evacuated as a precautionary measure  due to the heavy vapors.  Swift County Emergency Management Agency and Chemical Assessment Team responded to assess the site  along with the Minnesota Department of Agriculture.  West Central Environmental Consultants of Morris  Minnesota was dispatched to assist in cleanup.  Burlington Northern Sante Fe Railyard contracted Specialized Response Solutions (SRS) to transfer product from the damaged tanker  into a rescue tanker provided by Jensen Transport.   Approximately 20 000 pounds of anhydrous ammonia were recovered into the rescue tanker.  The Local Fire Department continued to spray water onto the damaged tank until no further vapors were released.  West Central Environmental Consultants proceeded to recover the contaminated waters from the site.  Center for Toxicology and Environmental Health were on site to monitor the air and ensure safe levels within immediate area.  WCEC pulled soil samples from the adjacent soils in the area  per Minnesota DOT  and site will be monitored to ensure all levels of contamination have been recovered.", 
-        "Tot_Amt_of_Damages": 1150000.0
+        "Unit_of_Measure": "GCF", 
+        "Inc_City": "MURDOCK", 
+        "Tot_Amt_of_Damages": 1150000.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": "56271"
     }, 
     {
         "Rpt_Num": "I-2003070784", 
-        "Unit_of_Measure": "GCF", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": "Auxiliary Valve; Piping or Fittings", 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2002-11-14", 
@@ -87,11 +119,17 @@
         "Commod_Long_Name": "AMMONIA ANHYDROUS", 
         "Time_Inc": "1320", 
         "Desc_of_Events": "VEHICLE WAS TRAVELING NORTH ON 230 AVE WHEN PASSING ONCOMING CAR TRAILER DROPPED OFF EDGE OF ROAD AND BEGAN TO BOUNCE.  DRIVER TRIED TO PULL BACK ONTO ROAD WHEN THE WEIGHT OF TANK CAUSED HITCH TO BREAK AND OVERTURN INTO ADJACENT FIELD AND DITCH.  IMMEDIATELY HAD LOCAL FIRE DEPT COME  OUT AND WATER DOWN RELEASE OF VAPORS.  ATTACHED IS A REPORT FILED BY MN DEPT OF AG.", 
-        "Tot_Amt_of_Damages": 440.0
+        "Unit_of_Measure": "GCF", 
+        "Inc_City": "HAYFIELD", 
+        "Tot_Amt_of_Damages": 440.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": null
     }, 
     {
         "Rpt_Num": "I-2003051079", 
-        "Unit_of_Measure": "GCF", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": "Auxiliary Valve; Piping or Fittings", 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2002-10-31", 
@@ -102,11 +140,17 @@
         "Commod_Long_Name": "AMMONIA ANHYDROUS", 
         "Time_Inc": "1645", 
         "Desc_of_Events": "OUR UNIT WAS SOUTHBOUND ON HWY 15 MAKING LEFT HAND TURN.  AN UNKNOWN VEHICLE PASSED HIM MAKING CORRECT THE TURN TO THE RIGHT WHICH GAVE WAY TO A ROLLOVER.  THE NURSE TANK ROLLED OVER ON TOP CRUSHING RELIEF VALVE.  CALLED FIRE DEPARTMENT 911.", 
-        "Tot_Amt_of_Damages": 1950.0
+        "Unit_of_Measure": "GCF", 
+        "Inc_City": "NEW ULM", 
+        "Tot_Amt_of_Damages": 1950.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": null
     }, 
     {
         "Rpt_Num": "I-2002060198", 
-        "Unit_of_Measure": "GCF", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": ";", 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2001-10-22", 
@@ -117,11 +161,17 @@
         "Commod_Long_Name": "AMMONIA ANHYDROUS", 
         "Time_Inc": "1500", 
         "Desc_of_Events": "LOOSE GRAVEL ON THE ROAD CAUSED THE TANK TO START SWAYING BEHIND THE PICK-UP WHEN DRIVE SLOWED DOWN THE TANK CAME AROUND THE SIDE OF THE TRUCK AND FORCED PUCK-UP INTO THE DITCH CAUSING THE TANK TO OVERTURN. AS THE TANK WAS TIPPING OVER IN THE ROAD DITCH  THE VALVE RUBBED ON THE GROUND CAUSING THE VALVE TO OPEN.", 
-        "Tot_Amt_of_Damages": 2630.0
+        "Unit_of_Measure": "GCF", 
+        "Inc_City": "BOYD", 
+        "Tot_Amt_of_Damages": 2630.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": null
     }, 
     {
         "Rpt_Num": "I-2001060993", 
-        "Unit_of_Measure": "GCF", 
+        "Tot_Hazmat_Inj": 0.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": "Auxiliary Valve; Piping or Fittings", 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2001-05-11", 
@@ -132,11 +182,17 @@
         "Commod_Long_Name": "AMMONIA ANHYDROUS", 
         "Time_Inc": "1117", 
         "Desc_of_Events": "OUR VEHICLE WAS GOING DOWN A DOWN GRADE AND HAD TO MAKE A DETOUR TO THE LEFT GOING DOWN ANOTHER DOWN GRADE.  AT THIS POINT THE LIQUID IN THE TANK SHIFTED CAUSING THE TANK TO ROLL OVER DURING THE LEFT TURN.  THE TANK ROLLED OVER ON IT'S TOP AND BROKE  OFF THE PRESSURE RELIEF VALVE.  THE ANHYDROUS AMMONIA WAS RELEASED FROM THE TANK INTO THE ATMOSPHERE FROM THE BROKEN VALVE. EMERGENCE 911 WAS NOTIFIED RIGHT AWAY.  THE DAYTON FIRE DEPT RESPONDED RIGHT AWAY AND KEPT THE AMMONIA VAPORS DOWN BY SPRAYING WATER ON TANK UNTIL ALL VAPORS ESCAPED FROM THE TANK. THIS WAS NOT THE NORMAL ROUTE.  THE COUNTY HAD A DETOUR AT THE LEFT TURN WHERE ARE TANK ROLLED OVER.", 
-        "Tot_Amt_of_Damages": 12668.0
+        "Unit_of_Measure": "GCF", 
+        "Inc_City": "DAYTON", 
+        "Tot_Amt_of_Damages": 12668.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": null
     }, 
     {
         "Rpt_Num": "I-2007120476", 
-        "Unit_of_Measure": "GCF", 
+        "Tot_Hazmat_Inj": 1.0, 
+        "Inc_St": "MN", 
+        "Tot_Hazmat_Fatal": 0.0, 
         "What_Failed_Desc": "Tank Head", 
         "Mode_Transpo": "Highway", 
         "Date_Inc": "2007-11-21", 
@@ -147,6 +203,10 @@
         "Commod_Long_Name": "AMMONIA ANHYDROUS", 
         "Time_Inc": "1300", 
         "Desc_of_Events": "Delivering 1000 gal Anhydrous Ammonia to customer. Traveling 25 mph south on Kale Rd. Driver heard crackingnoise  then heard Ammonia escaping from tank. Cuase of release  tank failure.", 
-        "Tot_Amt_of_Damages": 0.0
+        "Unit_of_Measure": "GCF", 
+        "Inc_City": "SILVER LAKE", 
+        "Tot_Amt_of_Damages": 0.0, 
+        "Explosion_Result_Ind": "No", 
+        "Inc_Zip": "55381"
     }
 ]
