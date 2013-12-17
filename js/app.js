@@ -11,13 +11,14 @@ define('minnpost-hazmat', [
   'text!../data/question-incidents_by_material.json',
   'text!../data/question-incidents_by_carrier.json',
   'text!../data/question-incidents_by_shipper.json',
+  'text!../data/question-incidents_by_transportation.json',
   'text!../data/question-most_released_incidents_lga.json',
   'text!../data/question-most_released_incidents_slb.json',
   'text!templates/application.mustache',
   'text!templates/loading.mustache'
 ],
 function(_, $, Ractive, Highcharts, helpers,
-  dTotal, dByYear, dByMaterial, dByCarrier, dByShipper, dTopLGA, dTopSLB,
+  dTotal, dByYear, dByMaterial, dByCarrier, dByShipper, dByTransportation, dTopLGA, dTopSLB,
   tApplication, tLoading) {
 
   // Parse the incoming data
@@ -25,6 +26,7 @@ function(_, $, Ractive, Highcharts, helpers,
     total: JSON.parse(dTotal),
     byYear: JSON.parse(dByYear),
     byMaterial: JSON.parse(dByMaterial),
+    byTransportation: JSON.parse(dByTransportation),
     byCarrier: _.first(JSON.parse(dByCarrier), 10),
     byShipper: _.first(JSON.parse(dByShipper), 10),
     topGallons: _.first(JSON.parse(dTopLGA), 2),
@@ -37,6 +39,9 @@ function(_, $, Ractive, Highcharts, helpers,
   });
   pData.byMaterialArray = _.map(pData.byMaterial, function(d) {
     return [ d.Commod_Long_Name, d.count ];
+  });
+  pData.byTransportationArray = _.map(pData.byTransportation, function(d) {
+    return [ d.Mode_Transpo, d.count ];
   });
 
   // Constructor for app
@@ -88,7 +93,6 @@ function(_, $, Ractive, Highcharts, helpers,
           thisApp.$el.find('.chart-incidents-by-year').highcharts(options);
         }
       });
-
       this.view.observe('sources.byMaterialArray', function(n, o) {
         var options;
 
@@ -104,6 +108,23 @@ function(_, $, Ractive, Highcharts, helpers,
             }]
           });
           thisApp.$el.find('.chart-incidents-by-material').highcharts(options);
+        }
+      });
+      this.view.observe('sources.byTransportationArray', function(n, o) {
+        var options;
+
+        if (!_.isUndefined(n)) {
+          options = _.clone(thisApp.options.highChartOptions);
+          options = $.extend(true, options, {
+            chart: {
+              type: 'column'
+            },
+            series: [{
+              name: 'Incidents by transportation type',
+              data: n
+            }]
+          });
+          thisApp.$el.find('.chart-incidents-by-transportation').highcharts(options);
         }
       });
     },

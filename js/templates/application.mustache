@@ -20,6 +20,16 @@
   </div>
 
   <div class="section">
+    <div class="section-heading">By transportation.</div>
+
+    <div class="section-visual">
+      <div class="chart chart-incidents-by-transportation"></div>
+    </div>
+
+    <div class="section-footing">blah blahs slkldksjf lskdjf lskdjf l l sl fsk flsdkjf slkfjd slkfdj slkdjf l  fkjdkf jdkjf lskejrl kjd lfkjs lkfjd fkj lsk dkjflks j.</div>
+  </div>
+
+  <div class="section">
     <div class="section-heading">By Material.</div>
 
     <div class="section-visual">
@@ -77,7 +87,7 @@
     <div class="section-visual">
       {{#sources.topPounds:i}}
         <div class="">
-          On {{ Date_Inc }}, {{ C_R_Name }} was making a shipment for {{ Ship_Name }} traveling via {{ Mode_Transpo }}.  At around {{ Time_Inc }} an accident occured that spilled {{ fNum(Quant_Released , 0) }} gallons of {{ Commod_Long_Name }}.  Reported details below: <br><br>
+          On {{ Date_Inc }}, {{ C_R_Name }} was making a shipment for {{ Ship_Name }} traveling via {{ Mode_Transpo }}.  At around {{ Time_Inc }} an accident occured that spilled {{ fNum(Quant_Released , 0) }} lbs of {{ Commod_Long_Name }}.  Reported details below: <br><br>
 
           <small>{{ Desc_of_Events }}</small> <br><br>
         </div>
