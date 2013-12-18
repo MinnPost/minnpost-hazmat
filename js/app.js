@@ -44,7 +44,7 @@ function(_, $, Ractive, Highcharts, helpers,
     return [ d.year, d.count ];
   });
   pData.byMaterialArray = _.map(pData.byMaterial, function(d) {
-    return [ d.Commod_Long_Name, d.count ];
+    return [ d.grouped_Commod_Long_Name, d.count ];
   });
 
   // Constructor for app

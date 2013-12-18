@@ -74,7 +74,7 @@
           <ul>
             {{#sources.byCarrier:i}}
               <li>
-                <div class="top-who-label">{{ C_R_Name }}</div>
+                <div class="top-who-label">{{ grouped_C_R_Name }}</div>
                 <div class="top-who-value">{{ fNum(count, 0) }}</div>
               </li>
             {{/sources.byCarrier}}
@@ -86,7 +86,7 @@
           <ul>
             {{#sources.byShipper:i}}
               <li>
-                <div class="top-who-label">{{ Ship_Name }}</div>
+                <div class="top-who-label">{{ grouped_Ship_Name }}</div>
                 <div class="top-who-value">{{ fNum(count, 0) }}</div>
               </li>
             {{/sources.byShipper}}
@@ -131,7 +131,7 @@
 
 <div class="footnote-container">
   <div class="footnote">
-    <p>Some code, techniques, and data on <a href="https://github.com/zzolo/minnpost-hazmat" target="_blank">Github</a>.</p>
+    <p><a href="http://ire.org/nicar/database-library/databases/hazardous-materials/" target="_blank">HAZMAT Data</a> collected by INN and IRE.  Some code, techniques, and data on <a href="https://github.com/zzolo/minnpost-hazmat" target="_blank">Github</a>.  Airplane designed by <a href="http://thenounproject.com/marwaboukarim" target="_blank">Marwa Boukarim</a>, Truck designed by <a href="http://thenounproject.com/Simon%20Child" target="_blank">Simon Child</a>; all from the <a href="http://thenounproject.com" target="_blank">Noun Project</a>.</p>
   </div>
 </div>
 
@@ -140,16 +140,16 @@
   <div class="short-description">
     On {{ Date_Inc }},
 
-    {{#(C_R_Name == Ship_Name) }}
-      {{ C_R_Name }} was making a shipment
+    {{#(grouped_C_R_Name == grouped_Ship_Name) }}
+      {{ grouped_C_R_Name }} was making a shipment
     {{/()}}
-    {{^(C_R_Name == Ship_Name) }}
-      {{ C_R_Name }} was making a shipment for {{ Ship_Name }}
+    {{^(grouped_C_R_Name == grouped_Ship_Name) }}
+      {{ grouped_C_R_Name }} was making a shipment for {{ grouped_Ship_Name }}
     {{/()}}
 
     traveling via {{ Mode_Transpo }} in {{ Inc_City }}, {{ Inc_St }}.
 
-    At around {{ Time_Inc }} an accident occured that released {{ fNum(Quant_Released , 0) }} {{ Unit_of_Measure }} of {{ Commod_Long_Name }}.
+    At around {{ Time_Inc }} an accident occured that released {{ fNum(Quant_Released , 0) }} {{ Unit_of_Measure }} of {{ grouped_Commod_Long_Name }}.
 
     <a href="#" on-tap="openReport">View report details</a>
   </div>
