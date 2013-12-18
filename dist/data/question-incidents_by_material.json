@@ -1,0 +1,402 @@
+[
+    {
+        "count": 643, 
+        "grouped_Commod_Long_Name": "PAINT OR RELATED"
+    }, 
+    {
+        "count": 223, 
+        "grouped_Commod_Long_Name": "FLAMMABLE LIQUIDS  N.O.S."
+    }, 
+    {
+        "count": 162, 
+        "grouped_Commod_Long_Name": "CORROSIVE LIQUIDS  N.O.S."
+    }, 
+    {
+        "count": 156, 
+        "grouped_Commod_Long_Name": "CORROSIVE LIQUID  BASIC  INORGANIC  N.O.S."
+    }, 
+    {
+        "count": 141, 
+        "grouped_Commod_Long_Name": "RESIN SOLUTION  FLAMMABLE"
+    }, 
+    {
+        "count": 125, 
+        "grouped_Commod_Long_Name": "GASOLINE"
+    }, 
+    {
+        "count": 107, 
+        "grouped_Commod_Long_Name": "ISOPROPANOL OR ISOPROPYL ALCOHOL"
+    }, 
+    {
+        "count": 99, 
+        "grouped_Commod_Long_Name": "SODIUM HYDROXIDE  SOLUTION"
+    }, 
+    {
+        "count": 86, 
+        "grouped_Commod_Long_Name": "CORROSIVE LIQUID  ACIDIC  INORGANIC  N.O.S."
+    }, 
+    {
+        "count": 78, 
+        "grouped_Commod_Long_Name": "FIRE EXTINGUISHERS CONTAINING COMPRESSED OR LIQUEFIED GAS"
+    }, 
+    {
+        "count": 77, 
+        "grouped_Commod_Long_Name": "ADHESIVES  CONTAINING A FLAMMABLE LIQUID"
+    }, 
+    {
+        "count": 71, 
+        "grouped_Commod_Long_Name": "PRINTING INK OR RELATED"
+    }, 
+    {
+        "count": 67, 
+        "grouped_Commod_Long_Name": "CORROSIVE LIQUID  ACIDIC  ORGANIC  N.O.S."
+    }, 
+    {
+        "count": 62, 
+        "grouped_Commod_Long_Name": "METHANOL"
+    }, 
+    {
+        "count": 59, 
+        "grouped_Commod_Long_Name": "HYDROGEN PEROXIDE AND PEROXYACETIC ACID MIXTURES  STABILIZED WITH ACIDS  WATER  AND NOT MORE THAN 5 PERCENT PEROXYACETIC ACID"
+    }, 
+    {
+        "count": 56, 
+        "grouped_Commod_Long_Name": "HYDROCHLORIC ACID  SOLUTION"
+    }, 
+    {
+        "count": 54, 
+        "grouped_Commod_Long_Name": "POTASSIUM HYDROXIDE  SOLUTION"
+    }, 
+    {
+        "count": 48, 
+        "grouped_Commod_Long_Name": "SULFURIC ACID"
+    }, 
+    {
+        "count": 42, 
+        "grouped_Commod_Long_Name": "AMMONIA ANHYDROUS"
+    }, 
+    {
+        "count": 41, 
+        "grouped_Commod_Long_Name": "CONSUMER COMMODITY"
+    }, 
+    {
+        "count": 40, 
+        "grouped_Commod_Long_Name": "DIESEL FUEL"
+    }, 
+    {
+        "count": 37, 
+        "grouped_Commod_Long_Name": "ALCOHOLS  N.O.S."
+    }, 
+    {
+        "count": 37, 
+        "grouped_Commod_Long_Name": "FUEL OIL (NO. 1  2  4  5  OR 6)"
+    }, 
+    {
+        "count": 33, 
+        "grouped_Commod_Long_Name": "PHOSPHORIC ACID SOLUTION"
+    }, 
+    {
+        "count": 28, 
+        "grouped_Commod_Long_Name": "ACETONE"
+    }, 
+    {
+        "count": 27, 
+        "grouped_Commod_Long_Name": "PETROLEUM DISTILLATES  N.O.S. OR PETROLEUM PRODUCTS  N.O.S."
+    }, 
+    {
+        "count": 26, 
+        "grouped_Commod_Long_Name": "CAUSTIC ALKALI LIQUIDS  N.O.S."
+    }, 
+    {
+        "count": 26, 
+        "grouped_Commod_Long_Name": "ENVIRONMENTALLY HAZARDOUS SUBSTANCES  LIQUID  N.O.S."
+    }, 
+    {
+        "count": 26, 
+        "grouped_Commod_Long_Name": "ETHANOL OR ETHYL ALCOHOL OR ETHANOL SOLUTIONS OR ETHYL ALCOHOL SOLUTIONS"
+    }, 
+    {
+        "count": 25, 
+        "grouped_Commod_Long_Name": "AEROSOLS  FLAMMABLE  (EACH NOT EXCEEDING 1 L CAPACITY)"
+    }, 
+    {
+        "count": 23, 
+        "grouped_Commod_Long_Name": "AMINES  LIQUID  CORROSIVE  N.O.S. OR POLYAMINES  LIQUID  CORROSIVE  N.O.S."
+    }, 
+    {
+        "count": 23, 
+        "grouped_Commod_Long_Name": "FLAMMABLE LIQUIDS  CORROSIVE  N.O.S."
+    }, 
+    {
+        "count": 22, 
+        "grouped_Commod_Long_Name": "CORROSIVE LIQUID  BASIC  ORGANIC  N.O.S."
+    }, 
+    {
+        "count": 21, 
+        "grouped_Commod_Long_Name": "HYDROGEN PEROXIDE  AQUEOUS SOLUTIONS WITH NOT LESS THAN 20 PERCENT BUT NOT MORE THAN 40 PERCENT HYDROGEN PEROXIDE (STABILIZED AS NECESSARY)"
+    }, 
+    {
+        "count": 21, 
+        "grouped_Commod_Long_Name": "ORGANIC PEROXIDE TYPE D  LIQUID"
+    }, 
+    {
+        "count": 21, 
+        "grouped_Commod_Long_Name": "ORGANOPHOSPHORUS PESTICIDES  SOLID  TOXIC"
+    }, 
+    {
+        "count": 20, 
+        "grouped_Commod_Long_Name": "COATING SOLUTION ( INCLUDES SURFACE TREATMENTS OR COATINGS USED FOR INDUSTRIAL OR OTHER PURPOSES SUCH AS VEHICLE UNDERCOATING  DRUM OR BARREL LINING )"
+    }, 
+    {
+        "count": 20, 
+        "grouped_Commod_Long_Name": "NITRIC ACID OTHER THAN RED FUMING  WITH AT LEAST 65 PERCENT  BUT NOT MORE THAN 70 PERCENT NITRIC ACID"
+    }, 
+    {
+        "count": 19, 
+        "grouped_Commod_Long_Name": "EXTRACTS  FLAVORING  LIQUID"
+    }, 
+    {
+        "count": 18, 
+        "grouped_Commod_Long_Name": "COMPOUNDS  CLEANING LIQUID"
+    }, 
+    {
+        "count": 18, 
+        "grouped_Commod_Long_Name": "SULFURIC ACID WITH NOT MORE THAN 51% ACID"
+    }, 
+    {
+        "count": 17, 
+        "grouped_Commod_Long_Name": "TOLUENE"
+    }, 
+    {
+        "count": 16, 
+        "grouped_Commod_Long_Name": "CORROSIVE LIQUIDS  TOXIC  N.O.S."
+    }, 
+    {
+        "count": 15, 
+        "grouped_Commod_Long_Name": "FUEL OIL  NO. 1  2  4  5  OR 6"
+    }, 
+    {
+        "count": 15, 
+        "grouped_Commod_Long_Name": "METHYL ETHYL KETONE"
+    }, 
+    {
+        "count": 14, 
+        "grouped_Commod_Long_Name": "ACETIC ACID  GLACIAL OR ACETIC ACID SOLUTION  WITH MORE THAN 80 PERCENT ACID  BY MASS"
+    }, 
+    {
+        "count": 14, 
+        "grouped_Commod_Long_Name": "CORROSIVE SOLID  BASIC  INORGANIC  N.O.S."
+    }, 
+    {
+        "count": 14, 
+        "grouped_Commod_Long_Name": "ELEVATED TEMPERATURE LIQUID  N.O.S.  AT OR ABOVE 100 C AND BELOW ITS FLASH POINT (INCLUDING MOLTEN METALS  MOLTEN SALTS  ETC.)"
+    }, 
+    {
+        "count": 14, 
+        "grouped_Commod_Long_Name": "ISOPROPYL ALCOHOL"
+    }, 
+    {
+        "count": 14, 
+        "grouped_Commod_Long_Name": "ORGANIC PEROXIDE TYPE F  LIQUID"
+    }, 
+    {
+        "count": 13, 
+        "grouped_Commod_Long_Name": "AEROSOLS  POISON  PACKING GROUP III (EACH NOT EXCEEDING 1 L CAPACITY)"
+    }, 
+    {
+        "count": 12, 
+        "grouped_Commod_Long_Name": "CARBON DIOXIDE  SOLID OR DRY ICE"
+    }, 
+    {
+        "count": 12, 
+        "grouped_Commod_Long_Name": "ENVIRONMENTALLY HAZARDOUS SUBSTANCES  SOLID  N.O.S."
+    }, 
+    {
+        "count": 12, 
+        "grouped_Commod_Long_Name": "PETROLEUM GASES  LIQUEFIED OR LIQUEFIED PETROLEUM GAS"
+    }, 
+    {
+        "count": 12, 
+        "grouped_Commod_Long_Name": "XYLENES"
+    }, 
+    {
+        "count": 11, 
+        "grouped_Commod_Long_Name": "COMPOUND  CLEANING  LIQUID (CONTAINING PHOSPHORIC ACID  ACETIC ACID  SODIUM HYDROXIDE OR POTASSIUM HYDROXIDE)"
+    }, 
+    {
+        "count": 10, 
+        "grouped_Commod_Long_Name": "DISINFECTANTS  LIQUID  CORROSIVE N.O.S."
+    }, 
+    {
+        "count": 10, 
+        "grouped_Commod_Long_Name": "ETHANOL SOLUTIONS"
+    }, 
+    {
+        "count": 10, 
+        "grouped_Commod_Long_Name": "ETHYL ACETATE"
+    }, 
+    {
+        "count": 10, 
+        "grouped_Commod_Long_Name": "ETHYL METHYL KETONE OR METHYL ETHYL KETONE"
+    }, 
+    {
+        "count": 10, 
+        "grouped_Commod_Long_Name": "ORGANIC PEROXIDE TYPE E  LIQUID"
+    }, 
+    {
+        "count": 9, 
+        "grouped_Commod_Long_Name": "METHYL METHACRYLATE MONOMER  STABILIZED"
+    }, 
+    {
+        "count": 9, 
+        "grouped_Commod_Long_Name": "PAINT OR PAINT RELATED MATERIAL"
+    }, 
+    {
+        "count": 9, 
+        "grouped_Commod_Long_Name": "SODIUM HYDROXIDE  SOLID"
+    }, 
+    {
+        "count": 9, 
+        "grouped_Commod_Long_Name": "TOXIC LIQUIDS  ORGANIC  N.O.S."
+    }, 
+    {
+        "count": 8, 
+        "grouped_Commod_Long_Name": "COMBUSTIBLE LIQUID  N.O.S."
+    }, 
+    {
+        "count": 8, 
+        "grouped_Commod_Long_Name": "HEXANES"
+    }, 
+    {
+        "count": 8, 
+        "grouped_Commod_Long_Name": "HYDROGEN  PEROXIDE  AQUEOUS SOLUTIONS WITH MORE THAN 40 PERCENT BUT NOT MORE THAN 60 PERCENT HYDROGEN PEROXIDE (STABILIZED AS NECESSARY)"
+    }, 
+    {
+        "count": 8, 
+        "grouped_Commod_Long_Name": "HYPOCHLORITE SOLUTIONS WITH MORE THAN 5 PERCENT BUT LESS THAN 16 PERCENT AVAILABLE CHLORINE"
+    }, 
+    {
+        "count": 8, 
+        "grouped_Commod_Long_Name": "PERFUMERY PRODUCTS WITH FLAMMABLE SOLVENTS"
+    }, 
+    {
+        "count": 8, 
+        "grouped_Commod_Long_Name": "STYRENE MONOMER  STABILIZED"
+    }, 
+    {
+        "count": 7, 
+        "grouped_Commod_Long_Name": "AEROSOLS  NON-FLAMMABLE  (EACH NOT EXCEEDING 1 L CAPACITY)"
+    }, 
+    {
+        "count": 7, 
+        "grouped_Commod_Long_Name": "BATTERIES  WET  FILLED WITH ACID  ELECTRIC STORAGE"
+    }, 
+    {
+        "count": 7, 
+        "grouped_Commod_Long_Name": "COMPRESSED GAS  N.O.S"
+    }, 
+    {
+        "count": 7, 
+        "grouped_Commod_Long_Name": "CORROSIVE LIQUIDS  FLAMMABLE  N.O.S."
+    }, 
+    {
+        "count": 7, 
+        "grouped_Commod_Long_Name": "FLAMMABLE LIQUIDS  TOXIC  N.O.S."
+    }, 
+    {
+        "count": 7, 
+        "grouped_Commod_Long_Name": "HYDROCARBONS  LIQUID  N.O.S."
+    }, 
+    {
+        "count": 7, 
+        "grouped_Commod_Long_Name": "LIGHTER REFILLS CONTAINING FLAMMABLE GAS NOT EXCEEDING 4 FLUID OUNCES (7.22 CUBIC INCHES) AND 65 GRAMS OF FLAMMABLE GAS"
+    }, 
+    {
+        "count": 7, 
+        "grouped_Commod_Long_Name": "TOXIC SOLID  INORGANIC  N.O.S."
+    }, 
+    {
+        "count": 6, 
+        "grouped_Commod_Long_Name": "ACETONITRILE"
+    }, 
+    {
+        "count": 6, 
+        "grouped_Commod_Long_Name": "AMMONIUM NITRATE  WITH NOT MORE THAN 0.2%  OF COMBUSTIBLE MATERIALS  INCLUDING ANY ORGANIC SUBSTANCE CALCULATED AS CARBON TO THE EXCLUSION OF ANY OTHER ADDED SUBSTANCE"
+    }, 
+    {
+        "count": 6, 
+        "grouped_Commod_Long_Name": "BATTERY FLUID  ACID"
+    }, 
+    {
+        "count": 6, 
+        "grouped_Commod_Long_Name": "CORROSIVE SOLID  ACIDIC  INORGANIC  N.O.S."
+    }, 
+    {
+        "count": 6, 
+        "grouped_Commod_Long_Name": "DICHLOROMETHANE"
+    }, 
+    {
+        "count": 6, 
+        "grouped_Commod_Long_Name": "FLUOROSILICIC ACID"
+    }, 
+    {
+        "count": 6, 
+        "grouped_Commod_Long_Name": "NITROGEN  REFRIGERATED LIQUID (CRYOGENIC LIQUID)"
+    }, 
+    {
+        "count": 6, 
+        "grouped_Commod_Long_Name": "ORGANOPHOSPHORUS PESTICIDES  LIQUID  TOXIC  FLAMMABLE  FLASH POINT NOT LESS THAN 23 DEGREES C"
+    }, 
+    {
+        "count": 6, 
+        "grouped_Commod_Long_Name": "OXIDIZING SOLID  N.O.S."
+    }, 
+    {
+        "count": 5, 
+        "grouped_Commod_Long_Name": "BUTYL ACETATES"
+    }, 
+    {
+        "count": 5, 
+        "grouped_Commod_Long_Name": "DANGEROUS GOODS IN MACHINERY OR DANGEROUS GOODS IN APPARATUS"
+    }, 
+    {
+        "count": 5, 
+        "grouped_Commod_Long_Name": "ETHYL ALCOHOL"
+    }, 
+    {
+        "count": 5, 
+        "grouped_Commod_Long_Name": "LIQUEFIED PETROLEUM GAS"
+    }, 
+    {
+        "count": 5, 
+        "grouped_Commod_Long_Name": "OXIDIZING LIQUID  CORROSIVE  N.O.S."
+    }, 
+    {
+        "count": 5, 
+        "grouped_Commod_Long_Name": "PESTICIDES  LIQUID  TOXIC  N.O.S."
+    }, 
+    {
+        "count": 5, 
+        "grouped_Commod_Long_Name": "PETROLEUM CRUDE OIL"
+    }, 
+    {
+        "count": 4, 
+        "grouped_Commod_Long_Name": "ADHESIVE"
+    }, 
+    {
+        "count": 4, 
+        "grouped_Commod_Long_Name": "AMMONIA  ANHYDROUS  LIQUEFIED OR AMMONIA SOLUTIONS RELATIVE DENSITY LESS THAN .880 AT 15 DEGREES C IN WATER  WITH MORE THAN 50 PERCENT AMMONIA"
+    }, 
+    {
+        "count": 4, 
+        "grouped_Commod_Long_Name": "AMMONIA SOLUTION  RELATIVE DENSITY BETWEEN 0.880 AND 0.957 AT 15 DEGREES C IN WATER  WITH MORE THAN 10 PERCENT BUT NOT MORE THAN 35 PERCENT AMMONIA"
+    }, 
+    {
+        "count": 4, 
+        "grouped_Commod_Long_Name": "CORROSIVE SOLIDS  N.O.S."
+    }, 
+    {
+        "count": 4, 
+        "grouped_Commod_Long_Name": "DENATURED ALCOHOL"
+    }
+]

@@ -140,7 +140,7 @@
 <!-- {{>incident}} -->
 <div class="incident">
   <div class="short-description">
-    On {{ Date_Inc }},
+    In {{ Date_Inc.split('-')[0] }},
 
     {{#(grouped_C_R_Name == grouped_Ship_Name) }}
       {{ grouped_C_R_Name }} was making a shipment
@@ -149,9 +149,20 @@
       {{ grouped_C_R_Name }} was making a shipment for {{ grouped_Ship_Name }}
     {{/()}}
 
-    traveling via {{ Mode_Transpo }} in {{ Inc_City }}, {{ Inc_St }}.
+    traveling via {{ Mode_Transpo.toLowerCase() }} in {{ Inc_City }}, {{ Inc_St }}
+    in route to {{ Dest_City }}, {{ Dest_State }}.
 
-    At around {{ Time_Inc }} an accident occured that released {{ fNum(Quant_Released , 0) }} {{ Unit_of_Measure }} of {{ grouped_Commod_Long_Name }}.
+    An incident occured
+
+    {{#(What_Failed_Desc != '' && What_Failed_Desc != null)}}
+      involving the {{ What_Failed_Desc }}
+    {{/()}}
+
+    that released
+    {{#(Quant_Released > 0)}}
+      {{ fNum(Quant_Released , 0) }} {{ Unit_of_Measure }} of
+    {{/()}}
+    {{ (grouped_Commod_Long_Name.split(' ').length > 5) ? grouped_Commod_Long_Name.split(' ')[0] + ' ' + grouped_Commod_Long_Name.split(' ')[1] : grouped_Commod_Long_Name }}.
 
     <a href="#" on-tap="openReport">View report details</a>
   </div>

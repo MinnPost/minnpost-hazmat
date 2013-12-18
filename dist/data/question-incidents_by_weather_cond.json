@@ -1,0 +1,158 @@
+[
+    {
+        "count": 3731, 
+        "Weather_Cond": null
+    }, 
+    {
+        "count": 6, 
+        "Weather_Cond": "CLEAR"
+    }, 
+    {
+        "count": 2, 
+        "Weather_Cond": "CLEAR/DRY"
+    }, 
+    {
+        "count": 2, 
+        "Weather_Cond": "Fair"
+    }, 
+    {
+        "count": 2, 
+        "Weather_Cond": "SUNNY"
+    }, 
+    {
+        "count": 2, 
+        "Weather_Cond": "dry"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "35/DARK/CLOUDY"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "4 F SUNNY"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "6"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "BLACK ICE"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "CLEAR DRY"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "CLEAR-DRY"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "Clear"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "Clear  28 F"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "Clear  40 deg."
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "Clear/Night"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "DRY"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "DRY  COLD"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "DRY  SUNNY"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "DRY AND DARK"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "DRY AND OVERCAST"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "Dry & Clear"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "Dry Clear"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "Dry and clear"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "FOG"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "FOGGY"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "FREEZING RAIN"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "GOOD"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "NICE"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "NIGHT AND MIST"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "PARTLY CLOUDY"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "Raining"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "SNOWING"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "W"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "clear"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "clear  dry"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "cold & cloudy"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "good"
+    }, 
+    {
+        "count": 1, 
+        "Weather_Cond": "iced roadways"
+    }
+]
