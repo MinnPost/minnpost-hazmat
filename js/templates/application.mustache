@@ -138,7 +138,20 @@
 <!-- {{>incident}} -->
 <div class="incident">
   <div class="short-description">
-    On {{ Date_Inc }}, {{ C_R_Name }} was making a shipment for {{ Ship_Name }} traveling via {{ Mode_Transpo }}.  At around {{ Time_Inc }} an accident occured that spilled {{ fNum(Quant_Released , 0) }} gallons of {{ Commod_Long_Name }}.  <a href="#" on-tap="openReport">View report details</a>
+    On {{ Date_Inc }},
+
+    {{#(C_R_Name == Ship_Name) }}
+      {{ C_R_Name }} was making a shipment
+    {{/()}}
+    {{^(C_R_Name == Ship_Name) }}
+      {{ C_R_Name }} was making a shipment for {{ Ship_Name }}
+    {{/()}}
+
+    traveling via {{ Mode_Transpo }} in {{ Inc_City }}, {{ Inc_St }}.
+
+    At around {{ Time_Inc }} an accident occured that released {{ fNum(Quant_Released , 0) }} {{ Unit_of_Measure }} of {{ Commod_Long_Name }}.
+
+    <a href="#" on-tap="openReport">View report details</a>
   </div>
 
   <div class="stats grid-container">
