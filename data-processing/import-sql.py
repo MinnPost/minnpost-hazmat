@@ -17,6 +17,57 @@ from sqlalchemy.orm import sessionmaker, mapper
 database_file_path = os.path.join(os.path.dirname(__file__), '../data/hazmat.db')
 database_connection = 'sqlite:///' + database_file_path
 
+# Custom grouping and translations.  Data entry across reports is not
+# consistent so we want to group things together that are very likely the
+# same thing.  These get stored in a different column.  We have not gone
+# through all the data, but simply picking out the more common occurences.
+translations = {
+  'Commod_Long_Name': {
+    'PAINT INCLUDING PAINT  LACQUER  ENAMEL  STAIN  SHELLAC SOLUTIONS  VARNISH  POLISH  LIQUID FILLER AND LIQUID LACQUER BASE': 'PAINT OR RELATED',
+    'PAINT RELATED MATERIAL INCLUDING PAINT THINNING  DRYING  REMOVING  OR REDUCING COMPOUND': 'PAINT OR RELATED',
+    'PAINT': 'PAINT OR RELATED',
+    'GASOLINE INCLUDES GASOLINE MIXED WITH ETHYL ALCOHOL  WITH NOT MORE THAN 10% ALCOHOL': 'GASOLINE',
+    'GASOHOL GASOLINE MIXED WITH ETHYL ALCOHOL  WITH NOT MORE THAN 10% ALCOHOL': 'GASOLINE',
+    'PRINTING INK  FLAMMABLE OR PRINTING INK RELATED MATERIAL (INCLUDING PRINTING INK THINNING OR REDUCING COMPOUND)  FLAMMABLE': 'PRINTING INK OR RELATED'
+  },
+  'C_R_Name': {
+    'FEDEX GROUND PACKAGE SYSTEM  INC.': 'FEDEX',
+    'FEDEX FREIGHT  INC.': 'FEDEX',
+    'FEDERAL EXPRESS CORPORATION': 'FEDEX',
+    'UNITED PARCEL SERVICE': 'UPS',
+    'UNITED PARCEL SERVICE  INC.': 'UPS',
+    'UNITED PARCEL SERVICE OF AMERICA  INC.': 'UPS',
+    'UPS GROUND FREIGHT  INC.': 'UPS',
+    'UNITED PARCEL SERVICE CO.': 'UPS',
+    'YRC WORLDWIDE INC.': 'YRC',
+    'YRC INC.': 'YRC',
+    'YRC GLOBAL': 'YRC',
+    'CON-WAY FREIGHT INC.': 'CON-WAY',
+    'CON-WAY FREIGHT INC': 'CON-WAY',
+    'CON-WAY FREIGHT  INC': 'CON-WAY',
+    'CON-WAY CENTRAL EXPRESS INC.': 'CON-WAY',
+    'CONWAY CENTRAL EXPRESS': 'CON-WAY'
+  },
+  'Ship_Name': {
+    'FUJIFILM NORTH AMERICA CORPORATION': 'FUJIFILM',
+    'FUJIFILM CORP': 'FUJIFILM',
+    'FUJIFILM ELECTRONIC MATERIALS U.S.A.  INC.': 'FUJIFILM',
+    'FUJIFILM U.S.A.  INC.': 'FUJIFILM',
+    'FUJI PHOTO FILM': 'FUJIFILM',
+    'FUJI FILM PHOTO': 'FUJIFILM',
+    'THE SHERWIN-WILLIAMS COMPANY': 'THE SHERWIN-WILLIAMS COMPANY',
+    'SHERWIN-WILLIAMS AUTOMOTIVE FINISHES CORP.': 'THE SHERWIN-WILLIAMS COMPANY',
+    'THE VALSPAR CORPORATION': 'VALSPAR',
+    'VALSPAR CORP': 'VALSPAR',
+    'VALSPAR': 'VALSPAR',
+    'FISHER SCIENTIFIC COMPANY LLC': 'FISHER SCIENTIFIC COMPANY',
+    'FISHER SCIENTIFIC INTERNATIONAL  INC.': 'FISHER SCIENTIFIC COMPANY',
+    'FISHER SCIENTIFIC COMPANY L.L.C.': 'FISHER SCIENTIFIC COMPANY',
+    'VWR INTERNATIONAL  LLC': 'VWR INTERNATIONAL',
+    'VWR INTERNATIONAL LLC': 'VWR INTERNATIONAL'
+  }
+}
+
 # Source files
 layout_path = os.path.join(os.path.dirname(__file__), '../data/layout-cleaned.csv')
 data_path = os.path.join(os.path.dirname(__file__), '../data/original/Minnesota.csv')
@@ -39,6 +90,9 @@ class Incident(Base):
   __tablename__ = 'incidents'
 
   id = Column(Integer, primary_key=True)
+  grouped_Commod_Long_Name = Column(String)
+  grouped_C_R_Name = Column(String)
+  grouped_Ship_Name = Column(String)
 
 # Reports
 class Report(Base):
@@ -139,6 +193,13 @@ with open(data_path, 'rU') as csv_data:
         row[key] = dateutil.parser.parse(row[key]).date()
       elif row[key] is not None:
         row[key] = unicode(row[key], errors='ignore').strip()
+
+    # Handle some translations
+    for t in translations:
+      if row[t] is not None and row[t] in translations[t]:
+        row['grouped_' + t] = translations[t][row[t]]
+      else:
+        row['grouped_' + t] = row[t]
 
     # Add an ID
     row['id'] = reading

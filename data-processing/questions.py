@@ -106,10 +106,12 @@ common_query_desc = session.query(
   Incident.Rpt_Num,
   Incident.Date_Inc, Incident.Time_Inc,
   Incident.Inc_City, Incident.Inc_St, Incident.Inc_Zip,
-  Incident.C_R_Name, Incident.Ship_Name,
+  Incident.Orig_City, Incident.Orig_State, Incident.Orig_Zip,
+  Incident.Dest_City, Incident.Dest_State, Incident.Dest_Zip,
+  Incident.grouped_C_R_Name, Incident.grouped_Ship_Name,
   Incident.Mode_Transpo,
   Incident.What_Failed_Desc, Incident.How_Failed_Desc,
-  Incident.Commod_Long_Name, Incident.Quant_Released, Incident.Unit_of_Measure,
+  Incident.grouped_Commod_Long_Name, Incident.Quant_Released, Incident.Unit_of_Measure,
   Incident.Explosion_Result_Ind, Incident.Spill_Result_Ind,
   Incident.Fire_Result_Ind, Incident.Gas_Dispersion_Result_Ind,
   Incident.No_Release_Result_Ind,
@@ -182,17 +184,17 @@ write_json('incidents_by_monetary_damage', query_data)
 
 print "================================="
 print "Making: incidents by material (top 100)"
-query_data = session.query(Incident.Commod_Long_Name, count).filter(common_filter).group_by(Incident.Commod_Long_Name).order_by(desc(count)).limit(100).all()
+query_data = session.query(Incident.grouped_Commod_Long_Name, count).filter(common_filter).group_by(Incident.grouped_Commod_Long_Name).order_by(desc(count)).limit(100).all()
 write_json('incidents_by_material', query_data)
 
 print "================================="
 print "Making: incidents by carrier (top 100)"
-query_data = session.query(Incident.C_R_Name, count).filter(common_filter).group_by(Incident.C_R_Name).order_by(desc(count)).limit(100).all()
+query_data = session.query(Incident.grouped_C_R_Name, count).filter(common_filter).group_by(Incident.grouped_C_R_Name).order_by(desc(count)).limit(100).all()
 write_json('incidents_by_carrier', query_data)
 
 print "================================="
 print "Making: incidents by shipper (top 100)"
-query_data = session.query(Incident.Ship_Name, count).filter(common_filter).group_by(Incident.Commod_Long_Name).order_by(desc(count)).limit(100).all()
+query_data = session.query(Incident.grouped_Ship_Name, count).filter(common_filter).group_by(Incident.grouped_Ship_Name).order_by(desc(count)).limit(100).all()
 write_json('incidents_by_shipper', query_data)
 
 print "================================="
