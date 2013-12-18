@@ -1,402 +1,402 @@
 [
     {
-        "count": 897, 
-        "C_R_Name": "FEDEX GROUND PACKAGE SYSTEM  INC."
+        "count": 1473, 
+        "grouped_C_R_Name": "FEDEX"
     }, 
     {
-        "count": 496, 
-        "C_R_Name": "FEDEX FREIGHT  INC."
+        "count": 589, 
+        "grouped_C_R_Name": "UPS"
     }, 
     {
-        "count": 444, 
-        "C_R_Name": "UNITED PARCEL SERVICE  INC."
+        "count": 397, 
+        "grouped_C_R_Name": "YRC"
     }, 
     {
-        "count": 201, 
-        "C_R_Name": "YRC WORLDWIDE INC."
-    }, 
-    {
-        "count": 190, 
-        "C_R_Name": "YRC INC."
-    }, 
-    {
-        "count": 167, 
-        "C_R_Name": "CON-WAY FREIGHT INC."
+        "count": 291, 
+        "grouped_C_R_Name": "CON-WAY"
     }, 
     {
         "count": 120, 
-        "C_R_Name": "HOLLAND INC."
+        "grouped_C_R_Name": "HOLLAND INC."
     }, 
     {
         "count": 81, 
-        "C_R_Name": "WAYNE TRANSPORTS  INC."
+        "grouped_C_R_Name": "WAYNE TRANSPORTS  INC."
     }, 
     {
         "count": 80, 
-        "C_R_Name": "CON-WAY FREIGHT INC"
-    }, 
-    {
-        "count": 80, 
-        "C_R_Name": "FEDERAL EXPRESS CORPORATION"
-    }, 
-    {
-        "count": 80, 
-        "C_R_Name": "ROADWAY EXPRESS  INC."
-    }, 
-    {
-        "count": 61, 
-        "C_R_Name": "UNITED PARCEL SERVICE OF AMERICA  INC."
-    }, 
-    {
-        "count": 50, 
-        "C_R_Name": "UPS GROUND FREIGHT  INC."
+        "grouped_C_R_Name": "ROADWAY EXPRESS  INC."
     }, 
     {
         "count": 47, 
-        "C_R_Name": "VITRAN EXPRESS  INC."
+        "grouped_C_R_Name": "VITRAN EXPRESS  INC."
     }, 
     {
         "count": 37, 
-        "C_R_Name": "ABF FREIGHT SYSTEM  INC."
+        "grouped_C_R_Name": "ABF FREIGHT SYSTEM  INC."
     }, 
     {
         "count": 36, 
-        "C_R_Name": "SAIA MOTOR FREIGHT LINE  LLC"
+        "grouped_C_R_Name": "SAIA MOTOR FREIGHT LINE  LLC"
     }, 
     {
         "count": 35, 
-        "C_R_Name": "JEVIC TRANSPORTATION  INC"
-    }, 
-    {
-        "count": 33, 
-        "C_R_Name": "UNITED PARCEL SERVICE CO."
+        "grouped_C_R_Name": "JEVIC TRANSPORTATION  INC"
     }, 
     {
         "count": 28, 
-        "C_R_Name": "ESTES EXPRESS LINES  INC."
+        "grouped_C_R_Name": "ESTES EXPRESS LINES  INC."
     }, 
     {
         "count": 26, 
-        "C_R_Name": "BNSF RAILWAY COMPANY"
+        "grouped_C_R_Name": "BNSF RAILWAY COMPANY"
     }, 
     {
         "count": 26, 
-        "C_R_Name": "CHS INC."
+        "grouped_C_R_Name": "CHS INC."
     }, 
     {
         "count": 26, 
-        "C_R_Name": "DOTHAN BNSF INC"
+        "grouped_C_R_Name": "DOTHAN BNSF INC"
     }, 
     {
         "count": 21, 
-        "C_R_Name": "UNION PACIFIC RAILROAD COMPANY INC"
-    }, 
-    {
-        "count": 20, 
-        "C_R_Name": "CON-WAY FREIGHT  INC"
-    }, 
-    {
-        "count": 19, 
-        "C_R_Name": "CON-WAY CENTRAL EXPRESS INC."
+        "grouped_C_R_Name": "UNION PACIFIC RAILROAD COMPANY INC"
     }, 
     {
         "count": 18, 
-        "C_R_Name": "EDWARDS OIL COMPANY  INC."
+        "grouped_C_R_Name": "EDWARDS OIL COMPANY  INC."
     }, 
     {
         "count": 18, 
-        "C_R_Name": "KANE TRANSPORT  INC."
+        "grouped_C_R_Name": "KANE TRANSPORT  INC."
     }, 
     {
         "count": 13, 
-        "C_R_Name": "HAWKINS  INC."
+        "grouped_C_R_Name": "HAWKINS  INC."
     }, 
     {
         "count": 13, 
-        "C_R_Name": "SOO LINE CORPORATION"
+        "grouped_C_R_Name": "SOO LINE CORPORATION"
     }, 
     {
         "count": 13, 
-        "C_R_Name": "WESTERN COOP TRANSPORT ASSOCIATION"
+        "grouped_C_R_Name": "WESTERN COOP TRANSPORT ASSOCIATION"
     }, 
     {
         "count": 12, 
-        "C_R_Name": "QUALITY CARRIERS  INC."
+        "grouped_C_R_Name": "QUALITY CARRIERS  INC."
     }, 
     {
         "count": 12, 
-        "C_R_Name": "SCHNEIDER NATIONAL BULK CARRIERS  INC."
+        "grouped_C_R_Name": "SCHNEIDER NATIONAL BULK CARRIERS  INC."
     }, 
     {
         "count": 11, 
-        "C_R_Name": "CLEAN HARBORS ENVIRONMENTAL SERVICES  INC."
+        "grouped_C_R_Name": "CLEAN HARBORS ENVIRONMENTAL SERVICES  INC."
     }, 
     {
         "count": 10, 
-        "C_R_Name": "VEOLIA ES TECHNICAL SOLUTIONS  L.L.C."
+        "grouped_C_R_Name": "VEOLIA ES TECHNICAL SOLUTIONS  L.L.C."
     }, 
     {
         "count": 9, 
-        "C_R_Name": "R & L CARRIERS  INC."
+        "grouped_C_R_Name": "R & L CARRIERS  INC."
     }, 
     {
         "count": 9, 
-        "C_R_Name": "R&L CARRIERS SHARED SERVICES  L.L.C."
+        "grouped_C_R_Name": "R&L CARRIERS SHARED SERVICES  L.L.C."
     }, 
     {
         "count": 9, 
-        "C_R_Name": "USF HOLLAND INC."
+        "grouped_C_R_Name": "USF HOLLAND INC."
     }, 
     {
         "count": 8, 
-        "C_R_Name": "ABX AIR  INC."
+        "grouped_C_R_Name": "ABX AIR  INC."
     }, 
     {
         "count": 8, 
-        "C_R_Name": "INDEPENDENT DIVERSIFIED TRANSPORTATION  INC"
+        "grouped_C_R_Name": "INDEPENDENT DIVERSIFIED TRANSPORTATION  INC"
     }, 
     {
         "count": 7, 
-        "C_R_Name": "FERRELLGAS  L.P."
+        "grouped_C_R_Name": "FERRELLGAS  L.P."
     }, 
     {
         "count": 6, 
-        "C_R_Name": "CANADIAN PACIFIC (C P) RAIL"
+        "grouped_C_R_Name": "CANADIAN PACIFIC (C P) RAIL"
     }, 
     {
         "count": 6, 
-        "C_R_Name": "CENTRAL VALLEY COOPERATIVE"
+        "grouped_C_R_Name": "CENTRAL VALLEY COOPERATIVE"
     }, 
     {
         "count": 6, 
-        "C_R_Name": "LIQUID TRANSPORT CORP."
+        "grouped_C_R_Name": "LIQUID TRANSPORT CORP."
     }, 
     {
         "count": 6, 
-        "C_R_Name": "TRANSPORT INC"
-    }, 
-    {
-        "count": 6, 
-        "C_R_Name": "YRC GLOBAL"
+        "grouped_C_R_Name": "TRANSPORT INC"
     }, 
     {
         "count": 5, 
-        "C_R_Name": "CANADIAN PACIFIC LTD"
+        "grouped_C_R_Name": "CANADIAN PACIFIC LTD"
     }, 
     {
         "count": 5, 
-        "C_R_Name": "CONSOLIDATED FREIGHTWAYS CORP OF DELAWAR"
+        "grouped_C_R_Name": "CONSOLIDATED FREIGHTWAYS CORP OF DELAWAR"
     }, 
     {
         "count": 5, 
-        "C_R_Name": "CONWAY CENTRAL EXPRESS"
+        "grouped_C_R_Name": "LAKEVILLE MOTOR EXPRESS  INC."
     }, 
     {
         "count": 5, 
-        "C_R_Name": "LAKEVILLE MOTOR EXPRESS  INC."
+        "grouped_C_R_Name": "MISSISSIPPI TRANSPORT  INC"
     }, 
     {
         "count": 5, 
-        "C_R_Name": "MISSISSIPPI TRANSPORT  INC"
+        "grouped_C_R_Name": "RINCHEM COMPANY INC."
     }, 
     {
         "count": 5, 
-        "C_R_Name": "RINCHEM COMPANY INC."
-    }, 
-    {
-        "count": 5, 
-        "C_R_Name": "SOO LINE RAILROAD COMPANY"
+        "grouped_C_R_Name": "SOO LINE RAILROAD COMPANY"
     }, 
     {
         "count": 4, 
-        "C_R_Name": "SAIA  INC."
+        "grouped_C_R_Name": "SAIA  INC."
     }, 
     {
         "count": 4, 
-        "C_R_Name": "USF DUGAN INC"
+        "grouped_C_R_Name": "USF DUGAN INC"
     }, 
     {
         "count": 3, 
-        "C_R_Name": "ASHLAND OVERSEAS INVESTMENTS INC"
+        "grouped_C_R_Name": "ASHLAND OVERSEAS INVESTMENTS INC"
     }, 
     {
         "count": 3, 
-        "C_R_Name": "CARGO TRANSPORT INC"
+        "grouped_C_R_Name": "CARGO TRANSPORT INC"
     }, 
     {
         "count": 3, 
-        "C_R_Name": "CONSOLIDATED FREIGHTWAYS CORPORATION OF DELAWARE"
+        "grouped_C_R_Name": "CONSOLIDATED FREIGHTWAYS CORPORATION OF DELAWARE"
     }, 
     {
         "count": 3, 
-        "C_R_Name": "DELTA AIR LINES  INC."
+        "grouped_C_R_Name": "DELTA AIR LINES  INC."
     }, 
     {
         "count": 3, 
-        "C_R_Name": "DHL AIRBORN EXPRESS"
+        "grouped_C_R_Name": "DHL AIRBORN EXPRESS"
     }, 
     {
         "count": 3, 
-        "C_R_Name": "FEDERATED CO-OPS  INC."
+        "grouped_C_R_Name": "FEDERATED CO-OPS  INC."
     }, 
     {
         "count": 3, 
-        "C_R_Name": "LUBRICATION TECHNOLOGIES  INC."
+        "grouped_C_R_Name": "LUBRICATION TECHNOLOGIES  INC."
     }, 
     {
         "count": 3, 
-        "C_R_Name": "MARATHON PETROLEUM COMPANY LP"
+        "grouped_C_R_Name": "MARATHON PETROLEUM COMPANY LP"
     }, 
     {
         "count": 3, 
-        "C_R_Name": "MCCALLUM TRANSFER  INC."
+        "grouped_C_R_Name": "MCCALLUM TRANSFER  INC."
     }, 
     {
         "count": 3, 
-        "C_R_Name": "NALCO COMPANY"
+        "grouped_C_R_Name": "NALCO COMPANY"
     }, 
     {
         "count": 3, 
-        "C_R_Name": "ONYX ENVIRONMENTAL SERVICES LLC"
+        "grouped_C_R_Name": "ONYX ENVIRONMENTAL SERVICES LLC"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "AUSTIN POWDER COMPANY"
+        "grouped_C_R_Name": "AUSTIN POWDER COMPANY"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "CARL KLEMM  INC."
+        "grouped_C_R_Name": "CARL KLEMM  INC."
     }, 
     {
         "count": 2, 
-        "C_R_Name": "CON-WAY TRANSPORTATION SERVICES  INC"
+        "grouped_C_R_Name": "CON-WAY TRANSPORTATION SERVICES  INC"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "CONWAY CENTRAL EXPRESS/JASON EVEN"
+        "grouped_C_R_Name": "CONWAY CENTRAL EXPRESS/JASON EVEN"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "CROSSCOUNTRY COURIER  INC."
+        "grouped_C_R_Name": "CROSSCOUNTRY COURIER  INC."
     }, 
     {
         "count": 2, 
-        "C_R_Name": "DEHN OIL COMPANY"
+        "grouped_C_R_Name": "DEHN OIL COMPANY"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "DIXON BROS.  INC."
+        "grouped_C_R_Name": "DIXON BROS.  INC."
     }, 
     {
         "count": 2, 
-        "C_R_Name": "FARMERS CO-OPERATIVE ASSOCIATION"
+        "grouped_C_R_Name": "FARMERS CO-OPERATIVE ASSOCIATION"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "FEDEX FREIGHT CORPORATION"
+        "grouped_C_R_Name": "FEDEX FREIGHT CORPORATION"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "GLACIAL PLAINS COOPERATIVE"
+        "grouped_C_R_Name": "GLACIAL PLAINS COOPERATIVE"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "GREENWOOD MOTOR LINES  INC."
+        "grouped_C_R_Name": "GREENWOOD MOTOR LINES  INC."
     }, 
     {
         "count": 2, 
-        "C_R_Name": "HAWKINS INC"
+        "grouped_C_R_Name": "HAWKINS INC"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "HOLLAND ELECTRIC MOTOR CO"
+        "grouped_C_R_Name": "HOLLAND ELECTRIC MOTOR CO"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "JACOBSON TRANSPORT  INC."
+        "grouped_C_R_Name": "JACOBSON TRANSPORT  INC."
     }, 
     {
         "count": 2, 
-        "C_R_Name": "JEFF FOSTER TRUCKING  INC."
+        "grouped_C_R_Name": "JEFF FOSTER TRUCKING  INC."
     }, 
     {
         "count": 2, 
-        "C_R_Name": "JENSEN TRANSPORT INC"
+        "grouped_C_R_Name": "JENSEN TRANSPORT INC"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "KANE TRANSPORT INC"
+        "grouped_C_R_Name": "KANE TRANSPORT INC"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "KELLY FUELS INC"
+        "grouped_C_R_Name": "KELLY FUELS INC"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "KUEHNE + NAGEL  INC."
+        "grouped_C_R_Name": "KUEHNE + NAGEL  INC."
     }, 
     {
         "count": 2, 
-        "C_R_Name": "LIQUID TRANSPORT CORP"
+        "grouped_C_R_Name": "LIQUID TRANSPORT CORP"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "MAGNUM LTL  INC."
+        "grouped_C_R_Name": "MAGNUM LTL  INC."
     }, 
     {
         "count": 2, 
-        "C_R_Name": "N & M TRANSFER CO.  INC."
+        "grouped_C_R_Name": "N & M TRANSFER CO.  INC."
     }, 
     {
         "count": 2, 
-        "C_R_Name": "NEW CENTURY TRANSPORTATION INC."
+        "grouped_C_R_Name": "NEW CENTURY TRANSPORTATION INC."
     }, 
     {
         "count": 2, 
-        "C_R_Name": "NORTHWEST AIRLINES  INC."
+        "grouped_C_R_Name": "NORTHWEST AIRLINES  INC."
     }, 
     {
         "count": 2, 
-        "C_R_Name": "REIMER EXPRESS"
+        "grouped_C_R_Name": "REIMER EXPRESS"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "RIVER REGION COOPERATIVE"
+        "grouped_C_R_Name": "RIVER REGION COOPERATIVE"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "SAFETY-KLEEN SYSTEMS  INC."
+        "grouped_C_R_Name": "SAFETY-KLEEN SYSTEMS  INC."
     }, 
     {
         "count": 2, 
-        "C_R_Name": "SCHWERMAN TRUCKING CO."
+        "grouped_C_R_Name": "SCHWERMAN TRUCKING CO."
     }, 
     {
         "count": 2, 
-        "C_R_Name": "STORMY TRANSPORT INC"
+        "grouped_C_R_Name": "STORMY TRANSPORT INC"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "UNITED PARCEL SERVICE  INC. (OH)"
+        "grouped_C_R_Name": "UNITED PARCEL SERVICE  INC. (OH)"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "UNIVERSAL TRANSPORTATION SERVICES  L.L.C."
+        "grouped_C_R_Name": "UNIVERSAL TRANSPORTATION SERVICES  L.L.C."
     }, 
     {
         "count": 2, 
-        "C_R_Name": "WICHITA SOUTHEAST KANSAS TRANSIT INC"
+        "grouped_C_R_Name": "WICHITA SOUTHEAST KANSAS TRANSIT INC"
     }, 
     {
         "count": 2, 
-        "C_R_Name": "WISCONSIN CENTRAL LTD."
+        "grouped_C_R_Name": "WISCONSIN CENTRAL LTD."
     }, 
     {
         "count": 1, 
-        "C_R_Name": "3M BONDO CORPORATION"
+        "grouped_C_R_Name": "3M BONDO CORPORATION"
     }, 
     {
         "count": 1, 
-        "C_R_Name": "ALL-AMERICAN CO-OP"
+        "grouped_C_R_Name": "ALL-AMERICAN CO-OP"
+    }, 
+    {
+        "count": 1, 
+        "grouped_C_R_Name": "ALTURA HARDWARE INC"
+    }, 
+    {
+        "count": 1, 
+        "grouped_C_R_Name": "AMERICA WEST AIRLINES"
+    }, 
+    {
+        "count": 1, 
+        "grouped_C_R_Name": "AMERICAN AIRLINES  INC."
+    }, 
+    {
+        "count": 1, 
+        "grouped_C_R_Name": "ASHLAND INC"
+    }, 
+    {
+        "count": 1, 
+        "grouped_C_R_Name": "B P AMOCO OIL INC"
+    }, 
+    {
+        "count": 1, 
+        "grouped_C_R_Name": "BERWALD ROOFING COMPANY  INC."
+    }, 
+    {
+        "count": 1, 
+        "grouped_C_R_Name": "BP PRODUCTS NORTH AMERICA INC."
+    }, 
+    {
+        "count": 1, 
+        "grouped_C_R_Name": "BP US LOGISTICS"
+    }, 
+    {
+        "count": 1, 
+        "grouped_C_R_Name": "BRADSHAW INFORMATION SERVICES"
+    }, 
+    {
+        "count": 1, 
+        "grouped_C_R_Name": "C.R. ENGLAND  INC."
+    }, 
+    {
+        "count": 1, 
+        "grouped_C_R_Name": "CCX"
     }
 ]
