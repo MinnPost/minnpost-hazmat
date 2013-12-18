@@ -70,6 +70,7 @@ function(_, $, Ractive, Highcharts, helpers,
         template: tApplication,
         data: {
           sources: pData,
+          imagePath: this.options.imagePath,
           stats: this.makeStats(),
           arrayItem: function(arr, i) {
             return arr[i];
@@ -139,6 +140,7 @@ function(_, $, Ractive, Highcharts, helpers,
 
     // Extend default options
     defaultOptions: {
+      imagePath: './images',
       highChartOptions: {
         chart: {
           type: 'line',

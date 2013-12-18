@@ -41,7 +41,9 @@
       <div class="transporation-visual grid-container">
         {{#sources.byTransportation:i}}
           <div class="category grid-25 {{ Mode_Transpo }}">
-            <div class="category-icon"></div>
+            <div class="category-icon">
+              <img src="{{ imagePath }}/{{ Mode_Transpo.toLowerCase() }}.png" />
+            </div>
             <div class="subsection-title">{{ Mode_Transpo }}</div>
             <div>{{ fNum(count, 0) }} incidents</div>
           </div>
