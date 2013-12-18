@@ -109,10 +109,20 @@
           {{>incident}}
         {{/sources.topReleased}}
 
-        <div class="subsection-title">Most monetary damage</div>
+        <div class="subsection-title">Most expensive</div>
         {{#sources.mostExpensive:i}}
           {{>incident}}
         {{/sources.mostExpensive}}
+
+        <div class="subsection-title">Most evacuated</div>
+        {{#sources.mostEvacuated:i}}
+          {{>incident}}
+        {{/sources.mostEvacuated}}
+
+        <div class="subsection-title">Most injurious</div>
+        {{#sources.mostInjurious:i}}
+          {{>incident}}
+        {{/sources.mostInjurious}}
       </div>
     </div>
   </div>

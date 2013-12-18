@@ -18,6 +18,7 @@
         "Inc_City": "RANDOLPH", 
         "Tot_Amt_of_Damages": 0.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 500.0, 
         "Inc_Zip": "55065"
     }, 
     {
@@ -39,6 +40,7 @@
         "Inc_City": "EDGERTON", 
         "Tot_Amt_of_Damages": 0.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 0.0, 
         "Inc_Zip": "56128"
     }, 
     {
@@ -60,6 +62,7 @@
         "Inc_City": "LAKEFIELD", 
         "Tot_Amt_of_Damages": 18000.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 2.0, 
         "Inc_Zip": null
     }, 
     {
@@ -81,6 +84,7 @@
         "Inc_City": "LAKE CITY", 
         "Tot_Amt_of_Damages": 0.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 152.0, 
         "Inc_Zip": "55041"
     }, 
     {
@@ -102,6 +106,7 @@
         "Inc_City": "MURDOCK", 
         "Tot_Amt_of_Damages": 1150000.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 5.0, 
         "Inc_Zip": "56271"
     }, 
     {
@@ -123,6 +128,7 @@
         "Inc_City": "HAYFIELD", 
         "Tot_Amt_of_Damages": 440.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 0.0, 
         "Inc_Zip": null
     }, 
     {
@@ -144,6 +150,7 @@
         "Inc_City": "NEW ULM", 
         "Tot_Amt_of_Damages": 1950.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 0.0, 
         "Inc_Zip": null
     }, 
     {
@@ -165,6 +172,7 @@
         "Inc_City": "BOYD", 
         "Tot_Amt_of_Damages": 2630.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 0.0, 
         "Inc_Zip": null
     }, 
     {
@@ -186,6 +194,7 @@
         "Inc_City": "DAYTON", 
         "Tot_Amt_of_Damages": 12668.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 200.0, 
         "Inc_Zip": null
     }, 
     {
@@ -207,6 +216,7 @@
         "Inc_City": "SILVER LAKE", 
         "Tot_Amt_of_Damages": 0.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 5.0, 
         "Inc_Zip": "55381"
     }
 ]

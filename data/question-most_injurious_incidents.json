@@ -18,6 +18,7 @@
         "Inc_City": "RANDOLPH", 
         "Tot_Amt_of_Damages": 0.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 500.0, 
         "Inc_Zip": "55065"
     }, 
     {
@@ -39,6 +40,7 @@
         "Inc_City": "MURDOCK", 
         "Tot_Amt_of_Damages": 1150000.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 5.0, 
         "Inc_Zip": "56271"
     }, 
     {
@@ -60,6 +62,7 @@
         "Inc_City": "SAINT CLOUD", 
         "Tot_Amt_of_Damages": 10000.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 0.0, 
         "Inc_Zip": "56302-1417"
     }, 
     {
@@ -81,6 +84,7 @@
         "Inc_City": "MINNEAPOLIS", 
         "Tot_Amt_of_Damages": 0.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 0.0, 
         "Inc_Zip": "55450"
     }, 
     {
@@ -102,6 +106,7 @@
         "Inc_City": "BAXTER", 
         "Tot_Amt_of_Damages": 7200.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 0.0, 
         "Inc_Zip": "56425"
     }, 
     {
@@ -123,6 +128,7 @@
         "Inc_City": "BROOKLYN PARK", 
         "Tot_Amt_of_Damages": 360.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 0.0, 
         "Inc_Zip": null
     }, 
     {
@@ -144,6 +150,7 @@
         "Inc_City": "CIRCLE PINES", 
         "Tot_Amt_of_Damages": 5000.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 0.0, 
         "Inc_Zip": "55014"
     }, 
     {
@@ -165,6 +172,7 @@
         "Inc_City": "FRIDLEY", 
         "Tot_Amt_of_Damages": 0.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 0.0, 
         "Inc_Zip": null
     }, 
     {
@@ -186,6 +194,7 @@
         "Inc_City": "HUTCHINSON", 
         "Tot_Amt_of_Damages": 0.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 0.0, 
         "Inc_Zip": null
     }, 
     {
@@ -207,6 +216,7 @@
         "Inc_City": "LONG PRAIRIE", 
         "Tot_Amt_of_Damages": 0.0, 
         "Explosion_Result_Ind": "No", 
+        "Tot_Evac": 0.0, 
         "Inc_Zip": "56347"
     }
 ]

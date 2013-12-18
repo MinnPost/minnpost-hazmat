@@ -15,11 +15,13 @@ define('minnpost-hazmat', [
   'text!../data/question-incidents_by_transportation.json',
   'text!../data/question-most_released_incidents.json',
   'text!../data/question-most_expensive_incidents.json',
+  'text!../data/question-most_injurious_incidents.json',
+  'text!../data/question-most_evacuated_incidents.json',
   'text!templates/application.mustache',
   'text!templates/loading.mustache'
 ],
 function(_, $, Ractive, Highcharts, helpers,
-  dTotal, dTotalForever, dByYear, dByMaterial, dByCarrier, dByShipper, dByTransportation, dTopReleased, dMostExpensive,
+  dTotal, dTotalForever, dByYear, dByMaterial, dByCarrier, dByShipper, dByTransportation, dTopReleased, dMostExpensive, dMostInjurious, dMostEvacuated,
   tApplication, tLoading) {
 
   // Parse the incoming data
@@ -32,7 +34,9 @@ function(_, $, Ractive, Highcharts, helpers,
     byCarrier: _.first(JSON.parse(dByCarrier), 10),
     byShipper: _.first(JSON.parse(dByShipper), 10),
     topReleased: _.first(JSON.parse(dTopReleased), 1),
-    mostExpensive: _.first(JSON.parse(dMostExpensive), 1)
+    mostExpensive: _.first(JSON.parse(dMostExpensive), 1),
+    mostInjurious: _.first(JSON.parse(dMostInjurious), 1),
+    mostEvacuated: _.first(JSON.parse(dMostEvacuated), 1)
   };
 
   // Make some data into arrays for charting

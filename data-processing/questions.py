@@ -102,7 +102,7 @@ year = func.cast(func.strftime("%Y", Incident.Date_Inc), Integer).label('year')
 # Common filter to get specific data
 common_filter = year >= 2000
 # Some shared values.  This one gets individual incidents and key fields.
-common_query_desc = session.query(Incident.Rpt_Num, Incident.Inc_City, Incident.Inc_St, Incident.Inc_Zip, Incident.C_R_Name, Incident.Ship_Name, Incident.Mode_Transpo, Incident.Tot_Amt_of_Damages, Incident.Date_Inc, Incident.Time_Inc, Incident.What_Failed_Desc, Incident.How_Failed_Desc, Incident.Commod_Long_Name, Incident.Quant_Released, Incident.Tot_Hazmat_Fatal, Incident.Tot_Hazmat_Inj, Incident.Explosion_Result_Ind, Incident.Unit_of_Measure, Incident.Desc_of_Events).distinct(Incident.Rpt_Num)
+common_query_desc = session.query(Incident.Rpt_Num, Incident.Inc_City, Incident.Inc_St, Incident.Inc_Zip, Incident.C_R_Name, Incident.Ship_Name, Incident.Mode_Transpo, Incident.Tot_Amt_of_Damages, Incident.Date_Inc, Incident.Time_Inc, Incident.What_Failed_Desc, Incident.How_Failed_Desc, Incident.Commod_Long_Name, Incident.Quant_Released, Incident.Tot_Hazmat_Fatal, Incident.Tot_Hazmat_Inj, Incident.Tot_Evac, Incident.Explosion_Result_Ind, Incident.Unit_of_Measure, Incident.Desc_of_Events).distinct(Incident.Rpt_Num)
 # Count of reports
 count = func.count(distinct(Incident.Rpt_Num)).label('count')
 # Order or group by money
@@ -201,13 +201,18 @@ query_data = common_query_desc.filter(common_filter).order_by(money).limit(10).a
 write_json('most_expensive_incidents', query_data)
 
 print "================================="
-print "Making: 10 most_injuries"
+print "Making: 10 most injuries"
 query_data = common_query_desc.filter(common_filter).order_by(desc(Incident.Tot_Hazmat_Inj)).limit(10).all()
 write_json('most_injurious_incidents', query_data)
 
 print "================================="
-print "Making: 20 most released"
-query_data = common_query_desc.filter(common_filter).group_by(Incident.Unit_of_Measure, Incident.Quant_Released).order_by(desc(Incident.Quant_Released)).limit(20).all()
+print "Making: 10 most evacuated"
+query_data = common_query_desc.filter(common_filter).order_by(desc(Incident.Tot_Evac)).limit(10).all()
+write_json('most_evacuated_incidents', query_data)
+
+print "================================="
+print "Making: 10 most released"
+query_data = common_query_desc.filter(common_filter).group_by(Incident.Unit_of_Measure, Incident.Quant_Released).order_by(desc(Incident.Quant_Released)).limit(10).all()
 write_json('most_released_incidents', query_data)
 
 print "================================="
