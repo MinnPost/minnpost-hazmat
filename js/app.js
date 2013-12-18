@@ -140,7 +140,7 @@ function(_, $, Ractive, Highcharts, helpers,
 
     // Extend default options
     defaultOptions: {
-      imagePath: './images',
+      imagePath: 'images/',
       highChartOptions: {
         chart: {
           type: 'line',
