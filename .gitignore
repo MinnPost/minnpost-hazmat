@@ -1,4 +1,5 @@
 data/hazmat.db
+data/hazmat.db-journal
 data/original
 
 node_modules/
