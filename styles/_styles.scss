@@ -146,6 +146,19 @@ body .node-unpublished {
 
     .incident {
       margin-bottom: 2em;
+
+      .stats {
+        text-align: center;
+
+        .stat-visual {
+          min-height: 3em;
+        }
+      }
+
+      .full-report {
+        margin-top: 1em;
+        color: $color-medium-gray;
+      }
     }
 
     .full-report {

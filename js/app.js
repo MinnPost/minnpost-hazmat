@@ -113,6 +113,14 @@ function(_, $, Ractive, Highcharts, helpers,
           thisApp.$el.find('.chart-incidents-by-material').highcharts(options);
         }
       });
+
+      // Event handling
+      this.view.on('openReport', function(e) {
+        e.original.preventDefault();
+        var $link = $(e.node);
+
+        $link.closest('.incident').find('.full-report').slideDown();
+      });
     },
 
     // Make stats

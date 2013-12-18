@@ -138,11 +138,33 @@
 <!-- {{>incident}} -->
 <div class="incident">
   <div class="short-description">
-    On {{ Date_Inc }}, {{ C_R_Name }} was making a shipment for {{ Ship_Name }} traveling via {{ Mode_Transpo }}.  At around {{ Time_Inc }} an accident occured that spilled {{ fNum(Quant_Released , 0) }} gallons of {{ Commod_Long_Name }}.
+    On {{ Date_Inc }}, {{ C_R_Name }} was making a shipment for {{ Ship_Name }} traveling via {{ Mode_Transpo }}.  At around {{ Time_Inc }} an accident occured that spilled {{ fNum(Quant_Released , 0) }} gallons of {{ Commod_Long_Name }}.  <a href="#" on-tap="openReport">View report details</a>
   </div>
 
-  <div class="stats">
+  <div class="stats grid-container">
+    <div class="stat grid-25">
+      <div class="stat-visual"></div>
+      <div class="">{{ fNum(Tot_Evac, 0) }}</div>
+      <div class="">Evacuated</div>
+    </div>
 
+    <div class="stat grid-25">
+      <div class="stat-visual"></div>
+      <div class="">{{ fNum(Tot_Hazmat_Inj, 0) }}</div>
+      <div class="">Injuries</div>
+    </div>
+
+    <div class="stat grid-25">
+      <div class="stat-visual"></div>
+      <div class="">${{ fNum(Tot_Amt_of_Damages, 2) }}</div>
+      <div class="">Damages</div>
+    </div>
+
+    <div class="stat grid-25">
+      <div class="stat-visual"></div>
+      <div class="">{{ fNum(Quant_Released, 2) }} {{ Unit_of_Measure }}</div>
+      <div class="">Released</div>
+    </div>
   </div>
 
   <div class="full-report">
