@@ -71,12 +71,9 @@ function(_, $, Ractive, Highcharts, helpers,
         el: this.$el,
         template: tApplication,
         data: {
-          sources: pData,
           imagePath: this.options.imagePath,
+          sources: pData,
           stats: this.makeStats(),
-          arrayItem: function(arr, i) {
-            return arr[i];
-          },
           fNum: this.formatNumber,
           fUnit: this.formatUnit
         },
