@@ -106,25 +106,33 @@
 
     <div class="section-visual">
       <div class="top-incidents grid-container">
-        <div class="subsection-title">Most spilled</div>
-        {{#sources.topReleased:i}}
-          {{>incident}}
-        {{/sources.topReleased}}
+        <div class="top-released">
+          <div class="subsection-title">Most spilled</div>
+          {{#sources.topReleased:i}}
+            {{>incident}}
+          {{/sources.topReleased}}
+        </div>
 
-        <div class="subsection-title">Most expensive</div>
-        {{#sources.mostExpensive:i}}
-          {{>incident}}
-        {{/sources.mostExpensive}}
+        <div class="most-expensive">
+          <div class="subsection-title">Most expensive</div>
+          {{#sources.mostExpensive:i}}
+            {{>incident}}
+          {{/sources.mostExpensive}}
+        </div>
 
-        <div class="subsection-title">Most evacuated</div>
-        {{#sources.mostEvacuated:i}}
-          {{>incident}}
-        {{/sources.mostEvacuated}}
+        <div class="most-injurious">
+          <div class="subsection-title">Most injuries</div>
+          {{#sources.mostInjurious:i}}
+            {{>incident}}
+          {{/sources.mostInjurious}}
+        </div>
 
-        <div class="subsection-title">Most injuries</div>
-        {{#sources.mostInjurious:i}}
-          {{>incident}}
-        {{/sources.mostInjurious}}
+        <div class="most-evacuated">
+          <div class="subsection-title">Most evacuated</div>
+          {{#sources.mostEvacuated:i}}
+            {{>incident}}
+          {{/sources.mostEvacuated}}
+        </div>
       </div>
     </div>
   </div>
@@ -168,27 +176,35 @@
   </div>
 
   <div class="stats grid-container">
-    <div class="stat grid-25">
-      <div class="stat-visual"></div>
-      <div class="">{{ fNum(Tot_Evac, 0) }}</div>
+    <div class="stat grid-25 Tot_Evac">
+      <div class="stat-visual">
+        <img src="{{ imagePath }}evacuate.png" />
+      </div>
+      <div class="stat-value">{{ fNum(Tot_Evac, 0) }}</div>
       <div class="">Evacuated</div>
     </div>
 
-    <div class="stat grid-25">
-      <div class="stat-visual"></div>
-      <div class="">{{ fNum(Tot_Hazmat_Inj, 0) }}</div>
+    <div class="stat grid-25 Tot_Hazmat_Inj">
+      <div class="stat-visual">
+        <img src="{{ imagePath }}injury.png" />
+      </div>
+      <div class="stat-value">{{ fNum(Tot_Hazmat_Inj, 0) }}</div>
       <div class="">Injuries</div>
     </div>
 
-    <div class="stat grid-25">
-      <div class="stat-visual"></div>
-      <div class="">${{ fNum(Tot_Amt_of_Damages, 2) }}</div>
+    <div class="stat grid-25 Tot_Amt_of_Damages">
+      <div class="stat-visual">
+        <img src="{{ imagePath }}costmoney.png" />
+      </div>
+      <div class="stat-value">${{ fNum(Tot_Amt_of_Damages, 2) }}</div>
       <div class="">Damages</div>
     </div>
 
-    <div class="stat grid-25">
-      <div class="stat-visual"></div>
-      <div class="">{{ fNum(Quant_Released, 2) }} {{ Unit_of_Measure }}</div>
+    <div class="stat grid-25 Quant_Released">
+      <div class="stat-visual">
+        <img src="{{ imagePath }}materialreleased.png" />
+      </div>
+      <div class="stat-value">{{ fNum(Quant_Released, 2) }} {{ Unit_of_Measure }}</div>
       <div class="">Released</div>
     </div>
   </div>
