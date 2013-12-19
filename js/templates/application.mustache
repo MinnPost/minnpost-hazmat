@@ -168,7 +168,7 @@
 
     that released
     {{#(Quant_Released > 0)}}
-      {{ fNum(Quant_Released , 0) }} {{ Unit_of_Measure }} of
+      {{ fNum(Quant_Released , 0) }} {{ fUnit(Unit_of_Measure) }} of
     {{/()}}
     {{ (grouped_Commod_Long_Name.split(' ').length > 5) ? grouped_Commod_Long_Name.split(' ')[0] + ' ' + grouped_Commod_Long_Name.split(' ')[1] : grouped_Commod_Long_Name }}.
 
@@ -176,20 +176,12 @@
   </div>
 
   <div class="stats grid-container">
-    <div class="stat grid-25 Tot_Evac">
+    <div class="stat grid-25 Quant_Released">
       <div class="stat-visual">
-        <img src="{{ imagePath }}evacuate.png" />
+        <img src="{{ imagePath }}materialreleased.png" />
       </div>
-      <div class="stat-value">{{ fNum(Tot_Evac, 0) }}</div>
-      <div class="">Evacuated</div>
-    </div>
-
-    <div class="stat grid-25 Tot_Hazmat_Inj">
-      <div class="stat-visual">
-        <img src="{{ imagePath }}injury.png" />
-      </div>
-      <div class="stat-value">{{ fNum(Tot_Hazmat_Inj, 0) }}</div>
-      <div class="">Injuries</div>
+      <div class="stat-value">{{ fNum(Quant_Released, 0) }} {{ fUnit(Unit_of_Measure) }}</div>
+      <div class="">Released</div>
     </div>
 
     <div class="stat grid-25 Tot_Amt_of_Damages">
@@ -200,12 +192,20 @@
       <div class="">Damages</div>
     </div>
 
-    <div class="stat grid-25 Quant_Released">
+    <div class="stat grid-25 Tot_Hazmat_Inj">
       <div class="stat-visual">
-        <img src="{{ imagePath }}materialreleased.png" />
+        <img src="{{ imagePath }}injury.png" />
       </div>
-      <div class="stat-value">{{ fNum(Quant_Released, 2) }} {{ Unit_of_Measure }}</div>
-      <div class="">Released</div>
+      <div class="stat-value">{{ fNum(Tot_Hazmat_Inj, 0) }}</div>
+      <div class="">Injuries</div>
+    </div>
+
+    <div class="stat grid-25 Tot_Evac">
+      <div class="stat-visual">
+        <img src="{{ imagePath }}evacuate.png" />
+      </div>
+      <div class="stat-value">{{ fNum(Tot_Evac, 0) }}</div>
+      <div class="">Evacuated</div>
     </div>
   </div>
 

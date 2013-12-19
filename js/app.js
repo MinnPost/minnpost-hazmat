@@ -75,7 +75,8 @@ function(_, $, Ractive, Highcharts, helpers,
           arrayItem: function(arr, i) {
             return arr[i];
           },
-          fNum: this.formatNumber
+          fNum: this.formatNumber,
+          fUnit: this.formatUnit
         },
         partials: {
           loading: tLoading
@@ -146,6 +147,17 @@ function(_, $, Ractive, Highcharts, helpers,
           return m + d.count;
         }, 0)
       };
+    },
+
+    // Change unit of measurement to more accessible word.
+    // See: https://hazmatonline.phmsa.dot.gov/IncidentReportsSearch/Documents/UnitsOfMeasure.pdf
+    formatUnit: function(unit) {
+      var units = {
+        'LGA': 'liquid gallons',
+        'GCF': 'cubic feet of gas',
+        'SLB': 'solid pounds'
+      };
+      return (_.isUndefined(units[unit])) ? unit : units[unit];
     },
 
     // Extend default options
