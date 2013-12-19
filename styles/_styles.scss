@@ -83,12 +83,12 @@ body .node-unpublished {
       font-size: 2em;
       line-height: 1.25em;
       text-align: center;
-      margin-bottom: .5em;
+      margin-bottom: 1em;
     }
 
     .section-visual {
       min-height: 10em;
-      margin-bottom: 1em
+      margin-bottom: 1.5em
     }
   }
 
@@ -145,7 +145,10 @@ body .node-unpublished {
   .top-incidents {
 
     .incident {
-      margin-bottom: 2em;
+      margin-bottom: 3em;
+
+      .short-description {
+      }
 
       .stats {
         text-align: center;
@@ -156,13 +159,10 @@ body .node-unpublished {
       }
 
       .full-report {
+        display: none;
         margin-top: 1em;
         color: $color-medium-gray;
       }
-    }
-
-    .full-report {
-      display: none;
     }
   }
 

@@ -119,8 +119,18 @@ function(_, $, Ractive, Highcharts, helpers,
       this.view.on('openReport', function(e) {
         e.original.preventDefault();
         var $link = $(e.node);
+        var isOpen = $link.data('isOpen') || false;
 
-        $link.closest('.incident').find('.full-report').slideDown();
+        if (isOpen) {
+          $link.text('View report details');
+          $link.data('isOpen', false);
+          $link.closest('.incident').find('.full-report').slideUp();
+        }
+        else {
+          $link.text('Hide report details');
+          $link.data('isOpen', true);
+          $link.closest('.incident').find('.full-report').slideDown();
+        }
       });
     },
 
