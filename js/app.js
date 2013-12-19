@@ -43,6 +43,8 @@ function(_, $, Ractive, Highcharts, helpers,
   pData.byYearArray = _.map(pData.byYear, function(d) {
     return [ d.year, d.count ];
   });
+  // Remove last one as it is partial data
+  pData.byYearArray = _.first(pData.byYearArray, pData.byYearArray.length - 1);
   pData.byMaterialArray = _.map(pData.byMaterial, function(d) {
     return [ d.grouped_Commod_Long_Name, d.count ];
   });
