@@ -193,6 +193,19 @@ body .node-unpublished {
   }
 
   // Breakpoints
+  @media screen and (max-width: 1024px) {
+    .tablet-grid-50 {
+      margin-bottom: 1em;
+    }
+  }
   @media screen and (max-width: 768px) {
+    .grid-50,
+    .grid-25 {
+      margin-bottom: 1em;
+    }
+
+    .top-incidents .incident .mobile-grid-50 {
+      height: 9em;
+    }
   }
 }

@@ -7,12 +7,12 @@
 
     <div class="section-visual">
       <div class="incidents-occured grid-container">
-        <div class="timeframe grid-50">
+        <div class="timeframe grid-50 tablet-grid-50">
           <div class="main-number">{{ fNum(stats.total, 0) }}</div>
           <div>Since 2000</div>
         </div>
 
-        <div class="timeframe grid-50">
+        <div class="timeframe grid-50 tablet-grid-50">
           <div class="main-number">{{ fNum(stats.totalForever, 0) }}</div>
           <div>Since 1971</div>
         </div>
@@ -40,7 +40,7 @@
     <div class="section-visual">
       <div class="transporation-visual grid-container">
         {{#sources.byTransportation:i}}
-          <div class="category grid-25 {{ Mode_Transpo }}">
+          <div class="category grid-25 tablet-grid-50 {{ Mode_Transpo }}">
             <div class="category-icon">
               <img src="{{ imagePath }}{{ Mode_Transpo.toLowerCase() }}.png" />
             </div>
@@ -71,7 +71,7 @@
 
     <div class="section-visual">
       <div class="top-who grid-container">
-        <div class="grid-50">
+        <div class="grid-50 tablet-grid-50">
           <div class="subsection-title">Carriers</div>
           <ul>
             {{#sources.byCarrier:i}}
@@ -83,7 +83,7 @@
           </ul>
         </div>
 
-        <div class="grid-50">
+        <div class="grid-50 tablet-grid-50">
           <div class="subsection-title">Shippers</div>
           <ul>
             {{#sources.byShipper:i}}
@@ -175,7 +175,7 @@
   </div>
 
   <div class="stats grid-container">
-    <div class="stat grid-25 Quant_Released">
+    <div class="stat grid-25 tablet-grid-25 mobile-grid-50 Quant_Released">
       <div class="stat-visual">
         <img src="{{ imagePath }}materialreleased.png" />
       </div>
@@ -183,7 +183,7 @@
       <div class="">Released</div>
     </div>
 
-    <div class="stat grid-25 Tot_Amt_of_Damages">
+    <div class="stat grid-25 tablet-grid-25 mobile-grid-50 Tot_Amt_of_Damages">
       <div class="stat-visual">
         <img src="{{ imagePath }}costmoney.png" />
       </div>
@@ -191,7 +191,7 @@
       <div class="">Damages</div>
     </div>
 
-    <div class="stat grid-25 Tot_Hazmat_Inj">
+    <div class="stat grid-25 tablet-grid-25 mobile-grid-50 Tot_Hazmat_Inj">
       <div class="stat-visual">
         <img src="{{ imagePath }}injury.png" />
       </div>
@@ -199,7 +199,7 @@
       <div class="">Injuries</div>
     </div>
 
-    <div class="stat grid-25 Tot_Evac">
+    <div class="stat grid-25 tablet-grid-25 mobile-grid-50 Tot_Evac">
       <div class="stat-visual">
         <img src="{{ imagePath }}evacuate.png" />
       </div>
