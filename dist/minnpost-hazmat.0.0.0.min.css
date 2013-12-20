@@ -1,4 +1,4 @@
-/*! minnpost-hazmat - v0.0.0 - 2013-12-19
+/*! minnpost-hazmat - v0.0.0 - 2013-12-20
 * https://github.com/minnpost/minnpost-hazmat
 * Copyright (c) 2013 MinnPost; Licensed MIT */
 
