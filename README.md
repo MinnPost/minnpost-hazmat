@@ -30,6 +30,8 @@ Only about 4 percent of incidents are considered "serious" (`HMIS_serious_inc_in
 1. To import the data into an SQLite database at `data/hazmat.db`, run the following: `python data-processing/import-sql.py`.
     * Note that this may take some time.
     * This is a destructive process and will remove data from the database.
+    * If you are running into some errors, try removing the database first with `rm data/hazmat.db`
+    * You may recieve a warning that is something like "SAWarning: Dialect sqlite+pysqlite does *not* support Decimal objects natively," but this should not cause any issues.
 1. Create JSON files of specific sets of data with: `python data-processing/questions.py`
 
 ## Development and running locally

@@ -70,7 +70,7 @@ translations = {
 
 # Source files
 layout_path = os.path.join(os.path.dirname(__file__), '../data/layout-cleaned.csv')
-data_path = os.path.join(os.path.dirname(__file__), '../data/original/Minnesota.csv')
+data_path = os.path.join(os.path.dirname(__file__), '../data/original/Pennsylvania.csv')
 
 # Create connection/database.
 db = create_engine(database_connection)
@@ -181,18 +181,26 @@ with open(data_path, 'rU') as csv_data:
     report_row = Report(Rpt_Num=row['Rpt_Num'])
     session.merge(report_row)
 
+    # For some reason there is a blank key (row['']) in
+    # some data
+    if '' in row:
+      del row['']
+
     # Do some conversoins, like convert numbers to floats
     for key in row:
       layout_info = layout.filter_by(name=key).first()
 
-      if row[key] == 'NULL':
-        row[key] = None
-      if layout_info.column_type == 'Numeric' and row[key] is not None:
-        row[key] = float(row[key])
-      elif layout_info.column_type == 'Date' and row[key] is not None:
-        row[key] = dateutil.parser.parse(row[key]).date()
-      elif row[key] is not None:
-        row[key] = unicode(row[key], errors='ignore').strip()
+      try:
+        if row[key] == 'NULL':
+          row[key] = None
+        if layout_info.column_type == 'Numeric' and row[key] is not None:
+          row[key] = float(row[key])
+        elif layout_info.column_type == 'Date' and row[key] is not None:
+          row[key] = dateutil.parser.parse(row[key]).date()
+        elif row[key] is not None:
+          row[key] = unicode(row[key], errors='ignore').strip()
+      except ValueError:
+        print 'ValueError: key: "%s" | row_length: "%s" | row: %s' % (key, len(row), row)
 
     # Handle some translations
     for t in translations:
